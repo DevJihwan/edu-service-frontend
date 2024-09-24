@@ -1,0 +1,1602 @@
+[
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/20 외부] 뮤지엄 나이트 다니엘 아샴전 프라이빗 도슨트 투어",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~20:00",
+    "price": "35,000 원",
+    "date": "2024년 09월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "홍승찬의 클래식이 필요한 순간들",
+    "info": "롯데백화점 잠실",
+    "time": "15:00~17:00",
+    "price": "160,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[9/20] 가을 별자리여행과 천체망원경 관찰탐험 (19년생이상)",
+    "info": "롯데백화점 잠실",
+    "time": "18:30~20:20",
+    "price": "20,000 원",
+    "date": "2024년 09월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[9/21] 아이돌 K-POP 방송 댄스 - 키즈",
+    "info": "롯데백화점 잠실",
+    "time": "17:00~17:50",
+    "price": "10,000 원",
+    "date": "2024년 09월 21일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[9/22] 조물조물 도예, 연필꽂이 만들기 -키즈 (영어 스피킹 수업)",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~12:00",
+    "price": "10,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[9/22] 조물조물 도예, 브런치플레이트 만들기 -키즈 (한글 수업)",
+    "info": "롯데백화점 잠실",
+    "time": "12:30~13:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[9/22] 꼬마 파브르 큰광대노린재 (15~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "17:10~18:00",
+    "price": "15,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[9/22] 꼬마 파브르 방아깨비, 메뚜기, 귀뚜라미 (15~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "16:10~17:00",
+    "price": "15,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "전시모임 커뮤니티 아이아트유",
+    "info": "롯데백화점 잠실",
+    "time": "18:50~21:20",
+    "price": "225,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "햇살아이 오감나무",
+    "info": "롯데백화점 잠실",
+    "time": "14:40~15:40",
+    "price": "108,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "서양미술을 결정적으로 바꾼 8개의 장면들",
+    "info": "롯데백화점 잠실",
+    "time": "16:10~17:30",
+    "price": "160,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/23] 입에서 살살 녹는 피스타치오 티라미수",
+    "info": "롯데백화점 잠실",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/24] 나에게 딱 맞춘 1:1 메이크업",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~12:00",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  소도구를 활용한 필라테스 요가",
+    "info": "롯데백화점 잠실",
+    "time": "20:10~21:00",
+    "price": "101,800 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  근력향상을 위한 필라테스 요가",
+    "info": "롯데백화점 잠실",
+    "time": "19:10~20:00",
+    "price": "101,800 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  쉽게 배우는 스마트폰 기초부터 활용까지 - 초급",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~14:20",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감이야기 플레이 런 베이비 11~19개월",
+    "info": "롯데백화점 잠실",
+    "time": "13:40~14:20",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감이야기 플레이 런 베이비 5~10개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:50~13:30",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감이야기 플레이 런 베이비 9~13개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:00~12:40",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  김혜수의 차밍댄스",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~11:00",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/26] 탕춘대성 역사 트레킹",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~14:30",
+    "price": "20,000 원",
+    "date": "2024년 09월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/26] 손님초대요리 대패삼겹마늘소스딤섬찜, 등갈비강정",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 09월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  클래식이랑 놀자 뮤직아이 12~18개월",
+    "info": "롯데백화점 잠실",
+    "time": "14:50~15:30",
+    "price": "113,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  스케치북 속 나의 첫 여행 드로잉",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~21:00",
+    "price": "120,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  스포츠팡팡 18~26개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:00~12:40",
+    "price": "94,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  스포츠팡팡 15~22개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:10~11:50",
+    "price": "94,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  스포츠팡팡 22~32개월",
+    "info": "롯데백화점 잠실",
+    "time": "10:20~11:00",
+    "price": "94,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[4주]  스타강사 김주연의 가을요리 1차",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~12:30",
+    "price": "40,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "TV만물상 일타강사 김주연의 족집게 가을요리",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~12:30",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[외부 9/28] 민속박물관 전지적 삼국시대 시점 -초등부",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~11:30",
+    "price": "15,000 원",
+    "date": "2024년 09월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/28 외부] 나만의 인생 취미 발견 홍콩 마작 초급",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~14:00",
+    "price": "80,000 원",
+    "date": "2024년 09월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  일요 토리팝! 챔피언 30~40개월",
+    "info": "롯데백화점 잠실",
+    "time": "16:10~16:50",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  일요 토리팝! 챔피언 14~19개월",
+    "info": "롯데백화점 잠실",
+    "time": "14:30~15:10",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수] 임현자의 데생 수채화 교실 B",
+    "info": "롯데백화점 잠실",
+    "time": "12:30~14:30",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수] 임현자의 데생 수채화 교실 A",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~12:30",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수] 일요 줄리스 키즈 영어발레 (19~20년생) 혼자서",
+    "info": "롯데백화점 잠실",
+    "time": "16:40~17:30",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  일요 줄리스 키즈 영어발레(17~19년생) 혼자서",
+    "info": "롯데백화점 잠실",
+    "time": "15:40~16:30",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수] 일요 줄리스 영어발레",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~13:40",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  일요 키리키 영어 놀이터 24~38개월 A",
+    "info": "롯데백화점 잠실",
+    "time": "11:40~12:20",
+    "price": "107,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수] 일요 키리키 영어 놀이터",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~10:40",
+    "price": "107,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  일요 그랑플리에 발레 - 초급",
+    "info": "롯데백화점 잠실",
+    "time": "13:50~14:50",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  꼬마쉐프 일요 쿠킹 클래스 B (18~20년생)",
+    "info": "롯데백화점 잠실",
+    "time": "12:20~13:10",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  다섯손가락 아트피아노 40~54개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:10~11:50",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  다섯손가락 아트피아노 42~66개월",
+    "info": "롯데백화점 잠실",
+    "time": "10:20~11:00",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  이화 YSM 맘앤베이비 발레 26~38개월",
+    "info": "롯데백화점 잠실",
+    "time": "10:10~10:50",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/29]성수동 노틀던과 함께하는 밤모양 파운드케이크 만들기",
+    "info": "롯데백화점 잠실",
+    "time": "15:00~18:00",
+    "price": "50,000 원",
+    "date": "2024년 09월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  월요 토리팝! 챔피언 30~42개월",
+    "info": "롯데백화점 잠실",
+    "time": "17:20~18:00",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  월요 토리팝! 챔피언 20~30개월",
+    "info": "롯데백화점 잠실",
+    "time": "16:30~17:10",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  월요 토리팝! 챔피언 15~23개월",
+    "info": "롯데백화점 잠실",
+    "time": "15:40~16:20",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  월요 토리팝! 챔피언 13~19개월",
+    "info": "롯데백화점 잠실",
+    "time": "14:50~15:30",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감친구 꼬물꼬물 아이쿵 6~10개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:40~13:20",
+    "price": "94,600 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감친구 꼬물꼬물 아이쿵 8~13개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:50~12:30",
+    "price": "94,600 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감친구 꼬물꼬물 아이쿵 15~28개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~11:40",
+    "price": "94,600 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/30] 이원율 기자의 너무 아름다워 섬찟한 그림의 비밀",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~20:30",
+    "price": "20,000 원",
+    "date": "2024년 09월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/30] 달항아리 오리엔탈 스타일",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~20:20",
+    "price": "10,000 원",
+    "date": "2024년 09월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[9/30] 초식마녀&ORGA 함께하는 채식 속 건강이야기와 추천 레시피",
+    "info": "롯데백화점 잠실",
+    "time": "14:00~16:00",
+    "price": "25,000 원",
+    "date": "2024년 09월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[10/1] 롯데갤러리 갈리나먼로 전시연계 플라워 클래스",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~14:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[10/1] 롯데갤러리 갈리나먼로 전시연계 플라워 클래스",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~11:50",
+    "price": "10,000 원",
+    "date": "2024년 10월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  초보자를 위한 영국스타일 플라워과정",
+    "info": "롯데백화점 잠실",
+    "time": "11:30~12:30",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  태교에 도움이 되는 예쁜 꽃 테라피",
+    "info": "롯데백화점 잠실",
+    "time": "10:20~11:20",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  유럽감성 스타일링 플라워",
+    "info": "롯데백화점 잠실",
+    "time": "10:20~11:20",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  통합놀이 베이비붐 5~8개월",
+    "info": "롯데백화점 잠실",
+    "time": "13:50~14:30",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  통합놀이 베이비붐 8~12개월",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~13:40",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  통합놀이 베이비붐 10~17개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:10~12:50",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  통합놀이 베이비붐 6~9개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:20~12:00",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  통합놀이 베이비붐 15~21개월",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~11:00",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  사실적으로 표현하는 인물화 B",
+    "info": "롯데백화점 잠실",
+    "time": "14:00~17:00",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  사실적으로 표현하는 인물화 A",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~13:00",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  아름다운 전통매듭 배우기",
+    "info": "롯데백화점 잠실",
+    "time": "13:10~14:40",
+    "price": "66,900 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  프리미엄 더리햅 자세 교정 재활운동과 스트레칭",
+    "info": "롯데백화점 잠실",
+    "time": "16:50~17:40",
+    "price": "240,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  조혜정의 럭셔리 노래교실",
+    "info": "롯데백화점 잠실",
+    "time": "11:40~12:40",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  점핑베이비 정서오감놀이 9~13개월",
+    "info": "롯데백화점 잠실",
+    "time": "15:50~16:30",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  점핑베이비 정서오감놀이 5~9개월",
+    "info": "롯데백화점 잠실",
+    "time": "15:00~15:40",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  자연클래스 리틀포레 19년생 이상",
+    "info": "롯데백화점 잠실",
+    "time": "17:20~18:00",
+    "price": "120,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  도심 속 힐링 다이나믹 요가 테라피",
+    "info": "롯데백화점 잠실",
+    "time": "15:40~16:30",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  업그레이드 유리드믹스5 17~28개월",
+    "info": "롯데백화점 잠실",
+    "time": "15:50~16:30",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  업그레이드 유리드믹스3 12~17개월 A",
+    "info": "롯데백화점 잠실",
+    "time": "14:10~14:50",
+    "price": "100,400 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감성장 아기다람쥐 오로로 5~10개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:50~13:30",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감성장 아기다람쥐 오로로 7~12개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:00~12:40",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감성장 아기다람쥐 오로로 11~16개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:10~11:50",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  알고 싶은 서양미술의 세계: 독일 미술관 기행",
+    "info": "롯데백화점 잠실",
+    "time": "12:15~13:35",
+    "price": "113,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  기초드로잉과 어반스케치-중급",
+    "info": "롯데백화점 잠실",
+    "time": "14:40~16:40",
+    "price": "106,200 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  기초드로잉과 어반스케치-초급",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~14:30",
+    "price": "106,200 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  도심 속 힐링 다이나믹 요가 테라피",
+    "info": "롯데백화점 잠실",
+    "time": "14:40~15:30",
+    "price": "86,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감성장 아기다람쥐 오로로 14~20개월",
+    "info": "롯데백화점 잠실",
+    "time": "10:20~11:00",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  실로 만든 기적 태팅레이스",
+    "info": "롯데백화점 잠실",
+    "time": "17:00~18:30",
+    "price": "65,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  실로 만든 기적 태팅레이스",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~20:30",
+    "price": "65,500 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  남인경의 명품노래 클리닉",
+    "info": "롯데백화점 잠실",
+    "time": "17:30~18:30",
+    "price": "93,100 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[10/2 외부] 달리기의 계절 가을에 달리는 시티런",
+    "info": "롯데백화점 잠실",
+    "time": "19:30~21:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[외부 10/2] 성북동 문화탐방",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~12:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  금요 레고 창작교실 크리에이터 (20~21년생)",
+    "info": "롯데백화점 잠실",
+    "time": "16:40~17:30",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  삶이 즐거워지는 스텝, 파워라인댄스",
+    "info": "롯데백화점 잠실",
+    "time": "14:40~15:40",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  허연미의 교양 UP 영어 - 중급 A",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~11:20",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  허연미의 아메리칸 잉글리쉬 파일 - 중급 B",
+    "info": "롯데백화점 잠실",
+    "time": "11:30~12:50",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  체계적인 통기타 A",
+    "info": "롯데백화점 잠실",
+    "time": "18:30~19:20",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  체계적인 통기타 B",
+    "info": "롯데백화점 잠실",
+    "time": "19:30~20:20",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  바른자세를 위한 SNPE 요가",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~11:20",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  마음을 움직이는 포토테라피",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~11:00",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  이민종 기초소묘 데생과 스케치",
+    "info": "롯데백화점 잠실",
+    "time": "13:30~16:00",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  금요 파이널 글렌도만 영재교실 30~42개월",
+    "info": "롯데백화점 잠실",
+    "time": "15:40~16:20",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  금요 글렌도만 영재교실 16~24개월",
+    "info": "롯데백화점 잠실",
+    "time": "14:00~14:40",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  금요 글렌도만 영재교실 24~32개월",
+    "info": "롯데백화점 잠실",
+    "time": "14:50~15:30",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  재미플러스 오감톡 5~11개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:50~13:30",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  재미플러스 오감톡 8~15개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:00~12:40",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  임종현 기초부터 작품까지, 한문서예 A",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~12:20",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  임종현 기초부터 작품까지, 한문서예 B",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~14:20",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  금요 레고 창작교실 심플머신 (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "17:40~18:30",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  신나고 열정적인 다이어트 줌바댄스",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~20:00",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  주니토니 발레스타 (40개월~20년생)",
+    "info": "롯데백화점 잠실",
+    "time": "16:50~17:30",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  주니토니 뮤지컬발레 (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "17:40~18:20",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감발달 팡팡플레이 12~20개월",
+    "info": "롯데백화점 잠실",
+    "time": "15:40~16:20",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감발달 팡팡플레이 5~11개월",
+    "info": "롯데백화점 잠실",
+    "time": "14:50~15:30",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  창의력을 길러주는 유아미술 (19~20년생) B",
+    "info": "롯데백화점 잠실",
+    "time": "13:20~14:00",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  교과과정을 위한 초등미술 (15~17년생)",
+    "info": "롯데백화점 잠실",
+    "time": "14:10~15:00",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  창의력을 길러주는 유아미술 (19~20년생) A",
+    "info": "롯데백화점 잠실",
+    "time": "12:30~13:10",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  토요 트니트니 36~45개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:40~12:20",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  건강한 하루를 위한 해피해피 힐링요가",
+    "info": "롯데백화점 잠실",
+    "time": "11:30~13:00",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  토요 키리키 영어 놀이터 (18~19년생) 혼자서",
+    "info": "롯데백화점 잠실",
+    "time": "13:40~14:20",
+    "price": "107,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  토요 키리키 영어 놀이터 37~60개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:50~13:30",
+    "price": "107,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  이상태의 문인화와 사군자",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~12:00",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  창의력 쑥쑥! 종이나라 자격증반- 초등부",
+    "info": "롯데백화점 잠실",
+    "time": "12:30~13:25",
+    "price": "67,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  창의력 쑥쑥! 종이나라 (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "11:30~12:20",
+    "price": "67,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  EQ가 자라는 클레이 아트 (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "10:10~11:00",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  토요 아름다운 몸매를 위한 필라테스 요가",
+    "info": "롯데백화점 잠실",
+    "time": "10:10~11:10",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  두뇌쏙쏙 주산 암산 (15~19년생) B",
+    "info": "롯데백화점 잠실",
+    "time": "16:10~17:00",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  나의 첫 글쓰기 (18~20년생)",
+    "info": "롯데백화점 잠실",
+    "time": "16:20~17:00",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  씽 동요 Sing Nori B (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "15:50~16:40",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수] Autumn Festival! 과학 놀이터 (15~17년생)",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~11:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수] Autumn Festival! 과학 놀이터 (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~10:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  창의력 향상 보드게임 (초등부)",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~11:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  깨비깨비 오감뚝딱 5~9개월",
+    "info": "롯데백화점 잠실",
+    "time": "12:40~13:20",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  롤에듀 블럭동화 교실 B (19~20년생)",
+    "info": "롯데백화점 잠실",
+    "time": "15:40~16:30",
+    "price": "73,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  롤에듀 블럭동화 교실 A (18~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "14:40~15:30",
+    "price": "73,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[4주]  세계요리를 내 식탁으로 뚝딱 B <인도&중동>",
+    "info": "롯데백화점 잠실",
+    "time": "13:30~15:30",
+    "price": "40,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[4주]  한식으로 완성되는 다채로운 계절 밥상 B",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~12:30",
+    "price": "40,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[10/5] 아이돌 K-POP 방송 댄스 - 키즈",
+    "info": "롯데백화점 잠실",
+    "time": "17:00~17:50",
+    "price": "10,000 원",
+    "date": "2024년 10월 05일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  선율이 아름다운 바이올린",
+    "info": "롯데백화점 잠실",
+    "time": "10:40~11:40",
+    "price": "106,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  회화 감각 키우는 영어회화 - 중급",
+    "info": "롯데백화점 잠실",
+    "time": "16:00~16:50",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  회화 감각 키우는 영어회화 - 초급",
+    "info": "롯데백화점 잠실",
+    "time": "15:00~15:50",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  두뇌 스포츠의 왕, 체스 (14~18년생) B",
+    "info": "롯데백화점 잠실",
+    "time": "12:00~12:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수]  두뇌 스포츠의 왕, 체스 (14~18년생) A",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~11:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[중간접수] 집중력 창의력이 자라는 키즈 바둑 (14~18년생)",
+    "info": "롯데백화점 잠실",
+    "time": "10:00~10:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[4주]  책과 함께하는 만만한 글쓰기 (17~19년생)",
+    "info": "롯데백화점 잠실",
+    "time": "13:30~14:20",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[10/6] 뜨리아농플라워, 데이비드 호크니의 가을나무 (19~21년생)",
+    "info": "롯데백화점 잠실",
+    "time": "12:10~13:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "songpa",
+    "title": "[10/6] 뜨리아농플라워, 데이비드 호크니의 가을나무 (15~18년생)",
+    "info": "롯데백화점 잠실",
+    "time": "11:00~11:50",
+    "price": "10,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "투명하고 힙한 트렌드 메이크업",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~11:50",
+    "price": "50,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  기초부터 고급까지 펜으로 그리는 여행스케치 B",
+    "info": "롯데백화점 잠실",
+    "time": "17:00~18:30",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  기초부터 고급까지 펜으로 그리는 여행스케치 A",
+    "info": "롯데백화점 잠실",
+    "time": "15:20~16:50",
+    "price": "86,700 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  그랑플리에 발레 - 초급 B",
+    "info": "롯데백화점 잠실",
+    "time": "20:20~21:20",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  그랑플리에 발레 - 초급 A",
+    "info": "롯데백화점 잠실",
+    "time": "19:10~20:10",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  스페인어 프리토킹 초보반(진도반)",
+    "info": "롯데백화점 잠실",
+    "time": "19:10~20:10",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  스페인어 프리토킹 진도반",
+    "info": "롯데백화점 잠실",
+    "time": "18:00~19:00",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  김소정의 소묘 유화&기법B",
+    "info": "롯데백화점 잠실",
+    "time": "19:00~20:30",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  김소정의 소묘 유화&기법A",
+    "info": "롯데백화점 잠실",
+    "time": "17:00~18:30",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감자극 춤추는달팽이 5~9개월B",
+    "info": "롯데백화점 잠실",
+    "time": "13:50~14:30",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감자극 춤추는달팽이 7~12개월",
+    "info": "롯데백화점 잠실",
+    "time": "13:00~13:40",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감자극 춤추는달팽이 5~9개월A",
+    "info": "롯데백화점 잠실",
+    "time": "12:10~12:50",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감자극 춤추는달팽이 10~14개월",
+    "info": "롯데백화점 잠실",
+    "time": "11:20~12:00",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "songpa",
+    "title": "[중간접수]  오감자극 춤추는달팽이 14~24개월",
+    "info": "롯데백화점 잠실",
+    "time": "10:30~11:10",
+    "price": "93,300 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "songpa",
+    "title": "[중간접수]  월요 권혜련의 아름다운 성악교실 B",
+    "info": "롯데백화점 잠실",
+    "time": "11:30~12:50",
+    "price": "100,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  }
+]

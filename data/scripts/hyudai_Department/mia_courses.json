@@ -1,0 +1,4222 @@
+[
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "소예 K-POP 방송댄스(만4-6세)",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신체놀이터 울랄라점프(20-30개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "15:50-16:30",
+    "price": "128,300 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감인지놀이터 옹알종알(4-8개월)",
+    "info": "현대백화점_미아점",
+    "time": "13:10-13:50",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "수요 유니콘 트니트니(20-30개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "10:50-11:30",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 퀴니쿠니 원어민 영어놀이터(24-36개월)/10회",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "200,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "SNPE 바른자세 척추운동(대여비별도)/목",
+    "info": "현대백화점_미아점",
+    "time": "19:30-21:00",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃그림,보태니컬아트&풍경스케치/목/11회",
+    "info": "현대백화점_미아점",
+    "time": "14:00-16:00",
+    "price": "137,500 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 바이올린(정원3명)/18시",
+    "info": "현대백화점_미아점",
+    "time": "18:00-19:00",
+    "price": "250,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 바이올린(정원3명)/19시",
+    "info": "현대백화점_미아점",
+    "time": "19:00-20:00",
+    "price": "250,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "장세리의 목요 첼로(정원4명)/17시50분",
+    "info": "현대백화점_미아점",
+    "time": "17:50-18:50",
+    "price": "250,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 1:1 드럼교실(18시)/10회",
+    "info": "현대백화점_미아점",
+    "time": "18:00-18:20",
+    "price": "220,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.09(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 키리키 영어놀이터(40-59개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "10:50-11:30",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 클라리넷(정원4명)/14시40분/개강일변경",
+    "info": "현대백화점_미아점",
+    "time": "14:40-15:40",
+    "price": "230,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "쿠키소확행] 리본고양이 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "15,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "북촌 어둠속의대화 10.2(수) 13:45(입장권포함)",
+    "info": "현대백화점_미아점",
+    "time": "13:45-15:25",
+    "price": "33,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "북촌 어둠속의대화 10.2(수) 14:00(입장권포함)",
+    "info": "현대백화점_미아점",
+    "time": "14:00-15:40",
+    "price": "33,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/10.5개강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:50",
+    "price": "70,000 원",
+    "date": "2024.10.05(토) ~ 2024.10.26(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "Lady 댄스스포츠 / 11회",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:00",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나를 알면 길이 보인다_사주명리학(중급)/수강료변경",
+    "info": "현대백화점_미아점",
+    "time": "10:50-11:50",
+    "price": "160,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나를 알면 길이 보인다_사주명리학(초급)",
+    "info": "현대백화점_미아점",
+    "time": "12:00-13:00",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "마에다미유끼의 쉬운 일본어 반/11회",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:30",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "마에다미유끼의 쉬운 프리토킹 반/11회",
+    "info": "현대백화점_미아점",
+    "time": "13:40-15:00",
+    "price": "150,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "마에다미유끼의 일본어 첫 걸음/11회",
+    "info": "현대백화점_미아점",
+    "time": "15:10-16:00",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "마음을 읽는 신묘한 타로 카드 배우기(이론반)",
+    "info": "현대백화점_미아점",
+    "time": "13:10-14:10",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신체놀이터 울랄라점프(13-19개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "14:10-14:50",
+    "price": "128,300 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신체놀이터 울랄라점프(15-24개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:40",
+    "price": "128,300 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신체놀이터 울랄라점프(27-36개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "16:40-17:20",
+    "price": "128,300 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄지희의 4:1 감성 플룻/17시/11회",
+    "info": "현대백화점_미아점",
+    "time": "17:00-18:00",
+    "price": "200,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감인지놀이터 옹알종알(8-11개월)",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:00",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "이영나의 어반스케치(재료비별도) 10.8휴강/11회",
+    "info": "현대백화점_미아점",
+    "time": "13:30-15:00",
+    "price": "137,500 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "이영나의 유화&아크릴화(재료비별도)/11회/10.8휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:30-12:30",
+    "price": "165,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "이재무의 시와 산문-수필 창작이란 무엇인가/화",
+    "info": "현대백화점_미아점",
+    "time": "10:00-12:00",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "차이나는 즐거움 대교 오감올리(24-36개월)",
+    "info": "현대백화점_미아점",
+    "time": "17:00-17:40",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "차이나는 즐거움 대교 오감올리(6-11개월)",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:10",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "차이나는 즐거움 대교 오감올리(9-15개월)",
+    "info": "현대백화점_미아점",
+    "time": "15:20-16:00",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "화요 키리키 영어놀이터(26-45개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "160,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "화요 키리키 영어놀이터(40-59개월) 11회",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "160,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "Sue의 쉬운 생활영어/수/10회",
+    "info": "현대백화점_미아점",
+    "time": "12:10-13:00",
+    "price": "130,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "Sue의 쉬운 여행영어/수/10회",
+    "info": "현대백화점_미아점",
+    "time": "11:10-12:00",
+    "price": "130,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃그림 보태니컬아트와 연필스케치/10회",
+    "info": "현대백화점_미아점",
+    "time": "19:00-20:50",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃그림 보태니컬아트와 연필스케치/10회",
+    "info": "현대백화점_미아점",
+    "time": "14:30-16:20",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "놀이친구 노리야(16-24개월)/10회",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:40",
+    "price": "110,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "놀이친구 노리야(6-10개월)/10회",
+    "info": "현대백화점_미아점",
+    "time": "12:40-13:20",
+    "price": "110,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "생활영어회화 줌마영어 스몰톡/9.25휴강/횟수변경/10회",
+    "info": "현대백화점_미아점",
+    "time": "10:10-11:00",
+    "price": "125,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "수요 유니콘 트니트니(15-24개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "13:20-14:00",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "수요 유니콘 트니트니(15-24개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "수요 유니콘 트니트니(15-24개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "수요 유니콘 트니트니(25-35개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:10",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "수요 주니토니발레(만4,5세/아이혼자)/11회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:10",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "수채화로 그리는 꽃그림(기초)/10회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-18:20",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "쉬운 색연필일러스트 디자인 11회",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "137,500 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "신기한 과학교실(만5,6세)/10회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "100,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신기한 과학교실(만7-9세)/10회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "악기와 소품활용 뮤직서클(12-24개월)10회",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:00",
+    "price": "110,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "악기와 소품활용 뮤직서클(24-40개월)10회",
+    "info": "현대백화점_미아점",
+    "time": "14:50-15:30",
+    "price": "110,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "악기와 소품활용 뮤직서클(4-12개월)10회",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:40",
+    "price": "110,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 수요 주니토니발레(33-48개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "15:40-16:20",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 퀴니쿠니 원어민 영어놀이터(만3,4세)/10회",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "200,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감놀이 반짝반짝 똘망이(4-9개월)11회",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:10",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감놀이 반짝반짝 똘망이(5-12개월)11회",
+    "info": "현대백화점_미아점",
+    "time": "16:10-16:50",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감놀이 반짝반짝 똘망이(6-11개월)11회",
+    "info": "현대백화점_미아점",
+    "time": "15:20-16:00",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "올드팝 & 영화OST 노래교실 /수/11회",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:50",
+    "price": "140,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "정진향의 파워 노래 교실 1회 / 9.4",
+    "info": "현대백화점_미아점",
+    "time": "13:40-14:40",
+    "price": "11,000 원",
+    "date": "2024.09.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "정진향의 파워 노래 교실/수/11회",
+    "info": "현대백화점_미아점",
+    "time": "13:40-14:40",
+    "price": "121,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "퀴니쿠니 원어민 영어놀이터(만5,6세/아이혼자)/10회",
+    "info": "현대백화점_미아점",
+    "time": "17:40-18:20",
+    "price": "200,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "구지윤과 노블레스 빅쇼 노래교실/목/11회/10.3휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:10-15:10",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "니시무라의 소설 일어 회화(중고급)/11회",
+    "info": "현대백화점_미아점",
+    "time": "13:50-15:00",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "니시무라의 초급 일본어/11회",
+    "info": "현대백화점_미아점",
+    "time": "15:10-16:10",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 글렌도만 영재교실(12-20개월)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 글렌도만 영재교실(21-32개월)",
+    "info": "현대백화점_미아점",
+    "time": "10:40-11:20",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 글렌도만 영재교실(6-12개월)",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:00",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 낙타 트니트니(12-19개월)",
+    "info": "현대백화점_미아점",
+    "time": "13:20-14:00",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 낙타 트니트니(15-24개월)",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:40",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 낙타 트니트니(20-30개월)",
+    "info": "현대백화점_미아점",
+    "time": "15:50-16:30",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 동화촉감놀이 당나귀똥(12-17개월)",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "솔로 라틴댄스&활력 차밍댄스/11회",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:30",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "쉽게 즐기는 민 라인댄스(초급)",
+    "info": "현대백화점_미아점",
+    "time": "10:00-11:00",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "쉽게 즐기는 민 라인댄스(초중급)",
+    "info": "현대백화점_미아점",
+    "time": "11:10-12:10",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "심전 유은순의 한문서예(재료비별도)",
+    "info": "현대백화점_미아점",
+    "time": "10:30-12:00",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감자극 춤추는 달팽이(12-22개월)",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감자극 춤추는 달팽이(5-9개월)",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:00",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감자극 춤추는 달팽이(8-12개월)",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "왕초보 연필 인물화&풍경스케치",
+    "info": "현대백화점_미아점",
+    "time": "10:20-12:30",
+    "price": "150,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일상을 그리다, 어반스케치/11회/9.12휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:30",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.6 행복한 아기씨앗(12-18개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "13,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.6 행복한 아기씨앗(15-26개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "13,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.6 행복한 아기씨앗(4-11개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "13,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "근력향상 필라테스 요가 /금/11회",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:00",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.15(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "금요 아미고 공주발레(만4-6세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "17:20-18:00",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "김정환의 실용기타교실 고급반/금",
+    "info": "현대백화점_미아점",
+    "time": "11:50-13:10",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "김정환의 실용기타교실 중급반/금",
+    "info": "현대백화점_미아점",
+    "time": "10:50-11:50",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "김정환의 실용기타교실 초급반/금",
+    "info": "현대백화점_미아점",
+    "time": "09:50-10:50",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "내 손으로 그리는 모던민화(오후반)/10회",
+    "info": "현대백화점_미아점",
+    "time": "12:10-14:10",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "내손으로 그리는 모던 민화(오전반)/10회",
+    "info": "현대백화점_미아점",
+    "time": "10:00-12:00",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "미술과 요리 미요랜드(18-28개월)재료비포함/11회",
+    "info": "현대백화점_미아점",
+    "time": "15:20-16:00",
+    "price": "172,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.15(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "미술과 요리 미요랜드(24-34개월)재료비포함/11회",
+    "info": "현대백화점_미아점",
+    "time": "16:10-16:50",
+    "price": "172,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.15(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "미술과 요리 미요랜드(32-42개월)재료비포함/11회",
+    "info": "현대백화점_미아점",
+    "time": "17:00-17:40",
+    "price": "172,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.15(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "어반스케치&보태니컬아트 꽃그림/금",
+    "info": "현대백화점_미아점",
+    "time": "10:30-12:30",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 빙그르르 티니핑 발레(30-48개월)",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:10",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "연주하는 아기새(10-16개월)/11회/10.4휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "110,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "연주하는 아기새(10-16개월)/1회/9.6",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "14,500 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "연주하는 아기새(6-12개월)/11회/10.4휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:00",
+    "price": "110,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감톡톡 감성놀이 베베스타(10-15개월)",
+    "info": "현대백화점_미아점",
+    "time": "14:40-15:20",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감톡톡 감성놀이 베베스타(6-10개월)",
+    "info": "현대백화점_미아점",
+    "time": "13:50-14:30",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "정숙의 트롯 발라드 노래교실 /금 /시간변경",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:20",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "정숙의 트롯 발라드 노래교실 1회 / 9.6 /시간변경",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:20",
+    "price": "10,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "취미미술(기존) 10회/9.13,10.25,11.8 휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:30-15:30",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.29(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "취미미술(신규반) 10회/9.13,10.25,11.8휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:50-17:50",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.29(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "하이테크 과학실험(만4세/재료비포함)4회/9.6개강",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "80,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "하이테크 과학실험(만5,6세/재료비포함)4회/9.6개강",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "80,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "행복한 아기씨앗(12-18개월)",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "130,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "행복한 아기씨앗(15-26개월)",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "130,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "행복한 아기씨앗(4-11개월)합반",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "130,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "EQ향상 종이접기(만6-12세)",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:50",
+    "price": "100,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "뇌발달체조와힐링마사지(2-8개월/보호자2인참여)6회/1차",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:40",
+    "price": "120,000 원",
+    "date": "2024.09.07(토) ~ 2024.10.12(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/9.7개강",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:50",
+    "price": "70,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "어린이 영어뮤지컬(만4-6세)/강사변경/교재비별도",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "어린이 영어뮤지컬(만5-7세)/강사변경/교재비별도",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:50",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "원어민 키즈 잉글리쉬(만4-6세/아이혼자)/9.14휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:40-11:30",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "임산부요가(부부가 함께하는 영재 태교요가/1차/2인참여)",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.10.12(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "차이나는 즐거움 대교 오감올리(6-11개월)/10.5휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:10",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "차이나는 즐거움 대교 오감올리(9-15개월)/10.5휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "차이나는 즐거움 대교오감올리(15-24개월)/10.5휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:50-11:30",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "키 쑥쑥 음악줄넘기와 급수 도전(만6-8세)",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토K-POP방송댄스(만7-12세)10회/9.14휴강/합반",
+    "info": "현대백화점_미아점",
+    "time": "18:30-19:20",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 K-POP 방송댄스(만7-9세) 1회/9.7",
+    "info": "현대백화점_미아점",
+    "time": "18:30-19:20",
+    "price": "9,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 기타&우쿨렐레&칼림바&리코더(악기택1)/10회",
+    "info": "현대백화점_미아점",
+    "time": "19:00-19:40",
+    "price": "200,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.09(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 바이올린(정원8명) 16:30 /11회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:30",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 바이올린(정원8명) 17:30 /11회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:30",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(25-35개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨트니트니(20-30개월)9.28휴강/개월수변경",
+    "info": "현대백화점_미아점",
+    "time": "13:30-14:10",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "토요 주니토니 발레스타(만3,4세)",
+    "info": "현대백화점_미아점",
+    "time": "13:40-14:20",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 키리키 영어놀이터(26-45개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "토요주니토니 발레(만4-6세)",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:10",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 미술 아트팝(만3,4세/보호자동반/재료비포함)",
+    "info": "현대백화점_미아점",
+    "time": "13:10-13:50",
+    "price": "168,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 아트팝(15-23개월/보호자동반/재료비포함)",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "168,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 아트팝(15-23개월/재료비포함)/1회/9.7",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "14,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.8 트리케라톱스 공룡 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(16-23개월)/1회/9.8",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "13,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(5-9개월)/1회/9.8",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "13,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]시나모롱 색연필통 만들기(만4-9세)9.8",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.10 옹알종알-미역촉감놀이(7-13개월)재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:40",
+    "price": "15,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "두피 강화 천연샴푸와 헤어미스트 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:40",
+    "price": "40,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "스마트폰으로 쉽고 재밌는 숏폼 영상만들기(실습포함)/1회",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:30",
+    "price": "30,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-그린베이스 꽃다발 / 9.11",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.12 놀이영어 맘잉(18-36개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.12 놀이영어 맘잉(24-48개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-키친테이블 플라워센터피스/9.12",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "목요 아미고 공주발레(만3-5세/아이혼자)개강변경/11회",
+    "info": "현대백화점_미아점",
+    "time": "17:10-17:50",
+    "price": "110,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 목요 아미고발레(28-48개월)개강변경/11회",
+    "info": "현대백화점_미아점",
+    "time": "16:20-17:00",
+    "price": "119,100 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.13 행복한 아기씨앗(12-18개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "13,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.13 행복한 아기씨앗(15-26개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "13,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.13 행복한 아기씨앗(4-11개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "13,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃그림&연필 풍경스케치/11회/9.13개강/개강일변경",
+    "info": "현대백화점_미아점",
+    "time": "14:00-15:40",
+    "price": "137,500 원",
+    "date": "2024.09.13(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "연주하는 아기새(10-16개월)/1회/9.13",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "14,500 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀-추석 지점토 화과자(만5-7세)재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "20,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 아트팝(15-23개월/재료비포함)/1회/9.14",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "14,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(16-23개월)/1회/9.15",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "13,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(5-9개월)/1회/9.15",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "13,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]오리와 호수 만들기(만4-9세)9.15",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.19 놀이영어 맘잉(18-36개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.19 놀이영어 맘잉(24-48개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-러스틱 플라워 도어백/9.19",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.20 행복한 아기씨앗(12-18개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "13,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.20 행복한 아기씨앗(15-26개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "13,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.20 행복한 아기씨앗(4-11개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "13,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "연주하는 아기새(10-16개월)/1회/9.20",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "14,500 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 아트팝(15-23개월/재료비포함)/1회/9.21",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "14,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.22 아기상어 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "교구인지 몬테소리(15-29개월)/9.22개강/개강일변경",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:40",
+    "price": "200,000 원",
+    "date": "2024.09.22(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "교구인지 몬테소리(7-14개월)/9.22개강/개강일변경",
+    "info": "현대백화점_미아점",
+    "time": "11:50-12:30",
+    "price": "200,000 원",
+    "date": "2024.09.22(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(16-23개월)/1회/9.22",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "13,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(5-9개월)/1회/9.22",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "13,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]과일 케이크 만들기(만4-9세)9.22",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.23 햇살아이 오감나무 - 쌀(4-10개월) 1회",
+    "info": "현대백화점_미아점",
+    "time": "12:10-12:50",
+    "price": "15,500 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.23 햇살아이 오감나무 - 쌀(6-12개월) 1회",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "15,500 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.23 햇살아이 오감나무 - 쌀(9-15개월) 1회",
+    "info": "현대백화점_미아점",
+    "time": "10:30-11:10",
+    "price": "15,500 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "라벤더꽃 수놓아 손수건 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "28,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.24 옹알종알-두부촉감놀이(7-13개월)재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:40",
+    "price": "15,000 원",
+    "date": "2024.09.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오렌지가넷과 피치문스톤으로 목걸이만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:20",
+    "price": "50,000 원",
+    "date": "2024.09.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-동양꽃꽂이 이케바나 / 9.25",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.09.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.26 놀이영어 맘잉(18-36개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.09.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.26 놀이영어 맘잉(24-48개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.09.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-가든 플라워 꽃다발/9.26",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.09.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.27 행복한 아기씨앗(12-18개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "13,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.27 행복한 아기씨앗(15-26개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "16:50-17:30",
+    "price": "13,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.27 행복한 아기씨앗(4-11개월)/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "13,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "연주하는 아기새(10-16개월)/1회/9.27",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "14,500 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 아트팝(15-23개월/재료비포함)/1회/9.28",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "14,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "9.29 귀여운 고양이 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "28,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.29 귀여운 고양이 쿠키 (만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(10-15개월)8회/재료비별도",
+    "info": "현대백화점_미아점",
+    "time": "10:50-11:30",
+    "price": "90,000 원",
+    "date": "2024.09.29(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(16-23개월)8회/재료비별도",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "90,000 원",
+    "date": "2024.09.29(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(5-9개월)8회/재료비별도",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "90,000 원",
+    "date": "2024.09.29(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "조물조물칼라점토(만3-6세/재료비별도)4회/9.29개강",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:20",
+    "price": "45,000 원",
+    "date": "2024.09.29(일) ~ 2024.10.20(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]나무 팽이 꾸미기(만4-9세)9.29",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.30 햇살아이 오감나무 - 결명자(4-10개월) 1회",
+    "info": "현대백화점_미아점",
+    "time": "12:10-12:50",
+    "price": "15,500 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.30 햇살아이 오감나무 - 결명자(6-12개월) 1회",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "15,500 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.30 햇살아이 오감나무 - 결명자(9-15개월) 1회",
+    "info": "현대백화점_미아점",
+    "time": "10:30-11:10",
+    "price": "15,500 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃 수 놓아 카드지갑 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "39,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "가넷, 오렌지가넷, 피치문스톤으로 팔찌 2세트 만들기",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:20",
+    "price": "70,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-풍성한 가을 플라워바스켓 / 10.2",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "개천절] 바다탐험 돌고래 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "12:40-13:40",
+    "price": "28,000 원",
+    "date": "2024.10.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "개천절] 시나모오롤 캐릭터 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:20",
+    "price": "28,000 원",
+    "date": "2024.10.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "개천절] 아기상어 케이크(만4세이상/보호자1인 동반)",
+    "info": "현대백화점_미아점",
+    "time": "11:10-12:00",
+    "price": "33,000 원",
+    "date": "2024.10.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "개천절]시나모오롤 캐릭터 문패만들기(만5세이상/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "12:50-13:30",
+    "price": "15,000 원",
+    "date": "2024.10.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "개천절목공]아빠랑 요정캐릭터 보물상자만들기(만4세이상)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "34,000 원",
+    "date": "2024.10.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "깨비깨비 오감뚝딱!(4-8개월/보호자2인참여)/4회/2차",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:40",
+    "price": "60,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "깨비깨비 오감뚝딱!(5-11개월/보호자2인참여)4회/2차",
+    "info": "현대백화점_미아점",
+    "time": "11:50-12:30",
+    "price": "60,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "하이테크 과학실험(만4세/재료비포함)4회/10.4개강",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "80,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "하이테크 과학실험(만5,6세/재료비포함)4회/10.4개강",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "80,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "롤에듀 블럭동화 교실(만4,5세/대여비별도)/8회",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "74,000 원",
+    "date": "2024.10.05(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "롤에듀 블럭동화 교실(만5,6세/대여비별도)/8회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "74,000 원",
+    "date": "2024.10.05(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/10.5개강",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:50",
+    "price": "70,000 원",
+    "date": "2024.10.05(토) ~ 2024.10.26(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/10.5개강",
+    "info": "현대백화점_미아점",
+    "time": "13:00-13:50",
+    "price": "70,000 원",
+    "date": "2024.10.05(토) ~ 2024.10.26(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀-다람쥐와 피땅콩 그리기(만5-7세)재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "20,000 원",
+    "date": "2024.10.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.6 아몬드품은 곰돌이 쿠키 (만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.10.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]경찰차 만들기(만4-9세)10.6",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.10.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "린넨 미니 가방에 수 놓기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "39,000 원",
+    "date": "2024.10.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오감인지놀이터 옹알종알(7-13개월) 8회/10.8개강",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:40",
+    "price": "80,000 원",
+    "date": "2024.10.08(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(18-26개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "15:40-16:20",
+    "price": "90,000 원",
+    "date": "2024.10.08(화) ~ 2024.10.29(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(24-32개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:10",
+    "price": "90,000 원",
+    "date": "2024.10.08(화) ~ 2024.10.29(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(30-40개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "17:20-18:00",
+    "price": "90,000 원",
+    "date": "2024.10.08(화) ~ 2024.10.29(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "아이꿍 공룡탐험(36-48개월/2인1팀)주제변경",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:00",
+    "price": "15,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "아이꿍 공룡탐험(36-48개월/2인1팀)주제변경",
+    "info": "현대백화점_미아점",
+    "time": "12:10-13:10",
+    "price": "15,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아이꿍 공룡탐험(만4-5세/아이혼자)주제변경",
+    "info": "현대백화점_미아점",
+    "time": "13:20-14:20",
+    "price": "15,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아이꿍 공룡탐험(만5-7세/아이혼자)주제변경",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:30",
+    "price": "15,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "한글날] 달콤 오레오 케이크(만4세이상/보호자1인 동반)",
+    "info": "현대백화점_미아점",
+    "time": "11:10-12:00",
+    "price": "33,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "한글날] 진저브레드 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:20",
+    "price": "28,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "한글날] 티라노 공룡 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "12:40-13:40",
+    "price": "28,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "한글날]아빠랑 노란 포켓 캐릭터 필통만들기(만4세이상)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "34,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "한글날]프테라노돈 공룡자동차만들기(만5세이상/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "12:50-13:30",
+    "price": "15,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.10 놀이영어 맘잉(18-36개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.10.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.10 놀이영어 맘잉(24-48개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.10.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10월 놀이영어 맘잉(18-36개월/엄마랑):일상/4회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "140,000 원",
+    "date": "2024.10.10(목) ~ 2024.10.31(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10월 놀이영어맘잉(24개월-48개월/엄마랑):일상/4회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "140,000 원",
+    "date": "2024.10.10(목) ~ 2024.10.31(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-컨트리사이드 플라워베이스/10.10",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.10.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "임산부 필라테스 요가(16주 이상)/6회/10.11개강",
+    "info": "현대백화점_미아점",
+    "time": "12:10-13:00",
+    "price": "82,000 원",
+    "date": "2024.10.11(금) ~ 2024.11.15(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.13 리본토끼 캐릭터 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]공룡 만들기(만4-9세)10.13",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "쿠키소확행] 롤리팝 캔디 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "15,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃 수 놓아 휴대폰 가방 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "35,000 원",
+    "date": "2024.10.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-클래식 화병장식 / 10.16",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.10.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "코코넛 바디로션과 로즈밤(립밤)만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:40",
+    "price": "40,000 원",
+    "date": "2024.10.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.17 놀이영어 맘잉(18-36개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.10.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.17 놀이영어 맘잉(24-48개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.10.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "듀플로X유아공감-기차놀이(12-18개월)/10.17",
+    "info": "현대백화점_미아점",
+    "time": "11:50-12:30",
+    "price": "15,000 원",
+    "date": "2024.10.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "듀플로X유아공감-기차놀이(16-24개월)/10.17",
+    "info": "현대백화점_미아점",
+    "time": "12:40-13:20",
+    "price": "15,000 원",
+    "date": "2024.10.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "듀플로X유아공감-기차놀이(8-13개월)/10.17",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:40",
+    "price": "15,000 원",
+    "date": "2024.10.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-포레스트하우스 플라워박스/10.17",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.10.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "뇌발달체조와힐링마사지(2-8개월/보호자2인참여)6회/2차",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:40",
+    "price": "120,000 원",
+    "date": "2024.10.19(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "임산부요가(부부가 함께하는 영재 태교요가/2차/2인참여)",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "140,000 원",
+    "date": "2024.10.19(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]노란포켓캐릭터와볼만들기(만4-9세)10.20",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.10.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃리스 수 놓아 미니 액자 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "39,000 원",
+    "date": "2024.10.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "동요로 배우는 베이비마사지(2-8개월A)/2차 6회",
+    "info": "현대백화점_미아점",
+    "time": "12:10-12:50",
+    "price": "120,000 원",
+    "date": "2024.10.22(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "동요로 배우는 베이비마사지(2-8개월B)/2차 6회",
+    "info": "현대백화점_미아점",
+    "time": "13:00-13:40",
+    "price": "120,000 원",
+    "date": "2024.10.22(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-가을분위기 테이블장식 / 10.23",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.10.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "하울라이트 목걸이 & 팔찌세트 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:20",
+    "price": "80,000 원",
+    "date": "2024.10.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.24 놀이영어 맘잉(18-36개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.10.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.24 놀이영어 맘잉(24-48개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.10.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-와일드 플라워 바스켓/10.24",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.10.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀-마법모자 그리기(만5-7세)재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "20,000 원",
+    "date": "2024.10.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.27 아기판다 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "조물조물 칼라점토(만3-6세재료비별도)4회/10.27개강",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:20",
+    "price": "45,000 원",
+    "date": "2024.10.27(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]네잎클로버 키링 만들기(만4-9세)10.27",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-내맘속의 정원 꾸미기 / 10.30",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.10.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.31 놀이영어 맘잉(18-36개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.10.31",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "10.31 놀이영어 맘잉(24-48개월/엄마랑):일상",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.10.31",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-파티테이블 플라워센터피스/10.31",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.10.31",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "하이테크 과학실험(만4세/재료비포함)4회/11.1개강",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "80,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "하이테크 과학실험(만5,6세/재료비포함)4회/11.1개강",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "80,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/11.2개강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:50",
+    "price": "70,000 원",
+    "date": "2024.11.02(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/11.2개강",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:50",
+    "price": "70,000 원",
+    "date": "2024.11.02(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/11.2개강",
+    "info": "현대백화점_미아점",
+    "time": "13:00-13:50",
+    "price": "70,000 원",
+    "date": "2024.11.02(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.3 뽀로롱 꼬마펭귄 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "11.3 뽀로롱 꼬마펭귄 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "28,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]인어공주 만들기(만4-9세)11.3",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "계란꽃 수놓아 테이블매트 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "36,000 원",
+    "date": "2024.11.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(18-26개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "15:40-16:20",
+    "price": "90,000 원",
+    "date": "2024.11.05(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(24-32개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:10",
+    "price": "90,000 원",
+    "date": "2024.11.05(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(30-40개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "17:20-18:00",
+    "price": "90,000 원",
+    "date": "2024.11.05(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "오닉스 목걸이 & 팔찌세트 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:20",
+    "price": "80,000 원",
+    "date": "2024.11.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-사랑스런 포지부케 / 11.6",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.11.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.7 놀이영어 맘잉(18-36개월/엄마랑):과학",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.11.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.7 놀이영어 맘잉(24-48개월/엄마랑):과학",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.11.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.7 아이패드로 그려보는 수채화 일러스트(가을편)",
+    "info": "현대백화점_미아점",
+    "time": "11:00-13:00",
+    "price": "40,000 원",
+    "date": "2024.11.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11월 놀이영어 맘잉(18-36개월/엄마랑):과학/4회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "140,000 원",
+    "date": "2024.11.07(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11월 놀이영어맘잉(24개월-48개월/엄마랑):과학/4회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "140,000 원",
+    "date": "2024.11.07(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-자이언트플라워 부케/11.7",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.11.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.10 토끼 빼빼로 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]도넛과 마카롱 만들기(만4-9세)11.10",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "쿠키소확행] 아기판다 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "15,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "개망초꽃 수놓아 린넨 미니 가리개 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "11:00-12:20",
+    "price": "38,000 원",
+    "date": "2024.11.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-플라워 햇박스 / 11.13",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.11.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.14 놀이영어 맘잉(18-36개월/엄마랑):과학",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.11.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.14 놀이영어 맘잉(24-48개월/엄마랑):과학",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.11.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-허브가득 플라워박스/11.14",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.11.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "칼라점토]유니콘 만들기(만4-9세)11.17",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:20",
+    "price": "12,000 원",
+    "date": "2024.11.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "유러피안 플라워-그루핑 디자인장식 / 11.20",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:50",
+    "price": "45,000 원",
+    "date": "2024.11.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.21 놀이영어 맘잉(18-36개월/엄마랑):과학",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.11.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.21 놀이영어 맘잉(24-48개월/엄마랑):과학",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.11.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "모리스 플라워-가을열매 플라워 꽃다발/11.21",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:40",
+    "price": "55,000 원",
+    "date": "2024.11.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀-칠면조 크래프트(만5-7세)재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "20,000 원",
+    "date": "2024.11.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "11.24 달콤 사탕모양 쿠키(만3세이상/아빠랑)",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:30",
+    "price": "28,000 원",
+    "date": "2024.11.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "11.24 달콤 사탕모양 쿠키(만5-7세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "28,000 원",
+    "date": "2024.11.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신체놀이터 울랄라점프(37-50개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:10",
+    "price": "128,300 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄지희의 4:1 감성 플룻/18시/11회",
+    "info": "현대백화점_미아점",
+    "time": "18:00-19:00",
+    "price": "200,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄지희의 4:1 감성 플룻/19시/11회",
+    "info": "현대백화점_미아점",
+    "time": "19:00-20:00",
+    "price": "200,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "꽃그림, 보태니컬아트 / 수 / 10회",
+    "info": "현대백화점_미아점",
+    "time": "10:00-12:00",
+    "price": "125,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "악기와 소품활용 뮤직서클(4-12개월)10회",
+    "info": "현대백화점_미아점",
+    "time": "13:10-13:50",
+    "price": "110,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 낙타 트니트니(27-36개월)",
+    "info": "현대백화점_미아점",
+    "time": "16:40-17:20",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 동화촉감놀이 당나귀똥(15-24개월)",
+    "info": "현대백화점_미아점",
+    "time": "10:30-11:10",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 동화촉감놀이 당나귀똥(5-9개월)",
+    "info": "현대백화점_미아점",
+    "time": "13:00-13:40",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 동화촉감놀이 당나귀똥(6-11개월)",
+    "info": "현대백화점_미아점",
+    "time": "12:10-12:50",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "목요 동화촉감놀이 당나귀똥(8-13개월)",
+    "info": "현대백화점_미아점",
+    "time": "13:50-14:30",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "장세리의 목요 첼로(정원4명)/19시",
+    "info": "현대백화점_미아점",
+    "time": "19:00-20:00",
+    "price": "250,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "빙그르르 티니핑 발레(만4-6세/아이혼자)",
+    "info": "현대백화점_미아점",
+    "time": "16:20-17:10",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 금요 아미고 발레(28-48개월)",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:10",
+    "price": "130,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "EQ향상 종이접기(만4-6세)",
+    "info": "현대백화점_미아점",
+    "time": "14:00-14:50",
+    "price": "100,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/9.7개강",
+    "info": "현대백화점_미아점",
+    "time": "13:00-13:50",
+    "price": "70,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "아트풀 키즈미술(만5-7세/재료비포함)4회/9.7개강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:50",
+    "price": "70,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "원어민 키즈 잉글리쉬(만4-6세/아이혼자)/9.14휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:30",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 1:1 드럼교실(18시20분)/10회",
+    "info": "현대백화점_미아점",
+    "time": "18:20-18:40",
+    "price": "220,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.09(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 1:1 드럼교실(18시40분)/10회",
+    "info": "현대백화점_미아점",
+    "time": "18:40-19:00",
+    "price": "220,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.09(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(15-24개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(17-24개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:40-13:20",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(20-30개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:40",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(30-40개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:50-12:30",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(35-50개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:10-10:50",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 예스맨 트니트니(35-50개월) 9.28휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:00",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 키리키 영어놀이터(26-45개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "토요 키리키 영어놀이터(40-59개월)/11회",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:10",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "퍼포먼스 미술 아트팝(만3,4세/혼자반/재료비포함)",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:00",
+    "price": "168,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스 아트팝(22-36개월/보호자동반/재료비포함)",
+    "info": "현대백화점_미아점",
+    "time": "10:30-11:10",
+    "price": "168,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 클라리넷(정원4명)/15시50분/개강일변경",
+    "info": "현대백화점_미아점",
+    "time": "15:50-16:50",
+    "price": "230,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "SNPE 바른자세 척추운동/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "19:30-20:30",
+    "price": "110,000 원",
+    "date": "2024.09.09(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "리본 오감발레(만4-6세/아이혼자)개강변경9.14",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:10",
+    "price": "130,000 원",
+    "date": "2024.09.14(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "리본맘앤키즈 스킨십 발레(18-35개월)개강변경9.14",
+    "info": "현대백화점_미아점",
+    "time": "10:40-11:20",
+    "price": "140,000 원",
+    "date": "2024.09.14(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "리본맘앤키즈 스킨십 발레(36-50개월)개강변경9.14",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "140,000 원",
+    "date": "2024.09.14(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나에게 어울리는 1:1 맞춤형 메이크업/9.25",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:50",
+    "price": "100,000 원",
+    "date": "2024.09.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나에게 어울리는 1:1 맞춤형 메이크업/10.23",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:50",
+    "price": "100,000 원",
+    "date": "2024.10.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나에게 어울리는 1:1 맞춤형 메이크업/10.30",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:50",
+    "price": "100,000 원",
+    "date": "2024.10.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나에게 어울리는 1:1 맞춤형 메이크업/11.20",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:50",
+    "price": "100,000 원",
+    "date": "2024.11.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "나에게 어울리는 1:1 맞춤형 메이크업/11.27",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:50",
+    "price": "100,000 원",
+    "date": "2024.11.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "매력적인 선율의 일요첼로(정원5명)/11.10휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:15-14:15",
+    "price": "200,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(16-23개월)",
+    "info": "현대백화점_미아점",
+    "time": "10:00-10:40",
+    "price": "130,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신나는 오감놀이터 텀블키즈(5-9개월)",
+    "info": "현대백화점_미아점",
+    "time": "11:40-12:20",
+    "price": "130,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신비의 타로카드 배우기(고급)/일/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:00-16:00",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신비의 타로카드 배우기(중급)/일/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "17:10-18:10",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "신비의 타로카드 배우기(초급)/일/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:05-17:05",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "엄마랑 일요 아미고발레(28-48개월)",
+    "info": "현대백화점_미아점",
+    "time": "11:10-11:50",
+    "price": "130,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 K-POP 방송댄스(만5,6세)10회/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:00-15:50",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 K-POP방송댄스(만10-12세)10회/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "17:00-17:50",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(12-18개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:30-14:10",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(17-24개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:40-13:20",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(20-30개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:10-15:50",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(20-30개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:40",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(30-40개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:40",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(30-40개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:50-12:30",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(40-60개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:00",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 바이올린(정원3명)/13시/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:00",
+    "price": "250,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 바이올린(정원3명)/14시/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:00-15:00",
+    "price": "250,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 바이올린(정원3명)/15시/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:00-16:00",
+    "price": "250,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 바이올린(정원3명)/17시/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "17:00-18:00",
+    "price": "250,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 바이올린(정원3명)/18시/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "18:00-19:00",
+    "price": "250,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 아미고 공주발레(만3,4세/혼자반)",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:40",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 아미고 공주발레(만4,5세/혼자반)",
+    "info": "현대백화점_미아점",
+    "time": "10:20-11:00",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 아미고 공주발레(만4-6세/혼자반)",
+    "info": "현대백화점_미아점",
+    "time": "13:40-14:20",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 아미고 공주발레(만6,7세/혼자반)연령변경",
+    "info": "현대백화점_미아점",
+    "time": "12:50-13:30",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 창의력 미술 쥬니스 아트(만4-6세)9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:00-11:50",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 창의력 미술 쥬니스 아트(만4-6세)9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:50",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 창의력 미술 쥬니스 아트(만5-7세)9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:00-13:50",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "조물조물 칼라점토(만3-6세)재료비별도",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:20",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "조물조물 칼라점토(만3-6세/재료비별도)4회/9.1개강",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:20",
+    "price": "45,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.22(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "초보자를 위한 다이어트 방송댄스 10회/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "18:00-18:50",
+    "price": "100,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "퍼니러니축구교실 by스누미(만5세)교구비별도/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:10-11:50",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "퍼니러니축구교실 by스누미(만6세)교구비별도/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:20-11:00",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 1:1 맞춤 피아노 교실(17시30분) 9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:00",
+    "price": "240,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 1:1 맞춤 피아노 교실(18시40분) 9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "18:40-19:10",
+    "price": "240,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 1:1 맞춤 피아노 교실(18시5분) 9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "18:05-18:35",
+    "price": "240,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "일요 K-POP 방송댄스(만7-9세)10회/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:00-16:50",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 몽땅이 트니트니(35-50개월)/10.20휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:10-10:50",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "일요 바이올린(정원3명)/16시/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:00-17:00",
+    "price": "250,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangbuk",
+    "title": "퍼니러니축구교실 by스누미(만4세)교구비별도/9.15휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:00-12:40",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "5060 워킹댄스(근력&유산소운동) 1회 / 9.2",
+    "info": "현대백화점_미아점",
+    "time": "11:10-12:10",
+    "price": "12,500 원",
+    "date": "2024.09.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "5060 워킹댄스(근력&유산소운동)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:10-12:10",
+    "price": "125,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "AMT 노화관리운동(보행교정)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:00-11:00",
+    "price": "125,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "SNPE 바른자세 척추운동/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "19:30-20:30",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "SNPE바른자세척추운동/주2회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "19:30-20:30",
+    "price": "250,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "글렌도만 영재교실(15-24개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:30-15:10",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "글렌도만 영재교실(30-38개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:10-16:50",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "글렌도만 영재교실(34-45개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "17:00-17:40",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "기타&우쿨렐레&칼림바&리코더(악기택1)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "19:00-19:40",
+    "price": "200,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "먹 캘리그라피/휴점일,9.30,10.7휴강/7회",
+    "info": "현대백화점_미아점",
+    "time": "13:00-14:30",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.18(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "뮤직아이(12-18개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:20-15:00",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "뮤직아이(6-12개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:30-14:10",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "시니어모델-초급/10회/휴점일휴강/횟수,수강료변경",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:30",
+    "price": "180,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 1:1 드럼교실(18시)/10회/휴점일휴강.",
+    "info": "현대백화점_미아점",
+    "time": "18:00-18:20",
+    "price": "220,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 1:1 드럼교실(18시20분)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "18:20-18:40",
+    "price": "220,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 동화촉감놀이 당나귀똥(5-9개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:30-12:10",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 동화촉감놀이 당나귀똥(7-12개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:20-13:00",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 동화촉감놀이 당나귀똥(9-14개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "13:10-13:50",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 물개 트니트니(15-24개월)9회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:10",
+    "price": "104,900 원",
+    "date": "2024.09.02(월) ~ 2024.11.18(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 물개 트니트니(25-36개월)9회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "16:20-17:00",
+    "price": "104,900 원",
+    "date": "2024.09.02(월) ~ 2024.11.18(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요 물개 트니트니(37-55개월)9회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "17:10-17:50",
+    "price": "104,900 원",
+    "date": "2024.09.02(월) ~ 2024.11.18(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "월요동화촉감놀이 당나귀똥(12-18개월)10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:40-11:20",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "티니핑과 함께하는 아놀리(36-55개월)휴점일휴강/10회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:10",
+    "price": "116,600 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "티니핑과 함께하는 아놀리(36-55개월)휴점일휴강/10회",
+    "info": "현대백화점_미아점",
+    "time": "16:40-17:20",
+    "price": "116,600 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "패션모델에게 배우는 모델워킹(런웨이반)/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:10-15:10",
+    "price": "180,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "푸통푸통 중국어(왕초보)/10회/휴점일 휴강",
+    "info": "현대백화점_미아점",
+    "time": "14:10-15:20",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "푸통푸통 중국어(초중급)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "15:30-16:40",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "하모니의 예술 합창 뮤직리벤더/휴점일휴강/10회",
+    "info": "현대백화점_미아점",
+    "time": "11:20-13:20",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "햇살아이 오감나무(4-10개월)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "12:10-12:50",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "햇살아이 오감나무(6-12개월)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "11:20-12:00",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "햇살아이 오감나무(9-15개월)/10회/휴점일휴강",
+    "info": "현대백화점_미아점",
+    "time": "10:30-11:10",
+    "price": "110,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "아트플레이(18-32개월)재료비포함/합반/4회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:10",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "퍼포먼스미술 아트플레이(30-40개월)재료비포함/4회",
+    "info": "현대백화점_미아점",
+    "time": "17:20-18:00",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "천연블랙스피넬 목걸이&팔찌세트 만들기/재료비포함",
+    "info": "현대백화점_미아점",
+    "time": "12:30-13:20",
+    "price": "80,000 원",
+    "date": "2024.09.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.5 놀이영어 맘잉(18-36개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "35,000 원",
+    "date": "2024.09.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9.5 놀이영어 맘잉(24-48개월/엄마랑):탈것",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "35,000 원",
+    "date": "2024.09.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9월 놀이영어 맘잉(18-36개월/엄마랑):탈것/4회",
+    "info": "현대백화점_미아점",
+    "time": "16:30-17:20",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangbuk",
+    "title": "9월 놀이영어 맘잉(24개월-48개월/엄마랑):탈것/4회",
+    "info": "현대백화점_미아점",
+    "time": "17:30-18:20",
+    "price": "140,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  }
+]

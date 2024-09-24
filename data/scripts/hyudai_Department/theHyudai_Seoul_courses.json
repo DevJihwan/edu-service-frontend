@@ -1,0 +1,3542 @@
+[
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "임소연님 키즈 케이팝 위드빌 댄스 40개월 이상 9.8",
+    "info": "더 현대 서울",
+    "time": "12:20-13:20",
+    "price": "20,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10회 선으로 그리는 풍경 스케치 & 펜 어반 드로잉",
+    "info": "더 현대 서울",
+    "time": "13:30-15:30",
+    "price": "250,000 원",
+    "date": "2024.09.11(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 선으로 그리는 풍경 스케치 & 펜 어반 드로잉",
+    "info": "더 현대 서울",
+    "time": "13:30-15:30",
+    "price": "90,000 원",
+    "date": "2024.09.11(수) ~ 2024.10.02(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.13",
+    "info": "더 현대 서울",
+    "time": "15:40-17:10",
+    "price": "140,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.13",
+    "info": "더 현대 서울",
+    "time": "17:20-18:50",
+    "price": "140,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 통증완화와 편안한 마음을 위한 태교요가 9.13",
+    "info": "더 현대 서울",
+    "time": "13:10-14:00",
+    "price": "30,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "보보그라운드 잉글리시 40개월이상:가을밤별자리 만들기",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "40,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 나만의 퍼스널 컬러 찾기 9.19",
+    "info": "더 현대 서울",
+    "time": "19:00-20:30",
+    "price": "50,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "목금토식탁 와인&푸드페어링:채끝스테이크&토스카나산지오배제",
+    "info": "더 현대 서울",
+    "time": "18:30-20:00",
+    "price": "75,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.20",
+    "info": "더 현대 서울",
+    "time": "15:40-17:10",
+    "price": "140,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.20",
+    "info": "더 현대 서울",
+    "time": "17:20-18:50",
+    "price": "140,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 통증완화와 편안한 마음을 위한 태교요가 9.20",
+    "info": "더 현대 서울",
+    "time": "13:10-14:00",
+    "price": "30,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김경화님 갤러리 더 스퀘어 프라이빗 TEA 오마카세",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "65,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아까h 제철이탈리아가정식: 마실라페이스트 야채커리",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "65,000 원",
+    "date": "2024.09.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.27",
+    "info": "더 현대 서울",
+    "time": "15:40-17:10",
+    "price": "140,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.27",
+    "info": "더 현대 서울",
+    "time": "17:20-18:50",
+    "price": "140,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.27",
+    "info": "더 현대 서울",
+    "time": "14:00-15:30",
+    "price": "140,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 통증완화와 편안한 마음을 위한 태교요가 9.27",
+    "info": "더 현대 서울",
+    "time": "13:10-14:00",
+    "price": "30,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "신나는 키즈 케이팝 위드빌 댄스 40개월 이상 9.29",
+    "info": "더 현대 서울",
+    "time": "12:20-13:20",
+    "price": "20,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]특별한 날을 위한 연예인 속눈썹 레슨10.1",
+    "info": "더 현대 서울",
+    "time": "18:50-19:20",
+    "price": "50,000 원",
+    "date": "2024.10.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]특별한 날을 위한 연예인 속눈썹 레슨10.1",
+    "info": "더 현대 서울",
+    "time": "18:10-18:40",
+    "price": "50,000 원",
+    "date": "2024.10.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]특별한 날을 위한 연예인 속눈썹레슨10.29",
+    "info": "더 현대 서울",
+    "time": "18:10-18:40",
+    "price": "50,000 원",
+    "date": "2024.10.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]특별한 날을 위한 연예인 속눈썹레슨10.29",
+    "info": "더 현대 서울",
+    "time": "18:50-19:20",
+    "price": "50,000 원",
+    "date": "2024.10.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 9.9",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "코딩과영어를 한번에 랭귀짐잉글리쉬코딩 40개월~9.9",
+    "info": "더 현대 서울",
+    "time": "17:30-18:10",
+    "price": "20,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "코딩과영어를 한번에 랭귀짐잉글리쉬코딩 만5세이상~9.9",
+    "info": "더 현대 서울",
+    "time": "16:40-17:20",
+    "price": "20,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "보니에플라워랩 런치플라워: 추석맞이 선물 플라워박스",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "47,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 나만의 퍼스널 컬러 찾기 9.12",
+    "info": "더 현대 서울",
+    "time": "19:00-20:30",
+    "price": "50,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "로와플라워 런치플라워: 풍요로운 추석 꽃 소쿠리",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "47,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "로와플라워 친환경에코플라워: 시들지않는 생화 용돈박스",
+    "info": "더 현대 서울",
+    "time": "13:30-15:00",
+    "price": "60,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오감상상 쿠키클레이 36개월이상A:추석선물 복주머니 쿠키",
+    "info": "더 현대 서울",
+    "time": "15:30-16:30",
+    "price": "35,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임근준의 오늘에 이르는 도전과 성취의 계보※ZOOM 진행",
+    "info": "더 현대 서울",
+    "time": "19:00-21:00",
+    "price": "300,000 원",
+    "date": "2024.09.12(목) ~ 2024.12.05(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9.13 메타 댄스핏:알렉스&성모샘의 힙한 댄스와 음악",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "30,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 달속 토끼 오감퍼포먼스놀이 10-19개월",
+    "info": "더 현대 서울",
+    "time": "13:20-14:00",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 두뇌발달 꿈이꿈이 블록&상상놀이 18-28개월",
+    "info": "더 현대 서울",
+    "time": "15:00-15:50",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 두뇌발달 꿈이꿈이 블록&상상놀이 37-50개월",
+    "info": "더 현대 서울",
+    "time": "18:00-18:50",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 두뇌발달 꿈이꿈이 블록&상상놀이 39-48개월",
+    "info": "더 현대 서울",
+    "time": "17:00-17:50",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 세계미술관산책: 영국 런던 테이트모던",
+    "info": "더 현대 서울",
+    "time": "11:00-12:20",
+    "price": "30,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "고대이집트의 세계:하트셉수트와 그녀 이전의 여성 파라오들",
+    "info": "더 현대 서울",
+    "time": "17:00-18:40",
+    "price": "40,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "온규with씨케이브 커플쿠킹·와인페어링: 훈제굴그라탕外",
+    "info": "더 현대 서울",
+    "time": "16:00-17:30",
+    "price": "130,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 나에게 어울리는 퍼스널 메이크업9.19",
+    "info": "더 현대 서울",
+    "time": "17:00-18:30",
+    "price": "50,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9.20 메타 댄스핏:알렉스&성모샘의 힙한 댄스와 음악",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "30,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 미술사에 기초한 컬렉팅 모임, 컬렉팅 더 히스토리",
+    "info": "더 현대 서울",
+    "time": "19:00-21:00",
+    "price": "80,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 세계미술관산책: 프랑스 파리 로뎅미술관 外",
+    "info": "더 현대 서울",
+    "time": "11:00-12:20",
+    "price": "30,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Vegant 플라워아트: 가을계절꽃다발+병꽂이세트",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "47,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "고대이집트세계:네페르티티,네페르타리,클레오파트라",
+    "info": "더 현대 서울",
+    "time": "17:00-18:40",
+    "price": "40,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시네마 레시피: 영화로 보는 음식과 문화",
+    "info": "더 현대 서울",
+    "time": "11:00-12:30",
+    "price": "30,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬스피킹&베이킹,베이키드40개월~A:달콤한 고구마빵",
+    "info": "더 현대 서울",
+    "time": "11:00-12:00",
+    "price": "40,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬스피킹&베이킹,베이키드40개월~B:달콤한 고구마빵",
+    "info": "더 현대 서울",
+    "time": "12:20-13:20",
+    "price": "40,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "퇴사인류 긴급 소집: 어른들의 생존형 북토크9.21",
+    "info": "더 현대 서울",
+    "time": "18:00-20:00",
+    "price": "30,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "바탕소 어린이과학&미술 스팀교육 6세이상:내 몸 속 탐험",
+    "info": "더 현대 서울",
+    "time": "11:00-11:50",
+    "price": "40,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "바탕소 어린이과학&미술 스팀교육 8세이상:내 몸 속 탐험",
+    "info": "더 현대 서울",
+    "time": "12:10-13:00",
+    "price": "40,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오감상상 쿠키클레이 36개월이상 위드대디:핑크돌고래쿠키",
+    "info": "더 현대 서울",
+    "time": "14:30-15:30",
+    "price": "35,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "자연과 책의만남 리틀포레 40개월~A:나쁜씨앗&화분만들기",
+    "info": "더 현대 서울",
+    "time": "14:00-14:40",
+    "price": "30,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "자연과 책의만남 리틀포레 40개월~B:나쁜씨앗&화분만들기",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "30,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이아트플레이 14-20개월:신기한스펀지",
+    "info": "더 현대 서울",
+    "time": "16:00-16:40",
+    "price": "30,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이아트플레이 18-26개월:신기한스펀지",
+    "info": "더 현대 서울",
+    "time": "16:50-17:30",
+    "price": "30,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이아트플레이 24-33개월:신기한스펀지",
+    "info": "더 현대 서울",
+    "time": "17:40-18:20",
+    "price": "30,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "갤러리 더 스퀘어 프라이빗 TEA 오마카세",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "65,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 9.23",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9.27 메타 댄스핏:알렉스&성모샘의 힙한 댄스와 음악",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "30,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 세계미술관산책: 미국필라델피아 미술관",
+    "info": "더 현대 서울",
+    "time": "11:00-12:20",
+    "price": "30,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "맛있는스토리텔링Book쿠킹만4세이상:네기분은어떤색깔이니?",
+    "info": "더 현대 서울",
+    "time": "15:10-16:00",
+    "price": "35,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이라킷키즈베이킹클래스 40개월~A:레인보우마시멜로우쿠키",
+    "info": "더 현대 서울",
+    "time": "10:50-11:50",
+    "price": "35,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이라킷키즈베이킹클래스 40개월~B:레인보우마시멜로우쿠키",
+    "info": "더 현대 서울",
+    "time": "12:10-13:10",
+    "price": "35,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "작은손의도예가40개월~A:물레로만드는밥공기&계란후라이접시",
+    "info": "더 현대 서울",
+    "time": "13:30-14:50",
+    "price": "45,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "작은손의도예가40개월~B:물레로만드는밥공기&계란후라이접시",
+    "info": "더 현대 서울",
+    "time": "15:10-16:30",
+    "price": "45,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "퇴사인류 긴급 소집: 어른들의 생존형 북토크9.28",
+    "info": "더 현대 서울",
+    "time": "18:00-20:00",
+    "price": "30,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "훈훈한주식-24,25년도 주식시장주인공찾기9.28",
+    "info": "더 현대 서울",
+    "time": "11:00-12:30",
+    "price": "30,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "스토리텔링 블럭창의놀이 롤에듀40개월이상:가을단풍물들이기",
+    "info": "더 현대 서울",
+    "time": "11:00-11:50",
+    "price": "20,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "인도투자하자: 인도 주식 투자 입문에 대한 모든 것",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "30,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "자연과 책의 만남 리틀포레 40개월~A:벚꽃 팝콘",
+    "info": "더 현대 서울",
+    "time": "14:00-14:40",
+    "price": "30,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "자연과 책의 만남 리틀포레 40개월~B:벚꽃 팝콘",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "30,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이아트플레이 14-20개월:말캉국수",
+    "info": "더 현대 서울",
+    "time": "16:00-16:40",
+    "price": "30,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이아트플레이 18-26개월:말캉국수",
+    "info": "더 현대 서울",
+    "time": "16:50-17:30",
+    "price": "30,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이아트플레이 24-33개월:말캉국수",
+    "info": "더 현대 서울",
+    "time": "17:40-18:20",
+    "price": "30,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 9.30",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아르그랑스튜디오 런치플라워: 꽃팔찌를 활용한 샴페인데코",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "47,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "코딩과영어를 한번에 랭귀짐잉글리쉬코딩 40개월~9.30",
+    "info": "더 현대 서울",
+    "time": "17:30-18:10",
+    "price": "20,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "코딩과영어를 한번에 랭귀짐잉글리쉬코딩 만5세이상~9.30",
+    "info": "더 현대 서울",
+    "time": "16:40-17:20",
+    "price": "20,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:3진행]전문가와 함께 나만의 눈썹 찾기10.1",
+    "info": "더 현대 서울",
+    "time": "17:00-18:00",
+    "price": "40,000 원",
+    "date": "2024.10.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "담이의 내인생을 빛내줄 스마트폰사진,색감클래스 10.5",
+    "info": "더 현대 서울",
+    "time": "13:00-15:00",
+    "price": "30,000 원",
+    "date": "2024.10.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 10.7",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.10.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10월 훈훈한 주식-지속 구조적으로 성장할 기업 고르기",
+    "info": "더 현대 서울",
+    "time": "15:00-16:30",
+    "price": "120,000 원",
+    "date": "2024.10.10(목) ~ 2024.10.31(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나도 스마트폰 사진작가, 365일 인생 사진 남기기",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "120,000 원",
+    "date": "2024.10.10(목) ~ 2024.10.31(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10월 초보자도 할 수 있는 스마트폰으로 일상 영상만들기",
+    "info": "더 현대 서울",
+    "time": "13:00-14:30",
+    "price": "30,000 원",
+    "date": "2024.10.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10월 선으로 그리는 풍경 스케치 & 펜 어반 드로잉",
+    "info": "더 현대 서울",
+    "time": "13:30-15:30",
+    "price": "90,000 원",
+    "date": "2024.10.16(수) ~ 2024.10.30(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "미술관 옆 위스키 Whisky Objet Pairing",
+    "info": "더 현대 서울",
+    "time": "19:00-20:30",
+    "price": "100,000 원",
+    "date": "2024.10.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오일파스텔로 빵굽기 드로잉 클래스",
+    "info": "더 현대 서울",
+    "time": "11:00-13:00",
+    "price": "45,000 원",
+    "date": "2024.10.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 10.21",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.10.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10월 세계미술관산책: 영국 런던 네셔널갤러리",
+    "info": "더 현대 서울",
+    "time": "11:00-12:20",
+    "price": "30,000 원",
+    "date": "2024.10.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 10.28",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.10.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:3진행]전문가와 함께 나만의 눈썹 찾기10.29",
+    "info": "더 현대 서울",
+    "time": "17:00-18:00",
+    "price": "40,000 원",
+    "date": "2024.10.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 11.4",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.11.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "11월 선으로 그리는 풍경 스케치 & 펜 어반 드로잉",
+    "info": "더 현대 서울",
+    "time": "13:30-15:30",
+    "price": "120,000 원",
+    "date": "2024.11.06(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 11.18",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.11.18",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지 플레이반 11.25",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "18,000 원",
+    "date": "2024.11.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "신나는 키즈 케이팝 위드빌 댄스 40개월 이상 9.8",
+    "info": "더 현대 서울",
+    "time": "12:20-13:20",
+    "price": "20,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "기초부터 차근차근, 순간을 기록하는 나만의 펜 드로잉",
+    "info": "더 현대 서울",
+    "time": "19:00-20:40",
+    "price": "200,000 원",
+    "date": "2024.09.11(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "우리가족 런치테이크아웃: LA갈비 2kg&오색꼬치전",
+    "info": "더 현대 서울",
+    "time": "11:00-12:30",
+    "price": "120,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "우리가족 집밥테이크아웃: LA갈비 2kg&오색꼬치전",
+    "info": "더 현대 서울",
+    "time": "14:00-15:30",
+    "price": "120,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 나에게 어울리는 퍼스널 메이크업9.12",
+    "info": "더 현대 서울",
+    "time": "17:00-18:30",
+    "price": "50,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오감상상 쿠키클레이 36개월이상B:추석선물 복주머니 쿠키",
+    "info": "더 현대 서울",
+    "time": "16:50-17:50",
+    "price": "35,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오밀스튜디오 베이킹(시연·실습):추석선물세트 피넛통통쿠키",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "60,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전신·코어 강화, 체형교정 1:1 맞춤 필라테스 목 A",
+    "info": "더 현대 서울",
+    "time": "13:10-14:00",
+    "price": "180,000 원",
+    "date": "2024.09.12(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전신·코어 강화, 체형교정 1:1 맞춤 필라테스 목 B",
+    "info": "더 현대 서울",
+    "time": "14:10-15:00",
+    "price": "180,000 원",
+    "date": "2024.09.12(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전신·코어 강화, 체형교정 1:1 맞춤 필라테스 목 C",
+    "info": "더 현대 서울",
+    "time": "15:10-16:00",
+    "price": "180,000 원",
+    "date": "2024.09.12(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 달속 토끼 오감퍼포먼스놀이 4-7개월",
+    "info": "더 현대 서울",
+    "time": "12:30-13:10",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 달속 토끼 오감퍼포먼스놀이 6-9개월",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 달속 토끼 오감퍼포먼스놀이 7-12개월",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 두뇌발달 꿈이꿈이 블록&상상놀이 29-38개월",
+    "info": "더 현대 서울",
+    "time": "16:00-16:50",
+    "price": "90,000 원",
+    "date": "2024.09.13(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.13",
+    "info": "더 현대 서울",
+    "time": "14:00-15:30",
+    "price": "140,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "前외교부셰프의 프랑스 프로방스: 허브버터 치킨스테이크 外",
+    "info": "더 현대 서울",
+    "time": "18:30-20:00",
+    "price": "65,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "엘리하이 키즈 브레인 사이언스 5-7세 : 우주선 생활",
+    "info": "더 현대 서울",
+    "time": "12:50-13:50",
+    "price": "25,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 12-22개월A: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 12-22개월B: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "13:30-14:10",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 12-22개월C: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "16:00-16:40",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 6-12개월A: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "12:30-13:10",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 6-12개월B: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "14:20-15:00",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 8-15개월: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "15:10-15:50",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "자연체험놀이 플라잉마리 9-18개월: 추석 떡",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "30,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오밀스튜디오 베이킹(시연·실습):귀여운 밤모양 알밤케이크",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "60,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]9월 장점을 살리는 퍼스널 메이크업9.20",
+    "info": "더 현대 서울",
+    "time": "14:00-15:30",
+    "price": "140,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "매콤 새콤 달콤한 사과 쪽파김치 3kg 담아가기",
+    "info": "더 현대 서울",
+    "time": "11:00-13:00",
+    "price": "85,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "매콤 아삭한 총각김치 2단 담아가기",
+    "info": "더 현대 서울",
+    "time": "14:00-16:00",
+    "price": "90,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오밀스튜디오 베이킹(시연·실습):포지타노 레모타르트",
+    "info": "더 현대 서울",
+    "time": "16:00-17:30",
+    "price": "60,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬 스피킹&사이언스 베이키드 40개월:DNA추출실험",
+    "info": "더 현대 서울",
+    "time": "15:40-16:40",
+    "price": "40,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬스토리텔링북아트베이키드 40개월:소년과 로봇",
+    "info": "더 현대 서울",
+    "time": "14:20-15:20",
+    "price": "40,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "신나는 키즈 케이팝 위드빌 댄스 40개월 이상 9.22",
+    "info": "더 현대 서울",
+    "time": "12:20-13:20",
+    "price": "20,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오감상상쿠키클레이36개월이상 위드대디:아기판다 곰돌이쿠키",
+    "info": "더 현대 서울",
+    "time": "16:00-17:00",
+    "price": "35,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:2진행]9월 퍼스널 컬러 코칭&이미지업 9.23",
+    "info": "더 현대 서울",
+    "time": "19:00-20:20",
+    "price": "70,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 나의 체형과 이미지 스타일 분석",
+    "info": "더 현대 서울",
+    "time": "19:00-20:30",
+    "price": "50,000 원",
+    "date": "2024.09.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "우리가족 집밥테이크아웃: 난자완스, 마파두부, 새우달걀탕",
+    "info": "더 현대 서울",
+    "time": "14:00-15:30",
+    "price": "65,000 원",
+    "date": "2024.09.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[휘슬러스페셜]미국보스턴쿠킹: 통랍스터롤&랍스터차우더",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "55,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "맛있는스토리텔링Book쿠킹40개월~:네기분은어떤색깔이니?",
+    "info": "더 현대 서울",
+    "time": "14:00-14:50",
+    "price": "35,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:2진행]9월 퍼스널 컬러 코칭&이미지업 9.30",
+    "info": "더 현대 서울",
+    "time": "19:00-20:20",
+    "price": "70,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한식 파인다이닝(시연·시식): 닭온반 外",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "70,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10월 송희구작가의 부동산 투자 실전 인사이트10.9",
+    "info": "더 현대 서울",
+    "time": "14:00-16:00",
+    "price": "35,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "10월 송희구작가의 부동산의 원리와 지켜야할 원칙10.9",
+    "info": "더 현대 서울",
+    "time": "11:00-13:00",
+    "price": "35,000 원",
+    "date": "2024.10.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 박은영의 부티 바 & 필라테스_일 4시※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "16:00-16:50",
+    "price": "110,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 키즈 케이팝 위드빌댄스 만5세이상※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "13:30-14:30",
+    "price": "80,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 일-11:30 ※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "160,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 일-12:10 ※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "160,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 일-12:50 ※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "160,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:5 소규모] 9월 월요 순환테라피 모닝 요가",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "120,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 다이어트 최강자! 고강도 인터벌 트레이닝 타바타",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 신나는영어 체육놀이랭귀짐 40개월-만5세",
+    "info": "더 현대 서울",
+    "time": "16:40-17:20",
+    "price": "72,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 신나는영어 체육놀이랭귀짐 만 5세 이상",
+    "info": "더 현대 서울",
+    "time": "17:30-18:10",
+    "price": "72,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 월요 런치 힐링 빈야사 요가",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "100,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Morning Workout 파워플레이트 월-10:50",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "160,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Morning Workout 파워플레이트 월-11:30",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "160,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Morning Workout 파워플레이트 월-12:50",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "160,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나를 만나는 시간, 명상을 통한 내면의 여행",
+    "info": "더 현대 서울",
+    "time": "19:00-20:10",
+    "price": "160,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지: 플레이반 ※월1회 휴점일 휴강",
+    "info": "더 현대 서울",
+    "time": "10:40-14:10",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "산후 관리를 위한 재활 매트 필라테스",
+    "info": "더 현대 서울",
+    "time": "13:00-13:50",
+    "price": "100,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전신·코어 강화, 체형교정 1:1 맞춤 필라테스 월 C",
+    "info": "더 현대 서울",
+    "time": "20:00-20:50",
+    "price": "240,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "주니토니 영어 발레스타 24-35개월 ※월요일휴점일휴강",
+    "info": "더 현대 서울",
+    "time": "15:40-16:20",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "주니토니 영어 발레스타 36-50개월 ※월요일휴점일휴강",
+    "info": "더 현대 서울",
+    "time": "16:30-17:10",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 영어 발레스타 만 4-6세 ※월요일휴점일휴강",
+    "info": "더 현대 서울",
+    "time": "17:20-18:10",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 나만의 특별한 몸매 관리 화요 발레 즐기기",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "75,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 발레&필라테스 만남, 김은우의 발라레필※10.1종강",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 임산부를 위한 소도구 매트 필라테스 ※10.1종강",
+    "info": "더 현대 서울",
+    "time": "13:00-13:50",
+    "price": "100,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 직장인을 위한 힐링 빈야사 요가※10.1종강",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 초보자를 위한 화요 힐링 재활 요가※10.1종강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "100,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-11:30",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-17:30",
+    "info": "더 현대 서울",
+    "time": "17:30-18:00",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-18:10",
+    "info": "더 현대 서울",
+    "time": "18:10-18:40",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-18:50",
+    "info": "더 현대 서울",
+    "time": "18:50-19:20",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "권영애의 수채 보타니컬 아트Ⅱ ※ 기존 수강생반",
+    "info": "더 현대 서울",
+    "time": "15:00-17:00",
+    "price": "350,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "권영애의 수채 보타니컬아트Ⅰ※ 기존 수강생",
+    "info": "더 현대 서울",
+    "time": "10:40-12:40",
+    "price": "350,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "권영애의 아트 스튜디오 ※ 기존 수강생반",
+    "info": "더 현대 서울",
+    "time": "13:00-15:00",
+    "price": "350,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "문현웅의 내집 마련하는 부동산 경매 기초",
+    "info": "더 현대 서울",
+    "time": "16:10-17:10",
+    "price": "264,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "문현웅의 내집 마련하는 부동산 경매 기초 / 격주",
+    "info": "더 현대 서울",
+    "time": "19:10-20:00",
+    "price": "140,000 원",
+    "date": "2024.09.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "송영순의 라인댄스 왕초보반(신규)-주2회",
+    "info": "더 현대 서울",
+    "time": "11:40-12:40",
+    "price": "360,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시니어모델 아카데미 중급반",
+    "info": "더 현대 서울",
+    "time": "14:30-15:40",
+    "price": "210,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시니어모델 아카데미 초급반",
+    "info": "더 현대 서울",
+    "time": "13:20-14:20",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아미고 공주 발레 만 4-5세",
+    "info": "더 현대 서울",
+    "time": "17:20-18:10",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 화A※10.1종강",
+    "info": "더 현대 서울",
+    "time": "14:10-15:00",
+    "price": "240,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 박은영의 부티 바 & 필라테스_수 런치※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 박은영의 부티 바 & 필라테스_수 모닝※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동감각발달 맞춤놀이 어루만짐GYM 12-17개월",
+    "info": "더 현대 서울",
+    "time": "13:30-14:10",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동감각발달 맞춤놀이 어루만짐GYM 7-11개월 A",
+    "info": "더 현대 서울",
+    "time": "14:30-15:10",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동감각발달 맞춤놀이 어루만짐GYM 7-11개월 B",
+    "info": "더 현대 서울",
+    "time": "15:30-16:10",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 직장인 수요 SNPE 바른자세 척추운동※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "19:10-20:10",
+    "price": "75,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "소도구를 이용한 자세교정·통증완화 필라테스※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "75,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 뮤지컬 영어 발레 48개월-만6세",
+    "info": "더 현대 서울",
+    "time": "17:30-18:20",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 영어 발레스타 48개월-만5세",
+    "info": "더 현대 서울",
+    "time": "16:30-17:20",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.20(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인을 위한 피로회복 수요 런치 필라테스※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "75,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 수A※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "13:10-14:00",
+    "price": "180,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 수C※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "15:10-16:00",
+    "price": "180,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-10:50 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-11:30 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-12:50 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-20:10 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "20:10-20:40",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 리프레시 요가: 직장인을 위한 자유로운 시간",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "100,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 소도구를 활용한 통증 개선 재활 필라테스",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동능력 업! 자신감 업! 스포츠팡팡 15-25개월",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동능력 업! 자신감 업! 스포츠팡팡 24-36개월",
+    "info": "더 현대 서울",
+    "time": "15:50-16:30",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동능력 업! 자신감 업! 스포츠팡팡 40-55개월",
+    "info": "더 현대 서울",
+    "time": "17:30-18:10",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 20-36개월",
+    "info": "더 현대 서울",
+    "time": "17:00-17:40",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 25-40개월",
+    "info": "더 현대 서울",
+    "time": "17:50-18:30",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 5-8개월",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 6-10개월A",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 8-15개월",
+    "info": "더 현대 서울",
+    "time": "16:10-16:50",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 황혜영의 전신칼로리버닝 발레바운동:바레·근력·유산소",
+    "info": "더 현대 서울",
+    "time": "20:00-20:50",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-10:50",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-12:10",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-12:50",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-17:30",
+    "info": "더 현대 서울",
+    "time": "17:30-18:00",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-18:10",
+    "info": "더 현대 서울",
+    "time": "18:10-18:40",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-18:50",
+    "info": "더 현대 서울",
+    "time": "18:50-19:20",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-19:30",
+    "info": "더 현대 서울",
+    "time": "19:30-20:00",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가장 트렌디한 건강관리법: 명상 베이직",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "100,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지: 중고급반",
+    "info": "더 현대 서울",
+    "time": "15:05-16:35",
+    "price": "165,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "두뇌 스포츠 브리지: 플레이와 기초반",
+    "info": "더 현대 서울",
+    "time": "13:30-15:00",
+    "price": "165,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "매혹적인 수채 인물화 일러스트",
+    "info": "더 현대 서울",
+    "time": "19:00-20:50",
+    "price": "200,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 26-45개월 / 보호자1인",
+    "info": "더 현대 서울",
+    "time": "15:45-16:25",
+    "price": "144,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 만4-6세A",
+    "info": "더 현대 서울",
+    "time": "16:35-17:25",
+    "price": "144,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 만4-6세B",
+    "info": "더 현대 서울",
+    "time": "17:30-18:20",
+    "price": "144,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 금요 테라피 모닝 요가",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "100,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 세계미술관산책: 이탈리아 피렌체 우피치 미술관 外",
+    "info": "더 현대 서울",
+    "time": "11:00-12:20",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 송타민의 슬림 탄탄 발레스트롱(발레핏)",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "100,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 임산부 통증완화와 편안한 마음을 위한 태교요가",
+    "info": "더 현대 서울",
+    "time": "13:10-14:00",
+    "price": "100,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 직장인을 위한 금요 런치 빈야사 & 명상 요가",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "100,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 황혜영의 부티 바&카디오(유산소)_금 런치",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "110,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 금-10:50",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "160,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 금-11:30",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "160,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 금-12:50",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "160,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "권영애의 보타니컬 아트 창작반",
+    "info": "더 현대 서울",
+    "time": "14:00-16:00",
+    "price": "350,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "리본 맘앤키즈 스킨십 발레 26-40개월 / 보호자1인",
+    "info": "더 현대 서울",
+    "time": "15:40-16:20",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리본 명화명곡 오감 발레 48개월-만 6세",
+    "info": "더 현대 서울",
+    "time": "17:20-18:10",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "메타 댄스 핏: 알렉스&성모샘이 엄선한 힙한 댄스와 음악",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이현아의 라인댄스 왕초급(신규)-주2회※월요휴점일휴강",
+    "info": "더 현대 서울",
+    "time": "13:00-14:00",
+    "price": "210,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이현아의 라인댄스 중급-주2회/여성회원만 ※월요휴점일휴강",
+    "info": "더 현대 서울",
+    "time": "15:10-16:10",
+    "price": "210,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전시모임 커뮤니티 아이아트유 / 격주",
+    "info": "더 현대 서울",
+    "time": "19:00-21:30",
+    "price": "270,000 원",
+    "date": "2024.06.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 박은영의 부티 바 & 필라테스_일 3시※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "15:00-15:50",
+    "price": "110,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 엄마아빠와통합놀이 리틀킹콩12-20개월※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "11:00-11:40",
+    "price": "105,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.22(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 엄마아빠와통합놀이 리틀킹콩5-10개월※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "12:40-13:20",
+    "price": "105,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.22(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 엄마아빠와통합놀이 리틀킹콩8-14개월※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "11:50-12:30",
+    "price": "105,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.22(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 전신을 깨우는 일요 빈야사 요가 ※9.15 휴강",
+    "info": "더 현대 서울",
+    "time": "11:00-12:00",
+    "price": "100,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 킨더뮤직놀이 12-18개월(음원비별도)※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "15:50-16:30",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 킨더뮤직놀이 5-8개월(음원비별도)※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "14:10-14:50",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 킨더뮤직놀이 9-12개월(음원비별도)※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "120,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "빙그르르 티니핑발레 48개월-만 5세 ※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "12:30-13:20",
+    "price": "165,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "빙그르르 티니핑발레 만 5-6세 ※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "14:20-15:10",
+    "price": "165,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "빙그르르 티니핑발레24-48개월A/보호자1인※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "165,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "빙그르르 티니핑발레24-48개월B/보호자1인※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "165,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "빙그르르 티니핑발레30-50개월A/보호자1인※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "13:30-14:10",
+    "price": "165,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "빙그르르 티니핑발레30-50개월B/보호자1인※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "15:20-16:00",
+    "price": "165,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 일-10:50 ※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "160,000 원",
+    "date": "2024.09.01(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 오감놀이스타터&베이비마사지 아꿍까꿍 3-6개월",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "120,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 오감놀이스타터&베이비마사지 아꿍까꿍 5-8개월",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "120,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 월요 런치 SNPE 바른자세 척추운동",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "100,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 인지발달 자연물 오감놀이 아꿍까꿍 7-12개월",
+    "info": "더 현대 서울",
+    "time": "12:40-13:20",
+    "price": "120,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Morning Workout 파워플레이트 월-12:10",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "160,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나에게 맞춘 바디체형교정 1:1 필라테스 월 A",
+    "info": "더 현대 서울",
+    "time": "14:10-15:00",
+    "price": "240,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나에게 맞춘 바디체형교정 1:1 필라테스 월 B",
+    "info": "더 현대 서울",
+    "time": "15:10-16:00",
+    "price": "240,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전신·코어 강화, 체형교정 1:1 맞춤 필라테스 월 A",
+    "info": "더 현대 서울",
+    "time": "18:00-18:50",
+    "price": "240,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전신·코어 강화, 체형교정 1:1 맞춤 필라테스 월 B",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "240,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 오감발달 감성놀이퐁 아기별똥별 4-6개월",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 오감발달 감성놀이퐁 아기별똥별 5-10개월",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 오감발달 감성놀이퐁 아기별똥별 6-12개월",
+    "info": "더 현대 서울",
+    "time": "12:30-13:10",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 프리미엄 영재교실 글렌도만 13-20개월",
+    "info": "더 현대 서울",
+    "time": "15:30-16:10",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 프리미엄 영재교실 글렌도만 21-30개월",
+    "info": "더 현대 서울",
+    "time": "16:20-17:00",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 프리미엄 영재교실 글렌도만 28-40개월",
+    "info": "더 현대 서울",
+    "time": "17:10-17:50",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 프리미엄 영재교실 글렌도만 6-12개월",
+    "info": "더 현대 서울",
+    "time": "13:50-14:30",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 프리미엄 영재교실 글렌도만 8-16개월",
+    "info": "더 현대 서울",
+    "time": "14:40-15:20",
+    "price": "90,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-10:50",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-12:10",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-12:50",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 화-19:30",
+    "info": "더 현대 서울",
+    "time": "19:30-20:00",
+    "price": "120,000 원",
+    "date": "2024.09.03(화) ~ 2024.09.24(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "송영순의 라인댄스 중고급-주2회",
+    "info": "더 현대 서울",
+    "time": "10:35-11:35",
+    "price": "360,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아미고 마마 발레 25-48개월 / 보호자1인",
+    "info": "더 현대 서울",
+    "time": "16:30-17:10",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 화B※10.1종강",
+    "info": "더 현대 서울",
+    "time": "15:10-16:00",
+    "price": "240,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.01(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 아이크닉오가닉 자연물체험놀이 10-15개월",
+    "info": "더 현대 서울",
+    "time": "15:30-16:10",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 아이크닉오가닉 자연물체험놀이 12-18개월",
+    "info": "더 현대 서울",
+    "time": "16:20-17:00",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 아이크닉오가닉 자연물체험놀이 6-10개월",
+    "info": "더 현대 서울",
+    "time": "13:50-14:30",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 아이크닉오가닉 자연물체험놀이 8-12개월",
+    "info": "더 현대 서울",
+    "time": "14:40-15:20",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동감각발달 맞춤놀이 어루만짐GYM 14-23개월",
+    "info": "더 현대 서울",
+    "time": "16:30-17:10",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동감각발달 맞춤놀이 어루만짐GYM 24-36개월",
+    "info": "더 현대 서울",
+    "time": "17:20-18:00",
+    "price": "90,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 프렌치쁘레네 베이비 파티파티 4-6개월 B",
+    "info": "더 현대 서울",
+    "time": "12:30-13:10",
+    "price": "108,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 수A※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "18:00-18:50",
+    "price": "180,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 수B※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "14:10-15:00",
+    "price": "180,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 수B※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "180,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화,체형교정 1:1 맞춤 필라테스 수C※9.18휴강",
+    "info": "더 현대 서울",
+    "time": "20:00-20:50",
+    "price": "180,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-12:10 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-18:10 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "18:10-18:40",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-18:50 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "18:50-19:20",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "파워플레이트 수-19:30 ※9.18 휴강",
+    "info": "더 현대 서울",
+    "time": "19:30-20:00",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.09.25(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 운동능력 업! 자신감 업! 스포츠팡팡 35-45개월",
+    "info": "더 현대 서울",
+    "time": "16:40-17:20",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 11-16개월",
+    "info": "더 현대 서울",
+    "time": "13:20-14:00",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 15-24개월",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 6-10개월 B",
+    "info": "더 현대 서울",
+    "time": "14:10-14:50",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 핑퐁놀이터 올라베베 정서 발달 놀이 8-13개월",
+    "info": "더 현대 서울",
+    "time": "12:30-13:10",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 목-11:30",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "160,000 원",
+    "date": "2024.09.05(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 금-12:10",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "160,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "리본 맘앤키즈 스킨십 발레 30-48개월 / 보호자1인",
+    "info": "더 현대 서울",
+    "time": "16:30-17:10",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "박선정의 전신 기능 향상 1:1 맞춤 필라테스 금 A",
+    "info": "더 현대 서울",
+    "time": "18:00-18:50",
+    "price": "240,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "박선정의 전신 기능 향상 1:1 맞춤 필라테스 금 B",
+    "info": "더 현대 서울",
+    "time": "19:00-19:50",
+    "price": "240,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "박선정의 전신 기능 향상 1:1 맞춤 필라테스 금 C",
+    "info": "더 현대 서울",
+    "time": "20:00-20:50",
+    "price": "240,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이현아의 라인댄스 초중급-주2회/여성회원만※월요휴점일휴강",
+    "info": "더 현대 서울",
+    "time": "14:05-15:05",
+    "price": "210,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "풍경 스케치(수채크래용·연필·잉크·색연필)",
+    "info": "더 현대 서울",
+    "time": "10:40-12:40",
+    "price": "350,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 나만의 특별한 몸매 관리 토요 발레 즐기기",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "100,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 덩크띵크 농구교실 by 스누미 만 5,6세",
+    "info": "더 현대 서울",
+    "time": "13:00-13:40",
+    "price": "80,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 문장발화가되는놀이영어 맘잉32개월이상 ※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "105,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 12-22개월A※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:30",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 12-22개월B※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "13:30-14:10",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 12-22개월C※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "16:00-16:40",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 6-12개월A※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "12:30-13:10",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 6-12개월B※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "14:20-15:00",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 8-15개월※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "15:10-15:50",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 자연체험놀이 플라잉마리 9-18개월※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "11:40-12:20",
+    "price": "90,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼니러니 축구 풋볼 교실 by 스누미 만 5,6세",
+    "info": "더 현대 서울",
+    "time": "12:10-12:50",
+    "price": "80,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월문장발화가되는놀이영어 맘잉24-36개월※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "12:00-12:50",
+    "price": "105,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 토-10:50",
+    "info": "더 현대 서울",
+    "time": "10:50-11:20",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 토-11:30",
+    "info": "더 현대 서울",
+    "time": "11:30-12:00",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 토-12:10",
+    "info": "더 현대 서울",
+    "time": "12:10-12:40",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 토-12:50",
+    "info": "더 현대 서울",
+    "time": "12:50-13:20",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 토-13:30",
+    "info": "더 현대 서울",
+    "time": "13:30-14:10",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "Fullbody Workout 파워플레이트 토-14:10",
+    "info": "더 현대 서울",
+    "time": "14:10-14:40",
+    "price": "160,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.28(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "무이솝공방 40개월이상A:추석패키지 전통떡비누※보호자1인",
+    "info": "더 현대 서울",
+    "time": "13:40-14:50",
+    "price": "35,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "보보그라운드 잉글리시 40개월이상:캠핑텐트 만들기",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "40,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "성수동 목공방 정근날, 감성을 담은 추석선물 원목도마",
+    "info": "더 현대 서울",
+    "time": "15:00-16:30",
+    "price": "68,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이라킷 키즈베이킹 클래스 40개월~A:명절 추석케이크",
+    "info": "더 현대 서울",
+    "time": "10:50-11:50",
+    "price": "35,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이라킷 키즈베이킹 클래스 40개월~B:명절 추석케이크",
+    "info": "더 현대 서울",
+    "time": "12:10-13:10",
+    "price": "35,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "어반리치의 지역분석, 임장 도대체 어떻게 하는 걸까요?",
+    "info": "더 현대 서울",
+    "time": "11:00-13:30",
+    "price": "40,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "엘리하이 키즈 브레인 사이언스 5-7세",
+    "info": "더 현대 서울",
+    "time": "12:50-13:50",
+    "price": "50,000 원",
+    "date": "2024.09.07(토) ~ 2024.09.14(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "엘리하이 키즈 브레인 사이언스 5-7세 : 화산폭발",
+    "info": "더 현대 서울",
+    "time": "12:50-13:50",
+    "price": "25,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 발레 24-42개월/보호자 1인※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "16:40-17:20",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 발레 28-45개월/보호자1인 ※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "14:40-15:20",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 36-48개월 ※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "12:50-13:30",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 40개월 이상 ※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "15:40-16:30",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 48개월-만 5세※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "11:50-12:40",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 만 4-6세※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "13:40-14:30",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "이화 YSM 체형교정 발레 만 5-6세※9.14휴강",
+    "info": "더 현대 서울",
+    "time": "10:50-11:40",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 자연과 책의 만남 리틀포레 40개월~A※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "14:00-14:40",
+    "price": "90,000 원",
+    "date": "2024.09.08(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "9월 자연과 책의 만남 리틀포레 40개월~B※9.15휴강",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "90,000 원",
+    "date": "2024.09.08(일) ~ 2024.09.29(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "바탕소 어린이과학&미술 스팀교육 6세이상:씽씽~몬스터트럭",
+    "info": "더 현대 서울",
+    "time": "11:00-11:50",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "바탕소 어린이과학&미술 스팀교육 8세이상:씽씽~몬스터트럭",
+    "info": "더 현대 서울",
+    "time": "12:10-13:00",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "스스로만들어작동하는루다아트40개월이상A:빗물감지센서하우스",
+    "info": "더 현대 서울",
+    "time": "11:00-12:00",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "스스로만들어작동하는루다아트40개월이상B:빗물감지센서하우스",
+    "info": "더 현대 서울",
+    "time": "12:30-13:30",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "자연과 책의만남 리틀포레 40개월~A:토끼만나기&달토끼떡",
+    "info": "더 현대 서울",
+    "time": "14:00-14:40",
+    "price": "30,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "자연과 책의만남 리틀포레 40개월~B:토끼만나기&달토끼떡",
+    "info": "더 현대 서울",
+    "time": "15:00-15:40",
+    "price": "30,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이 아트플레이 14-20개월:구슬그림",
+    "info": "더 현대 서울",
+    "time": "16:00-16:40",
+    "price": "30,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이 아트플레이 18-26개월:구슬그림",
+    "info": "더 현대 서울",
+    "time": "16:50-17:30",
+    "price": "30,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "9월 퍼포먼스미술놀이 아트플레이 24-33개월:구슬그림",
+    "info": "더 현대 서울",
+    "time": "17:40-18:20",
+    "price": "30,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "음공스튜디오 가을의 버섯 데이: 매콤한 버섯페스토 요리",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "65,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]특별한 날을 위한 연예인 속눈썹 포인트 레슨",
+    "info": "더 현대 서울",
+    "time": "18:50-19:20",
+    "price": "50,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:1진행]특별한 날을 위한 연예인 속눈썹 포인트 레슨",
+    "info": "더 현대 서울",
+    "time": "18:10-18:40",
+    "price": "50,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:3진행]9월 전문가와 함께 나만의 눈썹 찾기9.10",
+    "info": "더 현대 서울",
+    "time": "17:00-18:00",
+    "price": "40,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 CMK 퍼스널 컬러 진단&이미지 메이킹",
+    "info": "더 현대 서울",
+    "time": "13:30-15:00",
+    "price": "50,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 CMK 퍼스널 컬러 진단&이미지 메이킹",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "50,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "[1:4진행]9월 나의 체형과 이미지 스타일 분석",
+    "info": "더 현대 서울",
+    "time": "19:00-20:30",
+    "price": "50,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아까h 제철이탈리아가정식: 가지 절임, 콩파스타",
+    "info": "더 현대 서울",
+    "time": "11:30-13:00",
+    "price": "65,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  }
+]

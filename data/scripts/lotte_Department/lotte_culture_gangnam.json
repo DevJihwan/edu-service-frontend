@@ -1,0 +1,1452 @@
+[
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/13] 가을 별자리여행과 천체망원경 관찰탐험",
+    "info": "롯데백화점 강남점",
+    "time": "18:00~19:50",
+    "price": "25,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/20 외부] 뮤지엄 나이트 다니엘 아샴전 프라이빗 도슨트 투어",
+    "info": "롯데백화점 강남점",
+    "time": "19:00~20:00",
+    "price": "35,000 원",
+    "date": "2024년 09월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/22] 내가 만드는 캐릭터 보물상자",
+    "info": "롯데백화점 강남점",
+    "time": "14:30~15:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[9/22] 꼬마파브르의 가을 곤충 관찰하기",
+    "info": "롯데백화점 강남점",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[9/22] 유아미술특강 아트풀키즈 -볼이 통통한 가을다람쥐와 피땅콩",
+    "info": "롯데백화점 강남점",
+    "time": "16:00~16:50",
+    "price": "10,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/23] 한블럭 차이가 다른 지역별 아파트 선정 기준 2",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 09월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[중간수강] 퀴니쿠니 영어놀이터",
+    "info": "롯데백화점 강남점",
+    "time": "16:40~17:20",
+    "price": "160,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[중간수강] 퀴니쿠니 영어놀이터",
+    "info": "롯데백화점 강남점",
+    "time": "15:00~15:40",
+    "price": "160,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/24 외부] 터키문화원과 함께하는 천상의 맛 카이막",
+    "info": "롯데백화점 강남점",
+    "time": "14:30~16:30",
+    "price": "60,000 원",
+    "date": "2024년 09월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/24]특별초대요리-아롱사태채소무침 / 해물잡채 / 육전샐러드&소스",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 09월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "삼성스토어 롯데 강남과 함께하는 Galaxy AI 스마트 아카데미",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~12:30",
+    "price": " 원",
+    "date": "날짜 정보 없음",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/26 외부] 압구정 갤러리 데이트",
+    "info": "롯데백화점 강남점",
+    "time": "11:30~12:30",
+    "price": "30,000 원",
+    "date": "2024년 09월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "초보자도 할 수 있는 스마트폰으로 브이로그 만들기",
+    "info": "롯데백화점 강남점",
+    "time": "13:40~15:10",
+    "price": "20,000 원",
+    "date": "날짜 정보 없음",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/26 외부] 탕춘대성 역사트레킹",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~14:30",
+    "price": "20,000 원",
+    "date": "2024년 09월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/27] 우주로 향했던 한국 근현대 미술작가들",
+    "info": "롯데백화점 강남점",
+    "time": "13:40~14:40",
+    "price": "20,000 원",
+    "date": "2024년 09월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/27외부] 육상 국가대표 출신 러닝BK와 함께하는 러닝클래스",
+    "info": "롯데백화점 강남점",
+    "time": "19:00~20:30",
+    "price": "5,000 원",
+    "date": "2024년 09월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/28] 극강의 고소, 꾸덕 촉촉한 흑임자 갸또 쇼콜라 케이크",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:30",
+    "price": "20,000 원",
+    "date": "2024년 09월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/28 외부] 나만의 인생 취미 발견 홍콩 마작 초급",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~14:00",
+    "price": "80,000 원",
+    "date": "2024년 09월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[중간수강] Sing Pop&Musical 동요",
+    "info": "롯데백화점 강남점",
+    "time": "15:30~16:20",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[중간수강] Sing Nori 동요",
+    "info": "롯데백화점 강남점",
+    "time": "14:30~15:20",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/29] 우리 아이 1cm+ 자세 교정 척추 바로 세우기 코어 운동",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~12:50",
+    "price": "10,000 원",
+    "date": "2024년 09월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[9/29] 렛츠베이크 원어민 선생님과 바나나푸딩 만들기 A",
+    "info": "롯데백화점 강남점",
+    "time": "10:40~11:40",
+    "price": "10,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[9/29] 전래동화 인형극 <은혜를 모르는 호랑이>",
+    "info": "롯데백화점 강남점",
+    "time": "17:00~17:40",
+    "price": "10,000 원",
+    "date": "2024년 09월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강]우지인 마스터의 팻버닝 타바타 트레이닝",
+    "info": "롯데백화점 강남점",
+    "time": "14:20~15:20",
+    "price": "120,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[9/30] 아파트와는 전혀 다른 최신 상권 트랜드",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 09월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/1] 새콤 달콤 애플 크럼블 케이크",
+    "info": "롯데백화점 강남점",
+    "time": "18:30~20:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/1] 특별초대요리-대패삼겹마늘소스딤섬찜 / 등갈비강정",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/2 외부] 달리기의 계절 가을에 달리는 시티런",
+    "info": "롯데백화점 강남점",
+    "time": "19:30~21:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/2 외부] 성북동 문화탐방",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~12:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/4] 가을소재를 이용한 핸드타이드",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~11:50",
+    "price": "50,000 원",
+    "date": "2024년 10월 04일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] K-POP 유행댄스",
+    "info": "롯데백화점 강남점",
+    "time": "17:20~18:10",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] K-POP 유행댄스",
+    "info": "롯데백화점 강남점",
+    "time": "15:20~16:10",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] 프리미엄 어린이 영어 뮤지컬",
+    "info": "롯데백화점 강남점",
+    "time": "16:40~17:30",
+    "price": "120,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/6]달콤, 베이킹_캠핑 케이크",
+    "info": "롯데백화점 강남점",
+    "time": "15:00~16:00",
+    "price": "15,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/6] NEW 생각하는박물관 스토리텔링 아트랩 <주제 :앙리마티스>",
+    "info": "롯데백화점 강남점",
+    "time": "12:30~14:10",
+    "price": "20,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "[중간수강] 월요 트니트니",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~12:40",
+    "price": "93,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "[중간수강] 월요 트니트니",
+    "info": "롯데백화점 강남점",
+    "time": "11:10~11:50",
+    "price": "93,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "[중간수강] 월요 트니트니",
+    "info": "롯데백화점 강남점",
+    "time": "10:20~11:00",
+    "price": "93,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] NEW K-POP 스트릿 방송댄스",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~11:50",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/7] 나만의 취향 찾기, 가을 절기 티 블렌딩",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~15:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/7] 백글의 악필탈출! 한글날 맞이 바른 내 글씨체 찾기",
+    "info": "롯데백화점 강남점",
+    "time": "15:00~16:00",
+    "price": "20,000 원",
+    "date": "2024년 10월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "실전 투자전략, 경제기초편(4주)",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "40,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/7] 필수 이벤트인 노후를 준비하고 맞이하는 재무 플랜",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] 화요 트니트니",
+    "info": "롯데백화점 강남점",
+    "time": "16:40~17:20",
+    "price": "93,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] 화요 트니트니",
+    "info": "롯데백화점 강남점",
+    "time": "17:30~18:10",
+    "price": "93,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] 이상진 여행스케치",
+    "info": "롯데백화점 강남점",
+    "time": "16:00~18:00",
+    "price": "120,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[중간수강] 김수연의 임산부 요가",
+    "info": "롯데백화점 강남점",
+    "time": "13:40~14:40",
+    "price": "80,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/8 외부] 한옥에서 영화와 전통주를 마시며 그리는 동양화",
+    "info": "롯데백화점 강남점",
+    "time": "19:00~21:00",
+    "price": "40,000 원",
+    "date": "2024년 10월 08일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/8] 특별초대요리-전복수삼냉채 / 데리야끼소스장어구이",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 08일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/10] '뉴욕의 가을' 플라워 어레인지먼트",
+    "info": "롯데백화점 강남점",
+    "time": "12:40~13:50",
+    "price": "15,000 원",
+    "date": "2024년 10월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/10] 가을꽃 바스켓",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~14:40",
+    "price": "10,000 원",
+    "date": "2024년 10월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/10 외부] 서오릉고개 역사트레킹",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~14:30",
+    "price": "20,000 원",
+    "date": "2024년 10월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/11] 가을 감성 롱&로우 공간장식",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~11:50",
+    "price": "50,000 원",
+    "date": "2024년 10월 11일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "김현주의 Let`s Go 플로리스트 2차",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~11:50",
+    "price": "75,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[10/12] 렛츠베이크 원어민 선생님과 꿀벌케이크 만들기 A",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~14:00",
+    "price": "10,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/13] 강화유리에 담아가는 이색 김밥",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~14:30",
+    "price": "5,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/13] 이금기 소스로 가정 중화 요리",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~12:30",
+    "price": "5,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이화 YSM 클레식 발레 2차",
+    "info": "롯데백화점 강남점",
+    "time": "10:40~11:40",
+    "price": "65,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/14] 가을 정취를 담은 터키 홍차 클래스",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~15:10",
+    "price": "10,000 원",
+    "date": "2024년 10월 14일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/14] 금리, 환율, 물가, 부동산, 주식, 보험, 세금 등 용어",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 14일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "부동산경매 실전투자 과정(실전반)",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "370,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/15] 쫀득 부드러운 가을 화과자",
+    "info": "롯데백화점 강남점",
+    "time": "19:00~21:00",
+    "price": "20,000 원",
+    "date": "2024년 10월 15일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/15] 모델 프로가 알려주는 실전 워킹 포징",
+    "info": "롯데백화점 강남점",
+    "time": "15:00~16:30",
+    "price": "20,000 원",
+    "date": "2024년 10월 15일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/15] 비법양념 보리고추씨막장/바로만들어먹는명품 백련초 마늘고추장",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 15일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/16] '아름다움은 무죄' 프리네와 플락시텔레스",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~11:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 16일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "NEW 그리스 여행 전 꼭 알아야 할 이야기",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~11:20",
+    "price": "40,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/16 외부] 종로서북부 문화탐방",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~12:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 16일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/17] 유은정 원장의「다이어트 실패는 내 탓이 아니라 뇌 탓」",
+    "info": "롯데백화점 강남점",
+    "time": "13:40~14:40",
+    "price": "10,000 원",
+    "date": "2024년 10월 17일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/18 수원] 익어가는 가을, 매산양조장과 함께 국화로 전통주 빚기",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~16:30",
+    "price": "40,000 원",
+    "date": "2024년 10월 18일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이화 YSM 클레식 발레 2차",
+    "info": "롯데백화점 강남점",
+    "time": "14:30~15:30",
+    "price": "65,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "프리미엄 맛있는 요리 2차 (1인 1실습)",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~15:30",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "반찬가게 따라잡기 2차",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~12:30",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/19 외부] 영화 음식남녀로 보는 대만 문화와 금문고량주",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~14:00",
+    "price": "65,000 원",
+    "date": "2024년 10월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/19] 과일모양 화과자",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~15:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/19] 파브스포츠의 통증 없는 런닝을 위한 A TO Z",
+    "info": "롯데백화점 강남점",
+    "time": "15:40~16:40",
+    "price": "5,000 원",
+    "date": "2024년 10월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/20] 나만의 캐릭터 문패 - 아이 혼자",
+    "info": "롯데백화점 강남점",
+    "time": "15:50~16:50",
+    "price": "10,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/20] 캐릭터 변신 필통 (2인)",
+    "info": "롯데백화점 강남점",
+    "time": "14:30~15:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/20] 움트리 소스로 피크닉 도시락",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~12:30",
+    "price": "5,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/20] 청정원 카레여왕 주말 별식",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~14:30",
+    "price": "5,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/21] 주식 전문가가 알려주는 주식투자의 Tip 3",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 21일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "간단하지만 맛있는 일품생활요리 2차",
+    "info": "롯데백화점 강남점",
+    "time": "19:00~21:00",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/22] 전통과 현대미술의 조화 자개 달항아리",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~15:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "배쌤의 맛깔난 집밥 요리비결 2차",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~12:20",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/22] 가을 해물 장 요리 - 전복장 / 꼬막장 / 새우장",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/23] 몽끄컬러랩 허다현 대표의 6:1 퍼스널 컬러 진단",
+    "info": "롯데백화점 강남점",
+    "time": "14:30~15:30",
+    "price": "60,000 원",
+    "date": "2024년 10월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/23] 효린파파의 우리아이 자신감 향상! 초등영어 리딩의 모든 것",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~13:00",
+    "price": "20,000 원",
+    "date": "2024년 10월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/23] 영화 '아고라' 로 보는 여성 수학자 히파티아",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~11:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/23 외부] 한옥에서 즐기는 가을절기 티클래스",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~15:10",
+    "price": "30,000 원",
+    "date": "2024년 10월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/24 외부] 북촌 아트투어",
+    "info": "롯데백화점 강남점",
+    "time": "11:30~12:30",
+    "price": "30,000 원",
+    "date": "2024년 10월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/24 외부] 화계사 역사트레킹",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~14:30",
+    "price": "20,000 원",
+    "date": "2024년 10월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/25] 이벤트 데코 플라워",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~11:50",
+    "price": "50,000 원",
+    "date": "2024년 10월 25일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/26 외부] 비타민디와 함께 걸으면서 지구도 지키는 제로트레킹",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~12:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[10/26] 렛츠베이크 원어민 선생님과 몽블랑 머핀 만들기 A",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~12:40",
+    "price": "10,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/26 외부] 춘풍양조장 투어X우리술 잡학 지식",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~16:00",
+    "price": "35,000 원",
+    "date": "2024년 10월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/27] 가을을 담은 제철 한식 밥상",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~12:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[10/27] 꼬마파브르의 타란큘라거미 관찰하기",
+    "info": "롯데백화점 강남점",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/28] 달드앙의 가을을 담은 저당 디자인 양갱",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~16:00",
+    "price": "65,000 원",
+    "date": "2024년 10월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/28] 주식 기초와 펀드/ ELS 등 간접투자상품들의 투자 방법",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/29] 선물하기 좋은 사랑 가득 기러기(원앙)케이크",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~16:00",
+    "price": "20,000 원",
+    "date": "2024년 10월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/29] 가을 해물 장 요리 - 명품간장게장 / 매콤한 꽃게무침",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "미술, 향기에 취하다 - 데이비드 호크니",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~12:00",
+    "price": "10,000 원",
+    "date": "날짜 정보 없음",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/30] 지중해 음식 그리스",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~11:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[10/30 외부] 양천 문화탐방",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~12:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/2] 꼼지락 귀요미 와이어 키링 만들기",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~14:10",
+    "price": "35,000 원",
+    "date": "2024년 11월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/2] 내방안 공기정화 식물 심기",
+    "info": "롯데백화점 강남점",
+    "time": "12:40~13:20",
+    "price": "35,000 원",
+    "date": "2024년 11월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "재미만점 이야기 한국사",
+    "info": "롯데백화점 강남점",
+    "time": "15:30~16:20",
+    "price": "50,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "실전 투자전략, 증여/ 상속 등 세무편(4주)",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "40,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/4] 자산만큼 늘어나는 증여세의 합법적 절세전략/ 증여편",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 04일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/5] 보이스트레닝:목소리를 부탁해(성인)",
+    "info": "롯데백화점 강남점",
+    "time": "11:50~12:50",
+    "price": "20,000 원",
+    "date": "2024년 11월 05일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/5] 가을밤 가득 달콤한 몽블랑 타르트",
+    "info": "롯데백화점 강남점",
+    "time": "18:30~20:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 05일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/5] 특별김장김치-겨울김장포기김치(비법양념배워보기) / 배추백김치",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 05일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "아트가이드와 떠나는 스페인 미술관 여행",
+    "info": "롯데백화점 강남점",
+    "time": "12:40~13:40",
+    "price": "10,000 원",
+    "date": "날짜 정보 없음",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/6] 환상의 섬 '산토리니' 둘러보기",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~11:20",
+    "price": "10,000 원",
+    "date": "2024년 11월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/7] '꽃보다 아름다운 나' 힐링플라워",
+    "info": "롯데백화점 강남점",
+    "time": "12:40~13:50",
+    "price": "15,000 원",
+    "date": "2024년 11월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/7] 블링 블링 예쁜 꽃다발",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~14:40",
+    "price": "10,000 원",
+    "date": "2024년 11월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/7 외부] 춘풍양조장 투어X우리술 잡학 지식",
+    "info": "롯데백화점 강남점",
+    "time": "14:00~16:00",
+    "price": "35,000 원",
+    "date": "2024년 11월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/7 외부] 성북동 역사트레킹",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~14:30",
+    "price": "20,000 원",
+    "date": "2024년 11월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/8] 빼빼로데이 플라워데코",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~11:50",
+    "price": "50,000 원",
+    "date": "2024년 11월 08일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[11/9] 렛츠베이크 원어민 선생님과 빼빼로 만들기 A",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~14:00",
+    "price": "10,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/9 외부] 대만 관광청과 함께하는 금문고량주X마작 클래스",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~14:00",
+    "price": "80,000 원",
+    "date": "2024년 11월 09일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/10]달콤, 베이킹_우주비행 케이크",
+    "info": "롯데백화점 강남점",
+    "time": "15:00~16:00",
+    "price": "15,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/11] 자산만큼 늘어나는 상속세의 합법적 절세전략/ 상속편",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 11일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/12] 플라워 디자인 우이로우 화과자",
+    "info": "롯데백화점 강남점",
+    "time": "19:00~21:00",
+    "price": "20,000 원",
+    "date": "2024년 11월 12일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/12] 특별김장김치- 알타리(총걱무)김치 / 겨울 동치미",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 12일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/13] 몽끄컬러랩 허다현 대표의 6:1 퍼스널 컬러 진단",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~12:00",
+    "price": "60,000 원",
+    "date": "2024년 11월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/13 외부] 북촌 문화탐방",
+    "info": "롯데백화점 강남점",
+    "time": "10:00~12:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/16] 꽃 & 토끼 화과자",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~15:00",
+    "price": "15,000 원",
+    "date": "2024년 11월 16일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[11/17] 렛츠베이크 원어민 선생님과 붕어빵 마들렌 만들기 A",
+    "info": "롯데백화점 강남점",
+    "time": "10:40~11:40",
+    "price": "10,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/18] 예술을 담은 한 그릇, 아트푸드 클래스",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~13:00",
+    "price": "30,000 원",
+    "date": "2024년 11월 18일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/18] 돈은 내는데, 내용은 모르는 꼭 필요한 보험 점검하기",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 18일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/19 노원] 전통주 테이스팅 with 생활공작소",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~14:30",
+    "price": "30,000 원",
+    "date": "2024년 11월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/19 노원] 전통주 술 빚기 with 생활공작소",
+    "info": "롯데백화점 강남점",
+    "time": "11:00~12:30",
+    "price": "30,000 원",
+    "date": "2024년 11월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/19] 특별김장김치-남도식여수돌산갓김치 / 쪽파김치",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/21 외부] 청담동 명품 거리 갤러리 투어",
+    "info": "롯데백화점 강남점",
+    "time": "11:30~12:30",
+    "price": "30,000 원",
+    "date": "2024년 11월 21일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/22] 자신감 있게 오프숄더 입자! 승모근 타파 직각 어깨 사용법",
+    "info": "롯데백화점 강남점",
+    "time": "11:40~12:40",
+    "price": "10,000 원",
+    "date": "2024년 11월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "[11/24] 꼬마파브르의 카멜레온 관찰하기",
+    "info": "롯데백화점 강남점",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/25] 잘 준비된 증여와 함께 아이의 미래를 위한 기본습관만들기",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 25일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/26] 특별김장김치 - 전복김치 / 굴무생채",
+    "info": "롯데백화점 강남점",
+    "time": "13:00~15:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/29] 최고급 재료로 프리미엄 김치만들기",
+    "info": "롯데백화점 강남점",
+    "time": "13:30~15:30",
+    "price": "10,000 원",
+    "date": "2024년 11월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/29] 나에게 딱 맞춘 1:1 메이크업",
+    "info": "롯데백화점 강남점",
+    "time": "12:40~13:30",
+    "price": "60,000 원",
+    "date": "2024년 11월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/29] 나에게 딱 맞춘 1:1 메이크업",
+    "info": "롯데백화점 강남점",
+    "time": "13:40~14:30",
+    "price": "60,000 원",
+    "date": "2024년 11월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/29] 나에게 딱 맞춘 1:1 메이크업",
+    "info": "롯데백화점 강남점",
+    "time": "11:30~12:20",
+    "price": "60,000 원",
+    "date": "2024년 11월 29일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/29] 나에게 딱 맞춘 1:1 메이크업",
+    "info": "롯데백화점 강남점",
+    "time": "12:40~13:20",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/30] 강민구 트레이너가 알려주는 키크는 방법! 하체 근력 만들기",
+    "info": "롯데백화점 강남점",
+    "time": "12:00~12:50",
+    "price": "10,000 원",
+    "date": "2024년 11월 30일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "[11/30외부] 생각하는박물관과 함께하는 예술의전당<빈센트 반고흐 전>",
+    "info": "롯데백화점 강남점",
+    "time": "10:30~12:00",
+    "price": "10,000 원",
+    "date": "2024년 11월 30일",
+    "sessionType": "oneday"
+  }
+]

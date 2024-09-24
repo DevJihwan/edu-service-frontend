@@ -1,0 +1,942 @@
+[
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/11 본점] 인도 국빈 선물용 차를 만나다 with 압끼빠산드",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:30",
+    "price": "30,000 원",
+    "date": "2024년 09월 11일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/11 본점] 김환기&김선우 아트 에디션 와인과 함께 떠나는 미술산책",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "19:00~20:30",
+    "price": "30,000 원",
+    "date": "2024년 09월 11일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "깨비깨비 오감뚝딱 [10~15개월] B",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:40~15:20",
+    "price": "109,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "깨비깨비 오감뚝딱 [7~12개월]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:50~14:30",
+    "price": "109,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "깨비깨비 오감뚝딱 [5~10개월]B",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:00~13:40",
+    "price": "109,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "깨비깨비 오감뚝딱 [5~10개월]A",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "12:10~12:50",
+    "price": "109,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "깨비깨비 오감뚝딱 [10~15개월] A",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:20~12:00",
+    "price": "109,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/11] 광화문금융러의 예적금보다 5배 빠른 무손실 투자 수익화",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 11일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/13] 전통 보자기 스타일링",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:00~17:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/13] 내 손으로 빚는 자개 반지",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "발레 레벨 1",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~11:50",
+    "price": "121,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "발레 베이직 기초",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "10:00~10:50",
+    "price": "121,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "민정윤의 달콤한 이지 홈베이킹[1차,9/14-10/12]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~13:00",
+    "price": "50,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/14] 추석선물로 좋은 호두 사블레",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 14일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "2:1 SNPE 바른자세 체형교정 운동",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:20~17:10",
+    "price": "280,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "2:1 SNPE 바른자세 체형교정 운동",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:10",
+    "price": "280,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "2:1 SNPE 바른자세 체형교정 운동",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:20~15:10",
+    "price": "280,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "2:1 SNPE 바른자세 체형교정 운동",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:20~14:10",
+    "price": "280,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/20 외부] 뮤지엄 나이트 다니엘 아샴전 프라이빗 도슨트 투어",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "19:00~20:00",
+    "price": "35,000 원",
+    "date": "2024년 09월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[9/21]꼬마요리사-아마레티쿠키[17년~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:20",
+    "price": "5,000 원",
+    "date": "2024년 09월 21일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[9/21]꼬마요리사-팥앙금찰꿀빵[17년~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:00",
+    "price": "5,000 원",
+    "date": "2024년 09월 21일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[9/22]꼬마요리사- 모나카플로랑탱[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:00",
+    "price": "5,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[9/22]꼬마요리사-로미아스쿠키[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:20",
+    "price": "5,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/22]영국식 플라워-가을느낌 가득한 센터피스",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:00",
+    "price": "15,000 원",
+    "date": "2024년 09월 22일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[9/23]생태체험:메뚜기는 어떤 곤충일까[2015~2017년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:30~17:20",
+    "price": "10,000 원",
+    "date": "2024년 09월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[9/23]생태체험:반딧불이 목걸이 만들기[2015~2017년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "17:30~18:20",
+    "price": "10,000 원",
+    "date": "2024년 09월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/24] 바바리아 왕실의 Tea Party : 오후의 티타임",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:30",
+    "price": "20,000 원",
+    "date": "2024년 09월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/27] 미래형 영어 교육의 비밀, 성공적인 엄마표 영어 실천 가이드",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/28] 피스타치오 티라미수",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 09월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[9/28 외부] 나만의 인생 취미 발견 홍콩 마작 초급",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~14:00",
+    "price": "80,000 원",
+    "date": "2024년 09월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/2] 개념있는 희애씨 기초 금융상식",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/2 외부] 달리기의 계절 가을에 달리는 시티런",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "19:30~21:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 02일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/5] 한약사에게 배우는 환절기 기운을 보하는 한방차",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 05일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/6]어린이 직업체험 -보석 발굴단[19년생~초등저,혼자반]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:30~17:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/6]어린이 직업체험 -CSI 과학수사대[19년생~초등저,혼자반]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:30~16:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/6]어린이 직업체험 -치과[19년생~초등저,혼자반]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:30~15:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/6]영국식 플라워-스칸디아모스 토피어리",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/6] 하늘하늘 가을 코스모스 백드롭 페인팅",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:00~15:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 06일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/8] 초보 캠퍼들을 위한 지침서",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "19:00~20:00",
+    "price": "20,000 원",
+    "date": "2024년 10월 08일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/8 외부] 한옥에서 영화와 전통주를 마시며 그리는 동양화",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "19:00~21:00",
+    "price": "40,000 원",
+    "date": "2024년 10월 08일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/10] 나를 위한 영양가득 한 끼 식사",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~13:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "일본 가정식 일본은 맛있다",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "19:00~20:00",
+    "price": "60,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/12] 버터풍미 가득한 갈레트 브루통",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 12일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "[10/13] 내 방안 공기정화 식물심기(19~21년, 보호자1인 동반)",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:20~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/13] 꼼지락 귀요미 와이어 키링(18년생~초등저, 혼자반)",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:30~14:10",
+    "price": "10,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/13]엄마랑 만드는 거미쿠키(20년생-초등, 보호자1인)",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "12:20~13:10",
+    "price": "10,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/13]엄마랑 만드는 과자 듬뿍 케이크(20년생-초등, 보호자1인)",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~11:50",
+    "price": "10,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/13] 안녕 가을? 가을감성 프랑스 자수",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~18:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 13일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/14] 아이패드 가을 엽서 드로잉",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "18:00~19:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 14일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/18 수원] 익어가는 가을, 매산양조장과 함께 국화로 전통주 빚기",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "40,000 원",
+    "date": "2024년 10월 18일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/18] 환절기 천연보습 저자극 비누",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:30~15:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 18일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/18] 요즘 핫한 디저트 두바이 초콜릿바",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:00~17:00",
+    "price": "10,000 원",
+    "date": "2024년 10월 18일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/19 외부] 영화 음식남녀로 보는 대만 문화와 금문고량주",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~14:00",
+    "price": "65,000 원",
+    "date": "2024년 10월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gwangjin",
+    "title": "베이비 뇌발달체조와 힐링 마사지 [2-8개월] 2차",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "17:00~17:40",
+    "price": "120,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "민정윤의 달콤한 이지 홈베이킹[2차,10/19-11/16]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~13:00",
+    "price": "50,000 원",
+    "date": "2024.09.12 ~ 2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/19]꼬마요리사-초콜릿마들렌[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:20",
+    "price": "5,000 원",
+    "date": "2024년 10월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/19]꼬마요리사-바스크치즈케이크[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:00",
+    "price": "5,000 원",
+    "date": "2024년 10월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/20] 어린이 뮤지컬 멋진 어린이 선발대회",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "17:30~18:10",
+    "price": "5,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/20]꼬마요리사-마롱크림타르트[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:00",
+    "price": "5,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/20]꼬마요리사-마롱티그레[17~20년생, 보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:20",
+    "price": "5,000 원",
+    "date": "2024년 10월 20일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/23 외부] 한옥에서 즐기는 가을절기 티클래스",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:10",
+    "price": "30,000 원",
+    "date": "2024년 10월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/26] 얼그레이 초코타르트",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 10월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/26 외부] 비타민디와 함께 걸으면서 지구도 지키는 제로트레킹",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "10:00~12:00",
+    "price": "15,000 원",
+    "date": "2024년 10월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[10/26 외부] 춘풍양조장 투어X우리술 잡학 지식",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:00",
+    "price": "35,000 원",
+    "date": "2024년 10월 26일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/27]어린이 직업체험 -우주과학자[19년생~초등저,혼자반]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:30~17:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/27]어린이 직업체험 -발명왕 변리사[19년생~초등저,혼자반]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:30~16:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/27]어린이 직업체험 -경찰관[19년생~초등저,혼자반]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:30~15:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 27일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/28]생태체험: 무당거미 한살이[2015~2017년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:30~17:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[10/28]생태체험: 가을 귀뚜라기 알기 [2015~2017년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "17:30~18:20",
+    "price": "10,000 원",
+    "date": "2024년 10월 28일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/1]가을에 어울리는 1:1 맞춤 메이크업",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "13:10~14:00",
+    "price": "60,000 원",
+    "date": "2024년 11월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/1]가을에 어울리는 1:1 맞춤 메이크업",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:10~15:00",
+    "price": "60,000 원",
+    "date": "2024년 11월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/1]가을에 어울리는 1:1 맞춤 메이크업",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "12:00~12:50",
+    "price": "60,000 원",
+    "date": "2024년 11월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/1]가을에 어울리는 1:1 맞춤 메이크업",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~11:50",
+    "price": "60,000 원",
+    "date": "2024년 11월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/1]가을에 어울리는 1:1 맞춤 메이크업",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "10:00~10:50",
+    "price": "60,000 원",
+    "date": "2024년 11월 01일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/7 외부] 춘풍양조장 투어X우리술 잡학 지식",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:00",
+    "price": "35,000 원",
+    "date": "2024년 11월 07일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/9] 초콜릿 피스타치오 마들렌",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 11월 09일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/9 외부] 대만 관광청과 함께하는 금문고량주X마작 클래스",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~14:00",
+    "price": "80,000 원",
+    "date": "2024년 11월 09일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/10]엄마랑 만드는 빼빼로(20년생~초등, 보호자1인)",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "12:20~13:10",
+    "price": "10,000 원",
+    "date": "2024년 11월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/10]엄마랑 만드는 눈사람케이크(20년생~초등, 보호자1인)",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~11:50",
+    "price": "10,000 원",
+    "date": "2024년 11월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/10]아트플로우:알록달록 가을놀이[20~21년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~14:40",
+    "price": "5,000 원",
+    "date": "2024년 11월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/10]아트플로우:알록달록 가을놀이[2017~2019년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:00~15:40",
+    "price": "5,000 원",
+    "date": "2024년 11월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/10]영국식 플라워-캔들 어렌지",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "11:00~12:00",
+    "price": "15,000 원",
+    "date": "2024년 11월 10일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/12] 집에서 만들어 먹는 홈스트랑 메뉴",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "10:30~12:30",
+    "price": "10,000 원",
+    "date": "2024년 11월 12일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/16]꼬마요리사-고구마타르트[17~20년생, 보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:20",
+    "price": "5,000 원",
+    "date": "2024년 11월 16일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/16]꼬마요리사-당근케이크[17~20년생, 보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:00",
+    "price": "5,000 원",
+    "date": "2024년 11월 16일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/17] 꼬마요리사-애플파이[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:20~16:20",
+    "price": "5,000 원",
+    "date": "2024년 11월 17일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/17]꼬마요리사-아몬드초콜릿토핑케이크[17~20년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~15:00",
+    "price": "5,000 원",
+    "date": "2024년 11월 17일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/19] 집에서 만들어 먹는 홈스트랑 메뉴",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "10:30~12:30",
+    "price": "10,000 원",
+    "date": "2024년 11월 19일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/23] 새콤달콤한 애플파이",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~16:30",
+    "price": "10,000 원",
+    "date": "2024년 11월 23일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/24]아트플로우:다람쥐의 가을열매[2017~2019년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "15:00~15:40",
+    "price": "5,000 원",
+    "date": "2024년 11월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/24]아트플로우:다람쥐의 가을열매[20~21년생,보호자1인]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "14:00~14:40",
+    "price": "5,000 원",
+    "date": "2024년 11월 24일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/25]생태체험:땅속 지층 만들기[2015~2017년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "16:30~17:20",
+    "price": "10,000 원",
+    "date": "2024년 11월 25일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gwangjin",
+    "title": "[11/25]생태체험: CD우주선팽이 만들기[2015~2017년생]",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "17:30~18:20",
+    "price": "10,000 원",
+    "date": "2024년 11월 25일",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gwangjin",
+    "title": "[11/26] 집에서 만들어 먹는 홈스트랑 메뉴",
+    "info": "롯데백화점 건대스타시티점",
+    "time": "10:30~12:30",
+    "price": "10,000 원",
+    "date": "2024년 11월 26일",
+    "sessionType": "oneday"
+  }
+]

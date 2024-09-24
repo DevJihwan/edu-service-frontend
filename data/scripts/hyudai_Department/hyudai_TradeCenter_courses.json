@@ -1,0 +1,4392 @@
+[
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "신체놀이 짐짐펀 (13-19개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:40-15:20",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_가을 보태니컬 테이블리스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF&FRIEZE 현장 도슨트-13시(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:00",
+    "price": "270,000 원",
+    "date": "",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "Pop&Jazz 피아노 실용반주 B",
+    "info": "현대백화점_무역센터점",
+    "time": "14:20-15:10",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "실과 바늘로 배우는 다양한 공예",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:20",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.01(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "어반스케치&연필인물화",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-18:00",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이기동의 여행일본어(7-9개월이상 습득)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:40-15:40",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "감성 플루트 교실A",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-18:00",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오주영의 토요 바이올린·비올라_9.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-11:50",
+    "price": "185,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "주니토니 베이비 영어발레스타 (30-48개월)A",
+    "info": "현대백화점_무역센터점",
+    "time": "12:50-13:30",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "파티세리베베_두바이초코퍼피컵케익(4세이상,보호자)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:30",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_키친가든 플라워센터피스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_올인원 이미지 메이킹 A",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "150,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_올인원 이미지 메이킹 B",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "150,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "3:1_내가 예뻐진 이유 나만의 스타일찾기",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "80,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "북촌 어둠속의대화-10.2(수) 13:45(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:45-15:25",
+    "price": "33,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "북촌 어둠속의대화-10.2(수) 14:00(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:40",
+    "price": "33,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_왕초보 밀착 메이크업레슨",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-18:30",
+    "price": "100,000 원",
+    "date": "2024.10.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_왕초보 밀착 메이크업레슨",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "100,000 원",
+    "date": "2024.10.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "3:1_내가 예뻐진 이유 나만의 스타일찾기",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "80,000 원",
+    "date": "2024.10.18",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_올인원 이미지 메이킹 A",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "150,000 원",
+    "date": "2024.10.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_올인원 이미지 메이킹 B",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "150,000 원",
+    "date": "2024.10.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_나에게 어울리는 퍼스널컬러&향수",
+    "info": "현대백화점_무역센터점",
+    "time": "12:30-14:30",
+    "price": "65,000 원",
+    "date": "2024.10.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오그림의 갤러리투어_청담동갤러리",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "65,000 원",
+    "date": "2024.10.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_왕초보 밀착 메이크업레슨",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-18:30",
+    "price": "100,000 원",
+    "date": "2024.10.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_파티테이블 플라워센터피스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.10.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "류산슬, 양장피 잡채",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.10.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_자이언트 플라워 부케",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.11.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_왕초보 밀착 메이크업레슨",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "100,000 원",
+    "date": "2024.11.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "짜글이찌개,어묵 버섯 녹두 잡채,닭고기 두부선",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.11.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오그림의 갤러리투어_삼청동갤러리",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "65,000 원",
+    "date": "2024.11.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_왕초보 밀착 메이크업레슨",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-18:30",
+    "price": "100,000 원",
+    "date": "2024.11.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_올인원 이미지 메이킹 A",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "150,000 원",
+    "date": "2024.11.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2:1_올인원 이미지 메이킹 B",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "150,000 원",
+    "date": "2024.11.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "통새우 라이스 크로켓, 치킨크림스튜",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.11.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모델포즈· 여행사진포즈 첫 걸음",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-17:20",
+    "price": "15,000 원",
+    "date": "2024.09.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "EDM 요가 플라이트_10회_10.29휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "EDM 요가 플라이트_1차",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.08(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "NEW]엄혜리의 즐거운 라틴댄스 차차차",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-17:00",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "그림책 크리에이터 심화반_더미북 완성반[합반]",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-18:00",
+    "price": "300,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "근력탄탄 루프밴드 요가필라",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:30",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "나란글씨 김성란의 수채감성 캘리그라피",
+    "info": "현대백화점_무역센터점",
+    "time": "15:40-17:10",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "덤벨 워크아웃_10회_10.29휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "20:00-20:50",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "덤벨 워크아웃_1차",
+    "info": "현대백화점_무역센터점",
+    "time": "20:00-20:50",
+    "price": "100,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.08(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "숨겨진 매력을 찾아서 힐링 모델 워킹(중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:20-11:30",
+    "price": "210,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.12(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "원어민 앨더슨 생활영어 (고급)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:40",
+    "price": "240,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "원어민 앨더슨 생활영어 (중급A)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:00",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "원어민 앨더슨 생활영어 (중급B)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:10-12:10",
+    "price": "180,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "제시의 Talk Talk English_프렌즈 시즌9",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:40",
+    "price": "150,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "조영숙의 화요 영어 교실(중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-12:00",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "조영숙의 화요 영어 교실(초급)",
+    "info": "현대백화점_무역센터점",
+    "time": "09:50-10:50",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "체형교정 클래식 발레 (초급)",
+    "info": "현대백화점_무역센터점",
+    "time": "18:20-19:10",
+    "price": "168,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "코어강화, 틀어진 자세 교정 걷기 운동법",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-14:10",
+    "price": "150,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핫바디핏 체형교정 발레 스트레칭",
+    "info": "현대백화점_무역센터점",
+    "time": "19:20-20:10",
+    "price": "168,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 글렌도만 영재교실 (24-36개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:20",
+    "price": "130,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "화요 트윈클 영어발레 (4-6세)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-17:50",
+    "price": "130,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "영화<카르바지오>속 카라바조의 인생과 예술 세계",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:20",
+    "price": "25,000 원",
+    "date": "2024.09.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9월_스마트 폰 카메라를 활용한 여행사진 찍기 4회",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-11:50",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.10.02(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "김향임의 FUN 라인댄스",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:40",
+    "price": "137,500 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "박상률의 수필, 생활 글 창작",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-12:00",
+    "price": "165,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "박영희 대가에게 배우는 민화교실_10.16휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "15:00-17:00",
+    "price": "200,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "발레피플 입문 완전 정복",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:30",
+    "price": "184,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "수) 김나정의 우아한 라인을 만드는 라인댄스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:30",
+    "price": "137,500 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "수요 레베카의 줌바피트니스 댄스",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-12:50",
+    "price": "137,500 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "수요 트니트니 (13-19개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-12:20",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "수요 트니트니 (15-25개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-10:40",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "수요 트니트니 (18-30개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-11:30",
+    "price": "128,300 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오오또모 후미꼬 일본어 회화(초급1,12개월이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:30-18:30",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오오또모 후미꼬 일본어 회화(초급2,기본 문법 습득이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:10-16:10",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오오또모 후미꼬 일본어 회화(초중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:20-17:20",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "왕초보 줌마 여행영어",
+    "info": "현대백화점_무역센터점",
+    "time": "13:40-14:40",
+    "price": "138,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "윤선형의 짐볼 발레 노블레스 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "20:00-20:50",
+    "price": "367,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "윤선형의 호흡발레 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "184,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "윤정인의 아름다운 한글서예",
+    "info": "현대백화점_무역센터점",
+    "time": "18:30-20:30",
+    "price": "137,500 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이경은의 이탈리아어 회화 (실용회화)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:50",
+    "price": "147,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이경은의 이탈리아어 회화 (중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:40-13:40",
+    "price": "147,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "정서 오감놀이 점핑베이비 (13-21개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-14:40",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "정서 오감놀이 점핑베이비 (5-9개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:00",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "정서 오감놀이 점핑베이비 (7-12개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:50-15:30",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "정서 오감놀이 점핑베이비 (7-15개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-13:50",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "줌마 생생 여행영어",
+    "info": "현대백화점_무역센터점",
+    "time": "16:10-17:00",
+    "price": "138,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "지영쌤의 즐거운 스페인어(시작반2)",
+    "info": "현대백화점_무역센터점",
+    "time": "18:30-19:30",
+    "price": "147,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "지영쌤의 즐거운 스페인어(중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:20-18:20",
+    "price": "147,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "초급 줌마 영어회화",
+    "info": "현대백화점_무역센터점",
+    "time": "15:10-16:00",
+    "price": "138,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "통합놀이 베이비붐 (11-18개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:50-17:30",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "통합놀이 베이비붐 (15-30개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:40-18:20",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "통합놀이 베이비붐 (5-10개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-16:40",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "하이아트 그림으로 크는아이(16-23개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:10-10:50",
+    "price": "130,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "두뇌 마인드 스포츠 브리지(초급)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:40-15:10",
+    "price": "180,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모델 워킹으로 배우는 바른 자세와 걸음걸이(초중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-17:10",
+    "price": "210,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "목요 Happy 순산 임산부 필라테스_1차_9.19휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-12:40",
+    "price": "130,000 원",
+    "date": "2024.09.05(목) ~ 2024.10.17(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "목요 정통 댄스스포츠 (고급/슬로우 폭스,삼바)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:40-15:40",
+    "price": "200,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "목요 정통 댄스스포츠 (초중급/왈츠,자이브)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:30",
+    "price": "180,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "세계사로 그림읽기 1차_9.19휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:35-11:55",
+    "price": "125,000 원",
+    "date": "2024.09.05(목) ~ 2024.10.17(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "세계사로 그림읽기_9.19,11.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:35-11:55",
+    "price": "250,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "신체놀이 짐짐펀 (18-27개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:30-16:10",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "신체놀이 짐짐펀 (28-36개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:20-17:00",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "온라인사전인터뷰]현대 오케스트라_9.1(일)마감",
+    "info": "현대백화점_무역센터점",
+    "time": "18:30-20:30",
+    "price": "0 원",
+    "date": "2024.09.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "일본어 소설 읽기 하루키를 읽는 시간",
+    "info": "현대백화점_무역센터점",
+    "time": "12:00-13:20",
+    "price": "180,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "저녁반_목요 정통 댄스스포츠 (초중급/왈츠,자이브)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:40-18:40",
+    "price": "180,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "3달 배워 내집 마련하는 부동산경매",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:00",
+    "price": "264,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "프랑크푸르트의 슈테델 미술관 산책",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:40",
+    "price": "25,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "9월 퍼포먼스 미술놀이 아트플레이 (14-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-16:40",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "9월 퍼포먼스 미술놀이 아트플레이 (22-35개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:50-17:30",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "9월 퍼포먼스 미술놀이 아트플레이 (33-45개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:40-18:20",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "강민정의 시니어 건강 줌마댄스",
+    "info": "현대백화점_무역센터점",
+    "time": "12:00-13:00",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "금) 김나정의 다이어트 라인댄스 작품완성반",
+    "info": "현대백화점_무역센터점",
+    "time": "19:30-20:20",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "금요 굿모닝 발레즐기기_1차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "80,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "금요 트니트니 (25-36개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:20-17:00",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워의 보태니컬 영국식가든 1차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "90,000 원",
+    "date": "2024.09.06(금) ~ 2024.10.11(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "미리 만나보는 2024 Kiaf 프리뷰 1회 9.6",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "30,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "미술 퍼포먼스 무지개팝 (15-26개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:20-11:00",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "보태니컬아트 그리고 여행스케치",
+    "info": "현대백화점_무역센터점",
+    "time": "10:10-11:40",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.15(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감 퍼포먼스 무지개팝 (10-14개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:10-11:50",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감발달 베베팡팡 (7-16개월)_10.11휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "14:20-15:00",
+    "price": "130,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.29(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오터치 오감발달 놀이코칭 (10-15개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-12:50",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오터치 오감발달 놀이코칭 (4-7개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:10",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오터치 오감발달 놀이코칭 (7-11개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:20-12:00",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "와인마스터와 함께 세계 와인 여행: 프랑스와인 I",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-13:00",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.09.27(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이기동의 여행일본어(1년4개월이상 습득)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:30",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이기동의 여행일본어(7-9개월이상 습득)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-18:00",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "전향아 인문학살롱_독일여행과 미술관탐방_10회",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:40",
+    "price": "250,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "직업체험_곤충 화석 발굴단 (4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:10",
+    "price": "15,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "직업체험_한의사 (4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:40-13:20",
+    "price": "15,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "RFA 유소년 축구교실 by스누미(5-7세)_9.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:10-10:50",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "감성 플루트 교실B",
+    "info": "현대백화점_무역센터점",
+    "time": "18:00-19:00",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "감성음악놀이 연주하는아기새(12-18개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-11:30",
+    "price": "120,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "감성음악놀이 연주하는아기새(18-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-10:40",
+    "price": "120,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "김봉빈의 현대 한국화, 산수화_10.5휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-12:00",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "김진경의 도시풍경 스케치_10.5휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "09:50-11:50",
+    "price": "185,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "박은숙의 첼로 아카데미_9.21/10.19/11.16휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-16:30",
+    "price": "200,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "엘레나와 함께 아미고공주발레(4-6세)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:20-17:00",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "오주영의 어린이 바이올린·비올라(6세이상)_9.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:00-13:00",
+    "price": "185,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이기동의 토요 여행일본어(2-5개월이상습득)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:10",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이기동의 토요 여행일본어(히라가나이상습득)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:15-14:15",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "이현아의 토요 발레 (30-48개월)_10.5휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "이현아의 토요 발레 (4-7세)_10.5휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:30",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "주니토니 베이비 영어발레스타 (30-48개월)B",
+    "info": "현대백화점_무역센터점",
+    "time": "13:40-14:20",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "주니토니 영어발레스타(4-6세)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:10",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "토요 부부댄스스포츠(고급/퀵스텝,파소도블)_10.5휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "18:20-19:20",
+    "price": "200,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "토요 부부댄스스포츠(초중급/탱고,룸바)_10.5휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-18:10",
+    "price": "180,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.16(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 트니트니 (30-50개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-17:40",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_가을소재 센터피스",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "파티세리베베_두바이초코퍼피컵케익(4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-14:10",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "파티세리베베_두바이초코퍼피컵케익(6세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-12:50",
+    "price": "40,000 원",
+    "date": "2024.09.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "부부 임산부 요가 1차_9.8개강",
+    "info": "현대백화점_무역센터점",
+    "time": "15:00-15:50",
+    "price": "180,000 원",
+    "date": "2024.09.08(일) ~ 2024.10.06(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "소예키즈 케이팝 방송댄스 (5-7세)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:20",
+    "price": "120,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "썬데이 근력 향상 필라테스 요가_9.8개강",
+    "info": "현대백화점_무역센터점",
+    "time": "16:10-17:10",
+    "price": "180,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 트니트니 (25-36개월)_9.8개강",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:10",
+    "price": "140,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 트니트니 (30-40개월)_9.8개강",
+    "info": "현대백화점_무역센터점",
+    "time": "16:10-16:50",
+    "price": "140,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 트니트니 (35-55개월)_9.8개강",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-17:40",
+    "price": "140,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "유럽스타일 풍성한 꽃다발(핸드타이드 부케)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-13:00",
+    "price": "55,000 원",
+    "date": "2024.09.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "최고여행사진_기초_9.9개강_휴점 출사_11회",
+    "info": "현대백화점_무역센터점",
+    "time": "12:30-13:50",
+    "price": "189,000 원",
+    "date": "2024.09.09(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "육원전, 통표고전, 오색꼬치산적",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "혼자서 만드는 명절음식-호텔식 LA갈비,육원전",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "115,000 원",
+    "date": "2024.09.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "세계미술관 여행-스페인①_9.10개강_4회",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "110,000 원",
+    "date": "2024.09.10(화) ~ 2024.10.08(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이윤서의 꽃그림, 보태니컬 아트_9.10개강",
+    "info": "현대백화점_무역센터점",
+    "time": "18:30-20:30",
+    "price": "170,000 원",
+    "date": "2024.09.10(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "화요 Happy 순산 임산부 필라테스_1차_9.10개강",
+    "info": "현대백화점_무역센터점",
+    "time": "18:20-19:20",
+    "price": "130,000 원",
+    "date": "2024.09.10(화) ~ 2024.10.15(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "화요 전신회복 리커버링 기구 필라테스_1차_9.10개강",
+    "info": "현대백화점_무역센터점",
+    "time": "19:30-20:30",
+    "price": "125,000 원",
+    "date": "2024.09.10(화) ~ 2024.10.15(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_나에게 어울리는 퍼스널컬러&향수",
+    "info": "현대백화점_무역센터점",
+    "time": "12:30-14:30",
+    "price": "65,000 원",
+    "date": "2024.09.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "영화로 찾아가는 이탈리아역사문화 기행_10회_9.11개강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:20",
+    "price": "250,000 원",
+    "date": "2024.09.11(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아꿍까꿍베이비마사지_할머니의여름휴가(3-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:10",
+    "price": "13,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "패션과 포스트모더니즘 미술의 콜라보레이션",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:30",
+    "price": "25,000 원",
+    "date": "2024.09.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "목요 글렌도만 영재교실 (25-32개월)_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "15:30-16:10",
+    "price": "120,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "엘리의 수채화 꽃 그림, 보태니컬 아트_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:40",
+    "price": "170,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감인지놀이 옹알종알 (10-15개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:00",
+    "price": "100,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감인지놀이 옹알종알 (14-22개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:30-12:10",
+    "price": "100,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감인지놀이 옹알종알 (5-11개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-13:50",
+    "price": "100,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "전신운동 부티바레 플로우 클래스_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "83,000 원",
+    "date": "2024.09.12(목) ~ 2024.09.26(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_플라워리스(테이블장식용)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.09.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "덜 유명해서 더 빛나는 클래식 작곡가_9.13개강_4회",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-12:00",
+    "price": "100,000 원",
+    "date": "2024.09.13(금) ~ 2024.10.04(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "저녁반_내집 마련하는 부동산경매(6회)_날짜확인必",
+    "info": "현대백화점_무역센터점",
+    "time": "19:30-20:30",
+    "price": "150,000 원",
+    "date": "2024.09.13(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "화가의영감을 느껴보는 각자의 미술관 6회 9.13개강",
+    "info": "현대백화점_무역센터점",
+    "time": "15:20-16:40",
+    "price": "150,000 원",
+    "date": "2024.09.13(금) ~ 2024.10.18(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈쿠킹_고양이캐릭터쿠키(5세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-18:10",
+    "price": "28,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9.15 [CAKE DAY] 블루베리 치즈 케이크",
+    "info": "현대백화점_무역센터점",
+    "time": "16:30-18:30",
+    "price": "50,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9.15 [커플베이킹] 추석 선물 월병 박스",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "55,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "렛츠베이크_모듬전쿠키 (4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:20",
+    "price": "28,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "렛츠베이크_모듬전쿠키 (6세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:30-12:20",
+    "price": "28,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_가을병꽂이",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.09.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아꿍까꿍베이비마사지_너는어떤씨앗이니(3-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:10",
+    "price": "13,000 원",
+    "date": "2024.09.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "기존우선접수]현대 오케스트라_9.19개강",
+    "info": "현대백화점_무역센터점",
+    "time": "18:30-20:30",
+    "price": "400,000 원",
+    "date": "2024.09.19(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "색채와 형태의 조화-시대별 예술가들의 이중주_9.19개강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:30",
+    "price": "240,000 원",
+    "date": "2024.09.19(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "시대별 예술가들의 이중주_1차_5회_9.19개강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:30",
+    "price": "125,000 원",
+    "date": "2024.09.19(목) ~ 2024.10.24(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_러스틱 플라워 도어백",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_핸드타이드부케(꽃다발/포장법)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아빠와_티라노공룡초코칩쿠키(3세이상,아빠랑)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "33,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈플라워_고흐의 나무(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:30",
+    "price": "35,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈플라워_모네의 가을(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "35,000 원",
+    "date": "2024.09.21",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_내추럴 들꽃부케",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.09.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "고급스러운 오키드 디자인(팔라놉시스)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-13:00",
+    "price": "55,000 원",
+    "date": "2024.09.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9.24 [브랜드쿠킹] 이금기 중식 손님 초대상 1탄",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.09.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "담이의 내인생을 빛내줄 스마트폰사진,색감클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "30,000 원",
+    "date": "2024.09.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "마파두부, 난자완스, 게살달걀탕",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.09.24",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이주헌과 함께하는 미술관100배즐기기",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "200,000 원",
+    "date": "2024.09.24(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_가을소재와 나무를 사용한 핸드타이드",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:10",
+    "price": "50,000 원",
+    "date": "2024.09.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아꿍까꿍 베이비마사지_병아리 삐약(3-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:10",
+    "price": "13,000 원",
+    "date": "2024.09.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_가든플라워 꽃다발",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_클래식스타일꽃장식(밀드플레)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.09.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈스콜레_코끼리똥종이로그림그리기 (4-6세)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:10",
+    "price": "15,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "어반리치의 지역분석, 임장 어떻게 하는걸까요?",
+    "info": "현대백화점_무역센터점",
+    "time": "15:30-18:00",
+    "price": "40,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈쿠킹_아기판다곰돌이쿠키(3세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "28,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈쿠킹_아기판다곰돌이쿠키(5세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-18:10",
+    "price": "28,000 원",
+    "date": "2024.09.28",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9.29 [CAKE DAY] 몽블랑 컵케이크",
+    "info": "현대백화점_무역센터점",
+    "time": "16:30-18:30",
+    "price": "50,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9.29 [커플베이킹] 녹차 다쿠아즈",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "45,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_가을꽃다발",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.09.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "유럽 전통 스타일 밀드플레 디자인 만들기",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-13:00",
+    "price": "55,000 원",
+    "date": "2024.09.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.1 [브랜드쿠킹] 움트리가 알려주는 가을한식",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.10.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "충무김밥과 오징어무무침, 콩빈대떡, 아욱된장국",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.10.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "거북목&라운드숄더를 위한 재활운동 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "17:30-18:30",
+    "price": "20,000 원",
+    "date": "2024.10.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_컨트리사이드 플라워베이스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.10.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_햇박스(플라워박스디자인)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.10.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "10월 퍼포먼스 미술놀이 아트플레이 (14-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-16:40",
+    "price": "120,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "10월 퍼포먼스 미술놀이 아트플레이 (22-35개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:50-17:30",
+    "price": "120,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "10월 퍼포먼스 미술놀이 아트플레이 (33-45개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:40-18:20",
+    "price": "120,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "금요 굿모닝 발레즐기기_2차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "80,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "와인마스터와 함께 세계 와인 여행: 프랑스와인Ⅱ",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-13:00",
+    "price": "140,000 원",
+    "date": "2024.10.04(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_나에게 어울리는 퍼스널컬러&향수",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-15:00",
+    "price": "65,000 원",
+    "date": "2024.10.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아빠와_요정하트요술봉쿠키(3세이상,아빠랑)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "33,000 원",
+    "date": "2024.10.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_가을 클래식 바스켓",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.10.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "파티세리베베_쓰러지지않는케이크(4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-14:10",
+    "price": "40,000 원",
+    "date": "2024.10.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "파티세리베베_쓰러지지않는케이크(4세이상,보호자)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:30",
+    "price": "40,000 원",
+    "date": "2024.10.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "파티세리베베_쓰러지지않는케이크(6세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-12:50",
+    "price": "40,000 원",
+    "date": "2024.10.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "월요 굿모닝 발레즐기기_2차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "60,000 원",
+    "date": "2024.10.07(월) ~ 2024.10.21(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "해설이 있는 시네마클래식 콘서트",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-12:00",
+    "price": "20,000 원",
+    "date": "2024.10.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "10월 쏭쏭 베이비 마사지 (2-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:40-14:30",
+    "price": "100,000 원",
+    "date": "2024.10.08(화) ~ 2024.10.29(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "10월 오감놀이스타터 아꿍까꿍 베이비마사지(3-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:10",
+    "price": "52,000 원",
+    "date": "2024.10.10(목) ~ 2024.10.31(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_퍼스널컬러를 통한 나만의 매력up!",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "55,000 원",
+    "date": "2024.10.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_포레스트하우스 플라워박스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.10.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_가을파티데코레이션(센터피스)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.10.11",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "독일여행과 미술관탐방_10.11개강_5회",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:40",
+    "price": "125,000 원",
+    "date": "2024.10.11(금) ~ 2024.11.08(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "전신운동 부티바레 플로우 클래스_10.11개강",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "83,000 원",
+    "date": "2024.10.11(금) ~ 2024.10.25(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "직업체험_실험 과학자 (4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:40-13:20",
+    "price": "15,000 원",
+    "date": "2024.10.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "직업체험_쥬라기마을 화산폭발체험 (4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:10",
+    "price": "15,000 원",
+    "date": "2024.10.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "가을 키즈 클래식 페스타(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:20",
+    "price": "20,000 원",
+    "date": "2024.10.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈쿠킹_아기상어쿠키(3세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "28,000 원",
+    "date": "2024.10.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈쿠킹_아기상어쿠키(5세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-18:10",
+    "price": "28,000 원",
+    "date": "2024.10.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.13 [CAKE DAY] 더블 초코무스 케이크",
+    "info": "현대백화점_무역센터점",
+    "time": "16:30-18:30",
+    "price": "50,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.13 [커플베이킹] 오트밀 볼쿠키, 크랜베리 사블레",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "45,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "겨울 저장 김치 & 별미김치",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "60,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_내추럴 센터피스",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.10.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "가을꽃으로 힐링하는 시간 [핍스플라워] 2차",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "90,000 원",
+    "date": "2024.10.13(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "부부 임산부 요가 2차",
+    "info": "현대백화점_무역센터점",
+    "time": "15:00-15:50",
+    "price": "180,000 원",
+    "date": "2024.10.13(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.15 [브랜드쿠킹] 청정원이 알려주는 미슐랭 파스타",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.10.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "니스식샐러드,바게트터널샌드,미트볼토마토파스타",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.10.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "EDM 요가 플라이트_2차_10.29휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "100,000 원",
+    "date": "2024.10.15(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "덤벨 워크아웃_2차_10.29휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "20:00-20:50",
+    "price": "100,000 원",
+    "date": "2024.10.15(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "세계미술관 여행-스페인②_10.15개강_4회",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "110,000 원",
+    "date": "2024.10.15(화) ~ 2024.11.05(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "5:1_안면비대칭 유형 진단 컨설팅",
+    "info": "현대백화점_무역센터점",
+    "time": "15:00-16:30",
+    "price": "50,000 원",
+    "date": "2024.10.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10월_스마트폰 카메라로 여행사진 찍기/10.16개강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-11:50",
+    "price": "120,000 원",
+    "date": "2024.10.16(수) ~ 2024.11.06(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_와일드 플라워 바스켓",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.10.18",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_오키드디자인(플랜테리어)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.10.18",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워의 보태니컬 영국식가든 2차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "90,000 원",
+    "date": "2024.10.18(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아빠와_귀여운동물농장쿠키(3세이상,아빠랑)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "33,000 원",
+    "date": "2024.10.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈플라워_별이빛나는밤(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:30",
+    "price": "35,000 원",
+    "date": "2024.10.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈플라워_클림트의숲속(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "35,000 원",
+    "date": "2024.10.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_뉴욕스타일 모던부케",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.10.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "플로리스트와 함께하는 유러피안 플로랄 디자인 클래스 2차",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-13:00",
+    "price": "100,000 원",
+    "date": "2024.10.21(월) ~ 2024.11.18(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.22 [브랜드쿠킹] 팔도 남즈엉간장과 비빔장 콜라보",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.10.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "의정부 부대찌개,콩나물전,약고추장 전주비빔밥",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.10.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "신세대 스마트 생활요리 2차 5회",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "165,000 원",
+    "date": "2024.10.22(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "화요 Happy 순산 임산부 필라테스_2차",
+    "info": "현대백화점_무역센터점",
+    "time": "18:20-19:20",
+    "price": "130,000 원",
+    "date": "2024.10.22(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "화요 전신회복 기능성 운동 리커버링 기구 필라테스_2차",
+    "info": "현대백화점_무역센터점",
+    "time": "19:30-20:30",
+    "price": "125,000 원",
+    "date": "2024.10.22(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "틀어진 골반을 위한 재활운동 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "17:30-18:30",
+    "price": "20,000 원",
+    "date": "2024.10.23",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "목요 Happy 순산 임산부 필라테스_2차_10.24개강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-12:40",
+    "price": "130,000 원",
+    "date": "2024.10.24(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "목요 전신회복 리커버링 기구 필라테스_2차_10.24개강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:30",
+    "price": "125,000 원",
+    "date": "2024.10.24(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "세계사로 그림읽기 2차_11.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:35-11:55",
+    "price": "125,000 원",
+    "date": "2024.10.24(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_모던스타일화병꽃장식",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.10.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈스콜레_초식공룡 육식공룡 (4-6세)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:10",
+    "price": "15,000 원",
+    "date": "2024.10.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈쿠킹_트리케라톱스쿠키(3세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "28,000 원",
+    "date": "2024.10.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈쿠킹_트리케라톱스쿠키(5세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-18:10",
+    "price": "28,000 원",
+    "date": "2024.10.26",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.27 [CAKE DAY] 생크림 가득 롤케이크",
+    "info": "현대백화점_무역센터점",
+    "time": "16:30-18:30",
+    "price": "47,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.27 [커플베이킹] 생크림 카스테라",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "45,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "렛츠베이크_유령샌드쿠키 (6세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:30-12:20",
+    "price": "28,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "렛츠베이크_유령샌드쿠키(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:20",
+    "price": "28,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_가을소재 꽃다발",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.10.27",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "10.29 [브랜드쿠킹] 이금기 중식 손님 초대상 2탄",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.10.29",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_다채로운 컬러를 사용한 병꽂이",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:10",
+    "price": "50,000 원",
+    "date": "2024.10.30",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "시대별 예술가들의 이중주_2차_5회_10.31개강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-13:30",
+    "price": "125,000 원",
+    "date": "2024.10.31(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_퍼스널컬러를 통한 나만의 매력up!",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "55,000 원",
+    "date": "2024.11.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_캔들라브라(촛대장식)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.11.01",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "11월 퍼포먼스 미술놀이 아트플레이 (14-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-16:40",
+    "price": "120,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "11월 퍼포먼스 미술놀이 아트플레이 (22-35개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:50-17:30",
+    "price": "120,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "11월 퍼포먼스 미술놀이 아트플레이 (33-45개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:40-18:20",
+    "price": "120,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "금요 굿모닝 발레즐기기_3차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "80,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "와인마스터와 함께 세계 와인 여행: 이탈리아와인",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-13:00",
+    "price": "140,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "전신운동 부티바레 플로우 클래스_11.1개강",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-19:50",
+    "price": "110,000 원",
+    "date": "2024.11.01(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "직업체험_리얼 잼스톤 발굴단 (4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:10",
+    "price": "15,000 원",
+    "date": "2024.11.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "직업체험_자동차 전문가 (4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:40-13:20",
+    "price": "15,000 원",
+    "date": "2024.11.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아빠와_빼빼로딸기아이싱쿠키(3세이상,아빠랑)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "33,000 원",
+    "date": "2024.11.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_로맨틱 병꽂이",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "파티세리베베_체크체크초코케이크(4세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-14:10",
+    "price": "50,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "파티세리베베_체크체크초코케이크(4세이상,보호자)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:30",
+    "price": "50,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "파티세리베베_체크체크초코케이크(6세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-12:50",
+    "price": "50,000 원",
+    "date": "2024.11.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "월요 굿모닝 발레즐기기_3차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "60,000 원",
+    "date": "2024.11.04(월) ~ 2024.11.18(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "11.5 [브랜드쿠킹] 글라스락에 담아가는 피크닉 김밥",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.11.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "제육 불고기김밥,크림치즈 호두김밥,뚝배기불고기",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.11.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "11월 쏭쏭 베이비 마사지 (2-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:40-14:30",
+    "price": "100,000 원",
+    "date": "2024.11.05(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "11월 오감놀이스타터 아꿍까꿍 베이비마사지(3-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:10",
+    "price": "39,000 원",
+    "date": "2024.11.07(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "3:1_내가 예뻐진 이유 나만의 스타일찾기",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "80,000 원",
+    "date": "2024.11.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_허브가득 플라워박스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.11.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_신부부케(포지형부케)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.11.08",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_나에게 어울리는 퍼스널컬러&향수",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-15:00",
+    "price": "65,000 원",
+    "date": "2024.11.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈쿠킹_토끼빼빼로쿠키(3세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "28,000 원",
+    "date": "2024.11.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "키즈쿠킹_토끼빼빼로쿠키(5세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-18:10",
+    "price": "28,000 원",
+    "date": "2024.11.09",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "11.10 [CAKE DAY]마스카포네 티라미수 컵케이크",
+    "info": "현대백화점_무역센터점",
+    "time": "16:30-18:30",
+    "price": "50,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "11.10 [커플베이킹] 캐러멜 넛츠 타르트",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "50,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "렛츠베이크_빼빼로 (4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:20",
+    "price": "28,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "렛츠베이크_빼빼로 (6세이상)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:30-12:20",
+    "price": "28,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_프렌치스타일 바스켓",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.11.10",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "혼자서 만드는 중화요리 - 새우 멤보샤,팔보채",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "50,000 원",
+    "date": "2024.11.12",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "거북목&라운드숄더를 위한 재활운동 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "17:30-18:30",
+    "price": "20,000 원",
+    "date": "2024.11.13",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "색연필로 그리는 베지터블 보태니컬 아트",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-16:30",
+    "price": "35,000 원",
+    "date": "2024.11.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_가을열매 플라워 꽃다발",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.11.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_포멀리니어(수반꽃장식)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.11.15",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아빠와_진저브레드초코칩쿠키(3세이상,아빠랑)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "33,000 원",
+    "date": "2024.11.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈플라워_가을나무(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "35,000 원",
+    "date": "2024.11.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈플라워_추수감사(4세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:30",
+    "price": "35,000 원",
+    "date": "2024.11.16",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_라인꽃다발",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "55,000 원",
+    "date": "2024.11.17",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "크리스마스 캘리그라피 에코백 만들기",
+    "info": "현대백화점_무역센터점",
+    "time": "15:40-17:10",
+    "price": "50,000 원",
+    "date": "2024.11.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "톡아트콘서트-오페라<카르멘>",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:50",
+    "price": "50,000 원",
+    "date": "2024.11.19",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "핍스플라워_접시를 사용한 내추럴 센터피스",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:10",
+    "price": "50,000 원",
+    "date": "2024.11.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_퍼스널컬러를 통한 나만의 매력up!",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "55,000 원",
+    "date": "2024.11.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "모리스플라워_우드그린 플라워 리스",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "55,000 원",
+    "date": "2024.11.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "블러썸플라워_파티테이블데코레이션(롱앤로우)",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:10",
+    "price": "51,000 원",
+    "date": "2024.11.22",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 트니트니 (13-19개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:10-15:50",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 트니트니 (15-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-16:40",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 트니트니 (20-30개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:50-17:30",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 트니트니 (30-40개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:40-18:20",
+    "price": "140,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 트윈클 베이비 영어발레 (24-38개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:30-16:10",
+    "price": "130,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "화요 트윈클 베이비 영어발레 (30-48개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:20-17:00",
+    "price": "130,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.26(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "틀어진 골반을 위한 재활운동 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "17:30-18:30",
+    "price": "20,000 원",
+    "date": "2024.09.04",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감발달 토리톡톡 (4-9개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-14:40",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감발달 토리톡톡 (6-11개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:50-15:30",
+    "price": "120,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오오또모 후미꼬 일본어 회화(프리토킹)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:00",
+    "price": "150,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "하이아트 그림으로 크는아이(23-40개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-11:40",
+    "price": "130,000 원",
+    "date": "2024.09.04(수) ~ 2024.11.27(수)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "남주연의 보태니컬 아트 꽃그림 1교시",
+    "info": "현대백화점_무역센터점",
+    "time": "09:40-11:40",
+    "price": "170,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "서보란의 성악 마스터 클래스 A",
+    "info": "현대백화점_무역센터점",
+    "time": "15:30-16:30",
+    "price": "540,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "서보란의 성악 마스터 클래스 B",
+    "info": "현대백화점_무역센터점",
+    "time": "16:40-17:40",
+    "price": "540,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.14(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "신체놀이 짐짐펀 (37-55개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-17:50",
+    "price": "120,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "연필로 시작하는 어반스케치 2교시",
+    "info": "현대백화점_무역센터점",
+    "time": "11:45-13:15",
+    "price": "150,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "펜 담채화로 그리는 풍경스케치_11.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-16:00",
+    "price": "137,500 원",
+    "date": "2024.09.05(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF 프리뷰와 현장 도슨트(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "110,000 원",
+    "date": "",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF 현장 도슨트-9.6(금) 15시(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:00-16:00",
+    "price": "90,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF 현장 도슨트-9.6(금) 16시(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-17:00",
+    "price": "90,000 원",
+    "date": "2024.09.06",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF&FRIEZE 현장 도슨트-11시(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-12:00",
+    "price": "270,000 원",
+    "date": "",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "Pop&Jazz 피아노 실용반주 A",
+    "info": "현대백화점_무역센터점",
+    "time": "13:20-14:10",
+    "price": "180,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "금요 트니트니 (13-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:30-16:10",
+    "price": "140,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "심민영의 꽃이 있는 감성수채화",
+    "info": "현대백화점_무역센터점",
+    "time": "14:20-16:20",
+    "price": "210,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감 퍼포먼스 무지개팝 (6-10개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:00-12:40",
+    "price": "120,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "오감발달 베베팡팡 (5-10개월)_10.11휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:10",
+    "price": "130,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.29(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이기동의 여행일본어(3-5개월이상 습득)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "150,000 원",
+    "date": "2024.09.06(금) ~ 2024.11.22(금)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "SNS 1년만에 월급2배달성한 운영&사진보정팁",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:00",
+    "price": "25,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아빠와_초코허그토끼쿠키(3세이상,아빠랑)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "33,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF 현장 도슨트-9.7(토) 14시(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:00",
+    "price": "90,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "KIAF 현장 도슨트-9.7(토) 15시(입장권포함)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:00-16:00",
+    "price": "90,000 원",
+    "date": "2024.09.07",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "감성음악놀이 연주하는아기새(6-12개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-12:20",
+    "price": "120,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이숙영의 토요 댄스타임 라인댄스",
+    "info": "현대백화점_무역센터점",
+    "time": "15:40-16:40",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 글렌도만 영재교실 (16-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-12:50",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 글렌도만 영재교실 (25-36개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:20-12:00",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 글렌도만 영재교실 (32-45개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:10",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 글렌도만 영재교실 (8-15개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "130,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 트니트니 (12-19개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:20-16:00",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 트니트니 (15-24개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:10",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "토요 트니트니 (20-30개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:10-16:50",
+    "price": "140,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "퍼니러니 축구교실 by스누미(3-4세)_9.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:50-12:30",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "퍼니러니 축구교실 by스누미(4-5세)_9.14휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-11:40",
+    "price": "150,000 원",
+    "date": "2024.09.07(토) ~ 2024.11.30(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 트니트니 (15-24개월)_9.8개강",
+    "info": "현대백화점_무역센터점",
+    "time": "15:20-16:00",
+    "price": "140,000 원",
+    "date": "2024.09.08(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "최고여행사진_심화_9.9개강_휴점 출사_11회",
+    "info": "현대백화점_무역센터점",
+    "time": "14:10-15:30",
+    "price": "189,000 원",
+    "date": "2024.09.09(월) ~ 2024.11.25(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "목요 글렌도만 영재교실 (11-16개월)_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:30",
+    "price": "120,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "목요 글렌도만 영재교실 (16-24개월)_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "14:40-15:20",
+    "price": "120,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "목요 글렌도만 영재교실 (30-45개월)_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "16:20-17:00",
+    "price": "120,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "목요 글렌도만 영재교실 (5-10개월)_9.12개강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "120,000 원",
+    "date": "2024.09.12(목) ~ 2024.11.28(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "2024 부동산의 원리와 지켜야 할 원칙_11시",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-12:30",
+    "price": "35,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "부동산 투자 실전 인사이트_14시",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "35,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "키즈쿠킹_고양이캐릭터쿠키(3세이상,보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:50-16:50",
+    "price": "28,000 원",
+    "date": "2024.09.14",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "4:1_퍼스널컬러를 통한 나만의 매력up!",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:30",
+    "price": "55,000 원",
+    "date": "2024.09.20",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "오그림의 갤러리투어_한남동갤러리",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-13:00",
+    "price": "65,000 원",
+    "date": "2024.09.25",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "송희구작가가 들려주는 부동산이야기_10.26개강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:30",
+    "price": "200,000 원",
+    "date": "2024.10.26(토) ~ 2024.11.23(토)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "크루즈 여행 댄스 클래스",
+    "info": "현대백화점_무역센터점",
+    "time": "18:00-19:00",
+    "price": "200,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.03(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "가을꽃으로 힐링하는 시간 [핍스플라워] 1차",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-15:00",
+    "price": "90,000 원",
+    "date": "2024.09.01(일) ~ 2024.10.06(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "김희선의 첼로 아카데미_9.8/10.20/11.17휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-12:10",
+    "price": "200,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "덩크띵크 농구교실 by 스누미 (4세)_10.6휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-10:40",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "덩크띵크 농구교실 by 스누미 (5세)_10.6휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:50-11:30",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "덩크띵크 농구교실 by 스누미(6세-초등저)_10.6휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-12:20",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이경미의 방송·재즈댄스_9.15휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:00",
+    "price": "150,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.24(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "일요 티니핑 발레 (4-6세/아이혼자) B반_9.15휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:50-14:30",
+    "price": "137,500 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 티니핑 발레(30-48개월/보호자동반)_9.15휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-13:40",
+    "price": "137,500 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "한혁의 에듀 드럼교실 (고급)_9.15/10.6휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "16:40-17:50",
+    "price": "180,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "한혁의 에듀 드럼교실 (신규)_9.15/10.6휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "18:00-18:50",
+    "price": "140,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "마인드아트(50개월-미취학아동)※중간접수상담必_9.15휴",
+    "info": "현대백화점_무역센터점",
+    "time": "11:20-12:10",
+    "price": "190,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "마인드아트(6세-초등전체학년)※중간접수상담必_9.15휴",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:10",
+    "price": "190,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "미술심리미술놀이(37-52개월)※중간접수상담必_9.15휴",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:10",
+    "price": "210,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.10(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이용혜의 성악 마스터 클래스 A_10.6휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "14:00-15:00",
+    "price": "486,000 원",
+    "date": "2024.09.01(일) ~ 2024.11.03(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "일요 티니핑 발레 (4-6세/아이혼자) A반_9.15휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:10",
+    "price": "137,500 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 티니핑 발레(25-35개월/보호자동반)_9.15휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:20-12:00",
+    "price": "137,500 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "일요 티니핑 발레(35-48개월/보호자동반)_9.15휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-12:50",
+    "price": "137,500 원",
+    "date": "2024.09.01(일) ~ 2024.11.17(일)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "1:1 체형교정 혈액순환 프로그램 17:10",
+    "info": "현대백화점_무역센터점",
+    "time": "17:10-17:50",
+    "price": "600,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "1:1 체형교정 혈액순환 프로그램 18:00",
+    "info": "현대백화점_무역센터점",
+    "time": "18:00-18:40",
+    "price": "600,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "가을의 오페라-베르디<라 트라비아타>",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-12:10",
+    "price": "25,000 원",
+    "date": "2024.09.02",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "FUN FUN 조디강 미국식 영어회화 이디엄 (초중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:40-12:50",
+    "price": "160,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "FUN FUN 조디강 스크립트로 배우는 영어 (초중급)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:00",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "FUN FUN 조디강 진짜 미국식 영어 표현 (초급)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:30",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "두뇌 마인드 스포츠 브리지(중급1)_10회(휴점휴강)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:10-16:40",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "두뇌 마인드 스포츠 브리지(중급2)_10회(휴점휴강)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-15:00",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "명품 음악교육 월요 유리드믹스 (10-15개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:10",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "명품 음악교육 월요 유리드믹스 (12-19개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "15:10-15:50",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "명품 음악교육 월요 유리드믹스 (5-12개월) 1240",
+    "info": "현대백화점_무역센터점",
+    "time": "12:40-13:20",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "명품 음악교육 월요 유리드믹스 (5-12개월) 1420",
+    "info": "현대백화점_무역센터점",
+    "time": "14:20-15:00",
+    "price": "140,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "명화에서 배우며 그리는 나만의 아크릴화",
+    "info": "현대백화점_무역센터점",
+    "time": "18:40-20:10",
+    "price": "125,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "발레와 필라테스의 만남, 발라레필_9.23휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:00-12:50",
+    "price": "180,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "사랑하는 사람들을 위하는 마음, 복을 짓는 규방공예",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:20",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "숨겨진 매력을 찾아서 힐링 모델 워킹(초급)",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-15:40",
+    "price": "180,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "신순형의 프렌치 스타일 포슬린 페인팅",
+    "info": "현대백화점_무역센터점",
+    "time": "17:00-18:40",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "엄마와 아기가 행복한 임산부 요가",
+    "info": "현대백화점_무역센터점",
+    "time": "13:30-14:30",
+    "price": "170,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "월요 굿모닝 발레즐기기_1차",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:40",
+    "price": "80,000 원",
+    "date": "2024.09.02(월) ~ 2024.09.30(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "월요 레베카의 줌바피트니스 댄스",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-14:10",
+    "price": "125,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "월요 테라피 요가",
+    "info": "현대백화점_무역센터점",
+    "time": "14:40-15:40",
+    "price": "170,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "월요 티니핑 발레(36-48개월/보호자동반)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-16:40",
+    "price": "125,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "gangnam",
+    "title": "월요 티니핑 발레(4-6세/아이혼자)",
+    "info": "현대백화점_무역센터점",
+    "time": "16:50-17:30",
+    "price": "125,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "이정섭의 빛을 머금은 색깔 파스텔화",
+    "info": "현대백화점_무역센터점",
+    "time": "14:30-16:30",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "인지발달 통합놀이 럭스베베 (11-15개월)_10.7휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:10",
+    "price": "144,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "인지발달 통합놀이 럭스베베 (5-8개월)_10.7휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "12:10-12:50",
+    "price": "144,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "인지발달 통합놀이 럭스베베 (8-11개월)_10.7휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "11:20-12:00",
+    "price": "144,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "장길성의 감성 기타클래스 (포크,클래식) A",
+    "info": "현대백화점_무역센터점",
+    "time": "10:00-11:00",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "장길성의 감성 기타클래스 (포크,클래식) B",
+    "info": "현대백화점_무역센터점",
+    "time": "11:10-12:10",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "체형교정 혈액순환 프로그램 16:00",
+    "info": "현대백화점_무역센터점",
+    "time": "16:00-17:00",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "체형교정 혈액순환 프로그램 19:00",
+    "info": "현대백화점_무역센터점",
+    "time": "19:00-20:00",
+    "price": "150,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "최유경의 월요 바이올린 (선택50분)_11.4휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "18:30-20:00",
+    "price": "153,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "황지원의 클래식 살롱_10회",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-12:10",
+    "price": "250,000 원",
+    "date": "2024.09.02(월) ~ 2024.11.11(월)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "9.3 [브랜드쿠킹] 한라에서 알려주는 감칠맛 나는 밥상",
+    "info": "현대백화점_무역센터점",
+    "time": "13:00-14:30",
+    "price": "20,000 원",
+    "date": "2024.09.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "새우완자 배추전골, 골뱅이무침과 메밀전병, 두부전",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "35,000 원",
+    "date": "2024.09.03",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "신세대 스마트 생활요리 10회_10.8휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "320,000 원",
+    "date": "2024.09.03(화) ~ 2024.11.19(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "신세대 스마트 생활요리 1차 5회_10.8휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-12:30",
+    "price": "165,000 원",
+    "date": "2024.09.03(화) ~ 2024.10.15(화)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "옹알종알_미끌미끌 미역 (10-15개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "12:20-13:00",
+    "price": "14,000 원",
+    "date": "2024.09.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "옹알종알_미끌미끌 미역 (14-22개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "11:30-12:10",
+    "price": "14,000 원",
+    "date": "2024.09.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "옹알종알_미끌미끌 미역 (5-11개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "13:10-13:50",
+    "price": "14,000 원",
+    "date": "2024.09.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "family",
+    "location": "gangnam",
+    "title": "아꿍까꿍 베이비마사지_판다목욕탕(3-6개월)",
+    "info": "현대백화점_무역센터점",
+    "time": "10:40-11:10",
+    "price": "13,000 원",
+    "date": "2024.09.05",
+    "sessionType": "oneday"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "SNPE 바른 자세 운동(70분)_11시",
+    "info": "현대백화점_무역센터점",
+    "time": "11:00-12:10",
+    "price": "204,000 원",
+    "date": "2024.09.05(목) ~ 2024.11.21(목)",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "gangnam",
+    "title": "목요 전신회복 리커버링 기구 필라테스_1차_9.19휴강",
+    "info": "현대백화점_무역센터점",
+    "time": "10:30-11:30",
+    "price": "125,000 원",
+    "date": "2024.09.05(목) ~ 2024.10.17(목)",
+    "sessionType": "regular"
+  }
+]

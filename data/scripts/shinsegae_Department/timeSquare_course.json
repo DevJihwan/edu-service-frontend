@@ -1,0 +1,4862 @@
+[
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘의 60분 저녁메뉴, 기사식당불백, 애호박볶음 外",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "30,000 원",
+    "date": "2024.10.10~2024.10.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 토리톡톡(7~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "54,000 원",
+    "date": "2024.10.10~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 토리톡톡(8~16개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "54,000 원",
+    "date": "2024.10.10~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감자연놀이, 반짝반짝 똘망이(9~16개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:20~17:00",
+    "price": "58,500 원",
+    "date": "2024.10.10~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:10",
+    "price": "65,000 원",
+    "date": "2024.10.11~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을별미 식탁, 꽃게탕&구운두부버섯샐러드",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "41,000 원",
+    "date": "2024.10.11~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘's 커플쿠킹-정통 까르보나라, 알리올리오 外",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "25,000 원",
+    "date": "2024.10.12~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "보글쌤 키즈쿠킹, 핑크머리 슈가 컵케이크(18-20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.10.12~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "보글쌤 키즈쿠킹, 핑크머리 슈가 컵케이크(18년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "30,000 원",
+    "date": "2024.10.12~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "공룡이 나타났다! 공룡 매직쇼(21년생이상, 성인A)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "5,000 원",
+    "date": "2024.10.13~2024.10.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "공룡이 나타났다! 공룡 매직쇼(21년생이상, 성인B)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:20",
+    "price": "5,000 원",
+    "date": "2024.10.13~2024.10.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이탈리아 여행X베이킹, 티라미수 보틀케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "50,000 원",
+    "date": "2024.10.13~2024.10.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "이탈리아 여행X키즈 티라미수 보틀케이크(16-20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:30",
+    "price": "25,000 원",
+    "date": "2024.10.13~2024.10.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 자연스러운 느낌의 꽃다발",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.10.14~2024.10.14",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 떠먹는 감자피자",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.10.14~2024.10.14",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 자연스러운 느낌의 꽃다발",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.10.14~2024.10.14",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한식디저트, 화과자 네리끼리(감모양)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "50,000 원",
+    "date": "2024.10.15~2024.10.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이책빵 북&베이킹, 한글 쿠키(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~17:00",
+    "price": "12,500 원",
+    "date": "2024.10.16~2024.10.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "오렌지요거트스콘(실습)&클래식 슈거쿠키(시연)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.10.16~2024.10.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감테마놀이 소풍가는 하마(13~26개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "52,000 원",
+    "date": "2024.10.16~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "고추장소스 황태구이 外",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "50,000 원",
+    "date": "2024.10.17~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:10",
+    "price": "65,000 원",
+    "date": "2024.10.18~2024.10.18",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "무화과 크림치즈 타르트",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "55,000 원",
+    "date": "2024.10.18~2024.10.18",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "밤 화과자",
+    "info": "타임스퀘어 & ON",
+    "time": "18:50~20:30",
+    "price": "50,000 원",
+    "date": "2024.10.18~2024.10.18",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "호박마녀! 호박 컵케이크(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "17,500 원",
+    "date": "2024.10.19~2024.10.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "호박마녀! 호박 컵케이크(18년생 이상,아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:20",
+    "price": "35,000 원",
+    "date": "2024.10.19~2024.10.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:10~16:20",
+    "price": "55,000 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 B",
+    "info": "타임스퀘어 & ON",
+    "time": "16:30~17:40",
+    "price": "55,000 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-왕눈이 개구리버거(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-왕눈이 개구리버거(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달콤 주말 커플베이킹, 랑그드샤(초코/바닐라)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~16:00",
+    "price": "24,000 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "억쌤의 과학실험-시온 크래파스(18-20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:20",
+    "price": "17,500 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "억쌤의 과학실험-펑펑! 캐논대포 (18-20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:20",
+    "price": "17,500 원",
+    "date": "2024.10.20~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "도토리모양 마롱마들렌",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.10.23~2024.10.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘의 60분 저녁메뉴, 초간단 육개장, 오이소박이",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "30,000 원",
+    "date": "2024.10.24~2024.10.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:10",
+    "price": "65,000 원",
+    "date": "2024.10.25~2024.10.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "제니에의 케익&디저트, 벨지움 초코케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "40,000 원",
+    "date": "2024.10.25~2024.10.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "고르곤졸라, 치즈크림 소스 파스타 外",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "50,000 원",
+    "date": "2024.10.26~2024.10.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나만의 향, 1:1 퍼스널 커스텀 퍼퓸 DIY",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:30",
+    "price": "60,000 원",
+    "date": "2024.10.26~2024.10.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이키친 초등쿠킹-호박마녀 티그레(15~17년생,아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "30,000 원",
+    "date": "2024.10.26~2024.10.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이키친 키즈쿠킹-호박마녀 티그레(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.10.26~2024.10.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단A",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:00",
+    "price": "65,000 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "65,000 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "리틀 콘크리트 키즈 베이킹, 레몬 구름 케이크(16-20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "17,500 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "리틀 콘크리트 키즈 베이킹, 레몬 구름 케이크(16-20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "17,500 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "소리야 놀자 코딩악기편-코딩피아노 (14~17년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:30~18:00",
+    "price": "17,500 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "소리야 놀자 코딩악기편-코딩피아노 (18~19년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:00",
+    "price": "17,500 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "케이크는 어찌 되어도 좋아, 레몬 빅토리아 케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "55,000 원",
+    "date": "2024.10.27~2024.10.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "우리가족 복을 부르는 '복문자도' 원데이 클래스",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~16:30",
+    "price": "35,000 원",
+    "date": "2024.10.28~2024.10.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 유리화병 베이스 플라워",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.10.28~2024.10.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 페스토크림소스 감자뇨끼",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.10.28~2024.10.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 유리화병 베이스 플라워",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.10.28~2024.10.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "새우감자요리&빤콘토마테",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "45,000 원",
+    "date": "2024.10.29~2024.10.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:10",
+    "price": "55,000 원",
+    "date": "2024.10.02~2024.10.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "55,000 원",
+    "date": "2024.10.02~2024.10.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "체리쇼콜라케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.10.02~2024.10.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라점프 신체놀이(18~26개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "61,000 원",
+    "date": "2024.10.02~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라점프 신체놀이(24~32개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:20~17:00",
+    "price": "61,000 원",
+    "date": "2024.10.02~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라점프 신체놀이(30~40개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:10~17:50",
+    "price": "61,000 원",
+    "date": "2024.10.02~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "밀크티 치즈타르트",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.10.30~2024.10.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이책빵 북&베이킹, 오싹한 마들렌(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~17:00",
+    "price": "12,500 원",
+    "date": "2024.10.30~2024.10.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "매콤한 무&갈치조림, 명란젓 솥밥",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.10.31~2024.10.31",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "데리야끼 소스 일본식 연어구이, 일본식 감자 샐러드",
+    "info": "타임스퀘어 & ON",
+    "time": "18:20~20:20",
+    "price": "50,000 원",
+    "date": "2024.10.04~2024.10.04",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "제니에의 케익&디저트, 에클레어",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "40,000 원",
+    "date": "2024.10.04~2024.10.04",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:30~12:40",
+    "price": "55,000 원",
+    "date": "2024.10.05~2024.10.05",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:10",
+    "price": "55,000 원",
+    "date": "2024.10.05~2024.10.05",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-알록달록 피자(18~20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.10.05~2024.10.05",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-알록달록 피자(18~20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.10.05~2024.10.05",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "커플쿠킹 , 외교부 셰프에게 배우는 프렌치 프리카세 外",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~17:00",
+    "price": "45,000 원",
+    "date": "2024.10.05~2024.10.05",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(15~25개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~14:00",
+    "price": "66,500 원",
+    "date": "2024.10.05~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(37~50개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:10~14:50",
+    "price": "66,500 원",
+    "date": "2024.10.05~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "퀴니쿠니 원어민 데이트-미녀와 야수 (20~21년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "7,500 원",
+    "date": "2024.10.06~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "퀴니쿠니 원어민 데이트-미녀와 야수(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "7,500 원",
+    "date": "2024.10.06~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "크레아뜰리에 키즈아트, 내 손안의 우주 (20년생이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:20",
+    "price": "25,000 원",
+    "date": "2024.10.06~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "크레아뜰리에 키즈아트, 캠핑놀이 (20년생이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:20",
+    "price": "25,000 원",
+    "date": "2024.10.06~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈 베이킹, 달콤쫀득 고구마 빵(18~20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:00",
+    "price": "15,000 원",
+    "date": "2024.10.06~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈 베이킹, 달콤쫀득 고구마 빵(18~20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:30",
+    "price": "15,000 원",
+    "date": "2024.10.06~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "바디 피트니스 홈필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "93,000 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아미고 공주 마마발레(25~36개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~12:50",
+    "price": "58,500 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아미고 공주 발레(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~14:50",
+    "price": "110,000 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "큰나무 선생님의 트니트니 키즈챔프(13~20개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:50~15:30",
+    "price": "66,500 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "큰나무 선생님의 트니트니 키즈챔프(32~45개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:20",
+    "price": "66,500 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 유러피언 콘솔장식",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.10.07~2024.10.07",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 애호박 그라탕",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.10.07~2024.10.07",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 유러피언 콘솔장식",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.10.07~2024.10.07",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(10~18개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:50~14:30",
+    "price": "50,000 원",
+    "date": "2024.10.07~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(15~24개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:20~17:00",
+    "price": "50,000 원",
+    "date": "2024.10.07~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(5~9개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "50,000 원",
+    "date": "2024.10.07~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "연주하는 아기새(13~22개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "40,500 원",
+    "date": "2024.10.07~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "연주하는 아기새(6~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "40,500 원",
+    "date": "2024.10.07~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "몽트레조베이킹, 쫀득 버터바",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.10.08~2024.10.08",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "글렌도만 영재교실(13~20개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "58,500 원",
+    "date": "2024.10.08~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "글렌도만 영재교실(21~30개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "58,500 원",
+    "date": "2024.10.08~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "바디라인 필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:00",
+    "price": "93,000 원",
+    "date": "2024.10.08~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 팡팡플레이(12~20개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:20~16:00",
+    "price": "58,500 원",
+    "date": "2024.10.08~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 팡팡플레이(8~15개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "58,500 원",
+    "date": "2024.10.08~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단A",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:00",
+    "price": "65,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "65,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "과학여행가의 <서바이벌, 우주에서 살아남기>(18년생 이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:30",
+    "price": "10,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "과학여행가의 <서바이벌, 우주에서 살아남기>(19~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:20",
+    "price": "10,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "수의사와 함께하는 반려견 간식, 츄르",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "30,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬 스토리북 키즈쿠킹-빼빼로 막대과자(18년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:30",
+    "price": "15,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬 스토리북 키즈쿠킹-토끼피자(18년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:00",
+    "price": "15,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "주말 커플베이킹, 쿠루키",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "35,000 원",
+    "date": "2024.11.10~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 모던 스타일 꽃다발",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.11.11~2024.11.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 훈제연어 애피타이저",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.11.11~2024.11.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 모던 스타일 꽃다발",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.11.11~2024.11.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이탈리아 카프레제 파스타",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "45,000 원",
+    "date": "2024.11.12~2024.11.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "모카빈쿠키(실습)&모카초코칩샤브레(시연)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.11.13~2024.11.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "새우&낙지볶음과 소면, 어묵탕",
+    "info": "타임스퀘어 & ON",
+    "time": "18:00~20:00",
+    "price": "48,000 원",
+    "date": "2024.11.13~2024.11.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을별미식탁, 스웨디시미트볼과 머스타드 감자샐러드",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "41,000 원",
+    "date": "2024.11.15~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "밀푀유 나베, 땅콩소스 外",
+    "info": "타임스퀘어 & ON",
+    "time": "18:20~20:20",
+    "price": "45,000 원",
+    "date": "2024.11.15~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "서울대 '갓민애' 교수가 직접 알려주는 [국어 최상위권의 공부법]",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:10",
+    "price": "20,000 원",
+    "date": "2024.11.15~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "동물농장 초코칩 쿠키(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "17,500 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "동물농장 초코칩 쿠키(18년생 이상,아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:20",
+    "price": "35,000 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "뒷모습으로 만나는 명화 산책",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:50",
+    "price": "15,000 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "몽클 STEAM 융합과학-공룡화석 만들기(15~17년생, 아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:00~17:50",
+    "price": "25,000 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "몽클 STEAM 융합과학-공룡화석 만들기(18~19년생, 아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:00~16:50",
+    "price": "25,000 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "키두 직업체험, 기상캐스터(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:40",
+    "price": "28,000 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "프리다칼로 화가작품세계X생화 작품",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~16:20",
+    "price": "60,000 원",
+    "date": "2024.11.16~2024.11.16",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단A",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:00",
+    "price": "65,000 원",
+    "date": "2024.11.17~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "65,000 원",
+    "date": "2024.11.17~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "런던여행베이킹&키즈 베이킹, 쿠키(16-20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:30",
+    "price": "25,000 원",
+    "date": "2024.11.17~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "런던여행베이킹클래스, 스콘",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "50,000 원",
+    "date": "2024.11.17~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "어린이 명작 인형극-어린왕자(21년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "5,000 원",
+    "date": "2024.11.17~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "어린이 명작 인형극-오즈의 마법사(21년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:20",
+    "price": "5,000 원",
+    "date": "2024.11.17~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "몽트레조베이킹, 대파크림 치즈스콘",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.11.19~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을별미식탁, 해산물빠에야&단호박 컵케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "41,000 원",
+    "date": "2024.11.01~2024.11.01",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "갈릭 스테이크, 시트러스 카프레제",
+    "info": "타임스퀘어 & ON",
+    "time": "18:00~20:00",
+    "price": "50,000 원",
+    "date": "2024.11.20~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "모카치즈롤 케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.11.20~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이책빵 북&베이킹, 물고기 마들렌(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~17:00",
+    "price": "12,500 원",
+    "date": "2024.11.20~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘의 60분 저녁메뉴, 바지락순두부찌개, 연근볶음",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "30,000 원",
+    "date": "2024.11.21~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을 밤 파운드케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "50,000 원",
+    "date": "2024.11.22~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "쌀가루 에그타르트",
+    "info": "타임스퀘어 & ON",
+    "time": "18:50~20:30",
+    "price": "45,000 원",
+    "date": "2024.11.22~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을꽃 활용한 그린리스",
+    "info": "타임스퀘어 & ON",
+    "time": "16:00~17:20",
+    "price": "50,000 원",
+    "date": "2024.11.23~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이키친 초등쿠킹-앗 똥 케이크(15~17년생,아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "30,000 원",
+    "date": "2024.11.23~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이키친 키즈쿠킹-앗! 똥 케이크(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.11.23~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "커플쿠킹 , 외교부 셰프에게 배우는 관자 스테이크 外",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~17:00",
+    "price": "45,000 원",
+    "date": "2024.11.23~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단A",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:00",
+    "price": "65,000 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "65,000 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "리틀 콘크리트 키즈 베이킹, 레드벨벳 컵케이크(16-20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "17,500 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "리틀 콘크리트 키즈 베이킹, 레드벨벳 컵케이크(16-20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "17,500 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시네마 디저트 <마틸다> 데블스 푸드 케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "55,000 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "젊음과 무병장수의 상징, '복숭아소과도'",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~17:00",
+    "price": "35,000 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "크레아뜰리에 키즈아트, LED 우주선 여행 (20년생이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:50~13:40",
+    "price": "25,000 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "크레아뜰리에 키즈아트, 꼬마인형 덜덜이 (20년생이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:50~12:40",
+    "price": "25,000 원",
+    "date": "2024.11.24~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워,늦가을 느낌 테이블리스",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.11.25~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 시금치 리코타 라비올리",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.11.25~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 늦가을 느낌 테이블리스",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.11.25~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을김치, 입맛 돋구는 총각무 동치미",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "45,000 원",
+    "date": "2024.11.26~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:10",
+    "price": "55,000 원",
+    "date": "2024.11.27~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "55,000 원",
+    "date": "2024.11.27~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "뚝배기 불고기, 쪽파김치",
+    "info": "타임스퀘어 & ON",
+    "time": "18:00~20:00",
+    "price": "48,000 원",
+    "date": "2024.11.27~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "제니에의 케익&디저트, 브런치 키쉬파이",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "40,000 원",
+    "date": "2024.11.29~2024.11.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-컵화분 케이크(18~20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.11.02~2024.11.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-컵화분 케이크(18~20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.11.02~2024.11.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘's 커플쿠킹-에그인헬, 미트폴포테 外",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "25,000 원",
+    "date": "2024.11.02~2024.11.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리다트 책읽고 미술하기, 마녀의 집 (18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:30",
+    "price": "25,000 원",
+    "date": "2024.11.02~2024.11.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리다트 책읽고 미술하기, 사계절 나무 (18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:30",
+    "price": "25,000 원",
+    "date": "2024.11.02~2024.11.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "키두 직업체험, 한의사(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:40",
+    "price": "28,000 원",
+    "date": "2024.11.02~2024.11.02",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "보글쌤 키즈쿠킹, 가나슈 케이크(18-20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.11.30~2024.11.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "보글쌤 키즈쿠킹, 가나슈 케이크(18년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "30,000 원",
+    "date": "2024.11.30~2024.11.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달콤 주말 커플베이킹, 한 입 초코칩쿠키",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~16:00",
+    "price": "22,500 원",
+    "date": "2024.11.03~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "라잇아트 영어미술, 향긋한 수제 아로마 클레이(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:20",
+    "price": "12,500 원",
+    "date": "2024.11.03~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "라잇아트 영어미술, 향긋한 수제 아로마 클레이(20~21년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "12,500 원",
+    "date": "2024.11.03~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬 스토리북 키즈쿠킹-낙엽 소시지 빵(18년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:30",
+    "price": "15,000 원",
+    "date": "2024.11.03~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "잉글리쉬 스토리북 키즈쿠킹-팬더쿠키(18년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:00",
+    "price": "15,000 원",
+    "date": "2024.11.03~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 풍요로움을 담은 플라워",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.11.04~2024.11.04",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 미트소스 오븐파스타",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.11.04~2024.11.04",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 풍요로움을 담은 플라워",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.11.04~2024.11.04",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을김치, 명품 파 김치",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "55,000 원",
+    "date": "2024.11.05~2024.11.05",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이책빵 북&베이킹, 빼낭시에(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~17:00",
+    "price": "12,500 원",
+    "date": "2024.11.06~2024.11.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전복 표고버섯 솥밥, 명란순두부",
+    "info": "타임스퀘어 & ON",
+    "time": "18:00~20:00",
+    "price": "48,000 원",
+    "date": "2024.11.06~2024.11.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘의 60분 저녁메뉴, 코다리조림, 꺳잎장아찌",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "30,000 원",
+    "date": "2024.11.07~2024.11.07",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "제니에의 케익&디저트, 빼빼로데이 바크 초콜렛 기프트박스",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "40,000 원",
+    "date": "2024.11.08~2024.11.08",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "보글쌤 키즈쿠킹, 빼빼로 꽃다발(18-20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.11.09~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "보글쌤 키즈쿠킹, 빼빼로 꽃다발(18년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "30,000 원",
+    "date": "2024.11.09~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "주말 커플 베이킹- 다크초코 바스크 치즈케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "40,000 원",
+    "date": "2024.11.09~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "커플(2:1) 취향집중 퍼스널 오드퍼퓸 DIY",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:30",
+    "price": "55,000 원",
+    "date": "2024.11.09~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "키두 직업체험, 도시설계사(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:40",
+    "price": "28,000 원",
+    "date": "2024.11.09~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김요가의 런치 하타요가와 명상",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:10",
+    "price": "119,000 원",
+    "date": "2024.09.12~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "SNPE 바른자세 척추운동",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "89,000 원",
+    "date": "2024.10.15~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "추석맞이 하요코만주(병아리만주)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.09.11~2024.09.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "호호일식식당, 오사카 돈페이 양배추야끼& 냉라멘",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.09.12~2024.09.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:10",
+    "price": "65,000 원",
+    "date": "2024.09.13~2024.09.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한식 디저트, 한국 전통 병과 개성주악",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "50,000 원",
+    "date": "2024.09.13~2024.09.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈베이킹, 추석 화과자(18~20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:00",
+    "price": "17,500 원",
+    "date": "2024.09.14~2024.09.14",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈베이킹, 추석 화과자(18~20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:30",
+    "price": "17,500 원",
+    "date": "2024.09.14~2024.09.14",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "호호일식식당, 참깨두유나베, 튀김쿠시카츠",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.09.19~2024.09.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "반짝반짝 보석양갱",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "40,000 원",
+    "date": "2024.09.20~2024.09.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:30~12:40",
+    "price": "55,000 원",
+    "date": "2024.09.21~2024.09.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:10",
+    "price": "55,000 원",
+    "date": "2024.09.21~2024.09.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "어느스튜디오 키즈베이킹, 추석맞이 전 쿠키(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "17,500 원",
+    "date": "2024.09.21~2024.09.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "어느스튜디오 키즈베이킹, 추석맞이 전 쿠키(18년생 이상,아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:20",
+    "price": "35,000 원",
+    "date": "2024.09.21~2024.09.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "커플쿠킹 , 외교부 셰프에게 배우는 지중해식 문어 뽈뽀 外",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~17:00",
+    "price": "45,000 원",
+    "date": "2024.09.21~2024.09.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "라이네하우스, 그림책 악기체험 콘서트-비발디<사계>(17~21년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "15,000 원",
+    "date": "2024.09.22~2024.09.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "프랑스파리 여행&키즈 베이킹, 마카롱(16-20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:30",
+    "price": "25,000 원",
+    "date": "2024.09.22~2024.09.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "프랑스파리 여행X마카롱",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "50,000 원",
+    "date": "2024.09.22~2024.09.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 자연스러운 느낌 테이블 센터피스",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.09.23~2024.09.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 자연스러운 느낌 테이블 센터피스",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.09.23~2024.09.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리요리, 가지파르미자나",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.09.23~2024.09.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "몽트레조베이킹, 바스크 치즈 케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "50,000 원",
+    "date": "2024.09.24~2024.09.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "부드러운 쑥 카스테라(별립법)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.09.25~2024.09.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이책빵 북&베이킹, 밤 휘낭시에(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~17:00",
+    "price": "12,500 원",
+    "date": "2024.09.25~2024.09.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "호호일식식당, 크레미텐신향오므라이스, 미소장국 外",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "45,000 원",
+    "date": "2024.09.26~2024.09.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "춘천의 명물 감자빵",
+    "info": "타임스퀘어 & ON",
+    "time": "18:50~20:30",
+    "price": "45,000 원",
+    "date": "2024.09.27~2024.09.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 퍼스널컬러와 맞춤 진단",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:10",
+    "price": "65,000 원",
+    "date": "2024.09.27~2024.09.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "단호박 치즈케이크",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "50,000 원",
+    "date": "2024.09.27~2024.09.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가장 특별한 유럽여행 X 다과&커피",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "30,000 원",
+    "date": "2024.09.28~2024.09.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나만의 향, 1:1 퍼스널 커스텀 퍼퓸 DIY",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:30",
+    "price": "60,000 원",
+    "date": "2024.09.28~2024.09.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리다트 책읽고 미술하기, 가을 허수아비(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:30",
+    "price": "25,000 원",
+    "date": "2024.09.28~2024.09.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리다트 책읽고 미술하기, 무지개 까마귀(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:30",
+    "price": "25,000 원",
+    "date": "2024.09.28~2024.09.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아이키친 초등쿠킹-도토리 마들렌(15~17년생,아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "30,000 원",
+    "date": "2024.09.28~2024.09.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아이키친 키즈쿠킹-도토리 마들렌(18~20년생,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.09.28~2024.09.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:10~16:20",
+    "price": "55,000 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 나의 퍼스널컬러 찾기 B",
+    "info": "타임스퀘어 & ON",
+    "time": "16:30~17:40",
+    "price": "55,000 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-홈파티 라자냐(18~20년생,성인)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "15,000 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "달샘's 얌얌 요리 교실-홈파티 라자냐(18~20년생,성인)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "15,000 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "달샘's 커플쿠킹-뿌팟퐁커리, 분짜 外",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~16:30",
+    "price": "25,000 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "라잇아트 벽화미술, 야오이의 호박과 동그라미(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:20",
+    "price": "12,500 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "라잇아트 벽화미술, 야오이의 호박과 동그라미(20~21년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "12,500 원",
+    "date": "2024.09.29~2024.09.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 키즈 원어민 잉글리쉬 스피킹(16~18년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:40~13:20",
+    "price": "264,000 원",
+    "date": "2024.09.29~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "우리가족 복을 부르는 '복문자도' 원데이 클래스",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~16:30",
+    "price": "35,000 원",
+    "date": "2024.09.30~2024.09.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워, 가을 프렌치 스타일 꽃다발",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "50,000 원",
+    "date": "2024.09.30~2024.09.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이태리 요리, 올리브와인소스 돼지고기요리",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~20:00",
+    "price": "35,000 원",
+    "date": "2024.09.30~2024.09.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "직장인 유러피언 플라워, 가을 프렌치 스타일 꽃다발",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "50,000 원",
+    "date": "2024.09.30~2024.09.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "솜사탕 선생님의 트니트니 키즈챔프(27~36개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~16:50",
+    "price": "61,000 원",
+    "date": "2024.09.30~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아로마 테라피요가",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:00",
+    "price": "76,000 원",
+    "date": "2024.09.30~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "어린이 참여 놀이공연, 토끼의 재판(21년생이상,성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:40",
+    "price": "5,000 원",
+    "date": "2024.10.03~2024.10.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "생화로 만드는 인형 꽃드레스(20년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:10~12:00",
+    "price": "15,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "색채예술극, 알록달록 물고기(21년생이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "5,000 원",
+    "date": "2024.10.03~2024.10.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "어느스튜디오 패밀리 베이킹, 알록달록 무지개 피자(20년생이상, 부모)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "10,000 원",
+    "date": "2024.10.03~2024.10.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "어느스튜디오 패밀리베이킹, 스케치북 케이크(20년생이상, 부모)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~14:40",
+    "price": "10,000 원",
+    "date": "2024.10.03~2024.10.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "크라운해태 과자공예 페스티벌, 날아라 과제트 (18~21년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "5,000 원",
+    "date": "2024.10.03~2024.10.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "크라운해태 과자공예 페스티벌, 달콤한 과자집 (18~21년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:30~12:10",
+    "price": "5,000 원",
+    "date": "2024.10.03~2024.10.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리틀콘크리트 패밀리 베이킹, 초코 컵케이크(21년생이상, 부모A)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:50",
+    "price": "10,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "리틀콘크리트 패밀리 베이킹, 초코 컵케이크(21년생이상, 부모B)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:20",
+    "price": "10,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "카멜레온 미술관 꼬마 예술 놀이터, 모네와 수련(20년생 이상, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:00",
+    "price": "10,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "카멜레온 미술관, 꼬마 예술 놀이터, 신사임당과 초충도(20년생 이상, 성인",
+    "info": "타임스퀘어 & ON",
+    "time": "11:30~12:30",
+    "price": "10,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "퍼포먼스 촉감미술, 무지개 쌀놀이(18~20년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:20~13:00",
+    "price": "5,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "퍼포먼스 촉감미술, 무지개 쌀놀이(20~21년생, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:20~12:00",
+    "price": "5,000 원",
+    "date": "2024.10.09~2024.10.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(18~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~19:20",
+    "price": "120,000 원",
+    "date": "2024.10.18~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(19~20년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "16:50~17:30",
+    "price": "120,000 원",
+    "date": "2024.10.18~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(19~20년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "19:25~20:05",
+    "price": "120,000 원",
+    "date": "2024.10.18~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:15~16:45",
+    "price": "120,000 원",
+    "date": "2024.10.18~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 힐링요가 B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:10",
+    "price": "60,000 원",
+    "date": "2024.10.18~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "프리미엄 교구인지발달 몬테소리(6~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:50~14:30",
+    "price": "55,000 원",
+    "date": "2024.10.18~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "프리미엄 교구인지발달 몬테소리(9~15개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "55,000 원",
+    "date": "2024.10.18~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(18~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~19:20",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(19~20년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "16:50~17:30",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(19~20년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "19:25~20:05",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:15~16:45",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 힐링요가 A",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:10",
+    "price": "60,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "프리미엄 교구인지발달 몬테소리(6~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:50~14:30",
+    "price": "55,000 원",
+    "date": "2024.09.13~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "프리미엄 교구인지발달 몬테소리(9~15개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "55,000 원",
+    "date": "2024.09.13~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 보컬 레슨(A)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:10",
+    "price": "210,000 원",
+    "date": "2024.10.18~2024.11.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 보컬 레슨(B)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:15~14:55",
+    "price": "210,000 원",
+    "date": "2024.10.18~2024.11.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 보컬 레슨(C)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~15:40",
+    "price": "210,000 원",
+    "date": "2024.10.18~2024.11.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 보컬 레슨(D)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:45~16:25",
+    "price": "210,000 원",
+    "date": "2024.10.18~2024.11.29",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 보컬 레슨(A)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:10",
+    "price": "210,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 보컬 레슨(D)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:15~14:55",
+    "price": "210,000 원",
+    "date": "2024.09.06~2024.10.11",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "규방의 美 조각보 공예(기존-중고급)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:10~14:30",
+    "price": "100,000 원",
+    "date": "2024.09.06~2024.11.08",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "규방의 美 조각보 공예(기초)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:40~12:00",
+    "price": "90,000 원",
+    "date": "2024.09.06~2024.11.08",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김혜수 챠밍댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:30",
+    "price": "150,000 원",
+    "date": "2024.09.06~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "사랑스런 인형과 퀼트 소품",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:20",
+    "price": "100,000 원",
+    "date": "2024.09.06~2024.11.08",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시니어 건강 테라피 요가",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플로리스트(연구반)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "(30개월~4세, 성인)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:00~16:40",
+    "price": "95,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:50~17:30",
+    "price": "190,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스 피아노[5단계](18~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:40~18:20",
+    "price": "190,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스(12~17개월)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:50~12:30",
+    "price": "85,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스(12~17개월)B",
+    "info": "타임스퀘어 & ON",
+    "time": "14:20~15:00",
+    "price": "85,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스(18~29개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:10~15:50",
+    "price": "85,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스(5~9개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:40",
+    "price": "85,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스(6~11개월)A",
+    "info": "타임스퀘어 & ON",
+    "time": "12:40~13:20",
+    "price": "85,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "유리드믹스(6~11개월)B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:10",
+    "price": "85,000 원",
+    "date": "2024.09.13~2024.11.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "창의영재 가베교실(19~20년생) *8명정원",
+    "info": "타임스퀘어 & ON",
+    "time": "17:40~18:30",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "캘리그라피 디자이너(입문)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~17:00",
+    "price": "120,000 원",
+    "date": "2024.09.06~2024.11.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(A)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:20~17:50",
+    "price": "150,000 원",
+    "date": "2024.10.24~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(B)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:00~18:30",
+    "price": "150,000 원",
+    "date": "2024.10.24~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(C)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~19:10",
+    "price": "150,000 원",
+    "date": "2024.10.24~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(D)",
+    "info": "타임스퀘어 & ON",
+    "time": "19:20~19:50",
+    "price": "150,000 원",
+    "date": "2024.10.24~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아미도예, 직장인 핸드빌딩 도자기(기초)B",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "120,000 원",
+    "date": "2024.10.24~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아미도예, 핸드빌딩 도자기(기초)B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:40~15:00",
+    "price": "120,000 원",
+    "date": "2024.10.24~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(A)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:20~17:50",
+    "price": "150,000 원",
+    "date": "2024.09.05~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(B)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:00~18:30",
+    "price": "150,000 원",
+    "date": "2024.09.05~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(C)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~19:10",
+    "price": "150,000 원",
+    "date": "2024.09.05~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 피아노 마스터(D)",
+    "info": "타임스퀘어 & ON",
+    "time": "19:20~19:50",
+    "price": "150,000 원",
+    "date": "2024.09.05~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아미도예, 직장인 핸드빌딩 도자기(기초)A",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "120,000 원",
+    "date": "2024.09.05~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아미도예, 핸드빌딩 도자기(기초)A",
+    "info": "타임스퀘어 & ON",
+    "time": "13:40~15:00",
+    "price": "120,000 원",
+    "date": "2024.09.05~2024.10.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김정 시니어 건강댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~15:00",
+    "price": "130,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김정 시니어 건강댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:30",
+    "price": "130,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 A (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:40~18:20",
+    "price": "200,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 B (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~19:10",
+    "price": "200,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 C (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "19:20~20:00",
+    "price": "200,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "MK 뉴트로 댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "12:20~13:20",
+    "price": "130,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "SNPE 통증완화 척추교정운동",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:10",
+    "price": "160,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김요가의 런치 하타요가와 명상",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~13:10",
+    "price": "130,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "보태니컬 꽃그림 & 연필스케치",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~15:10",
+    "price": "119,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "스크린 영어",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:40",
+    "price": "100,000 원",
+    "date": "2024.09.05~2024.11.14",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "연필&색연필 파스텔 인물화",
+    "info": "타임스퀘어 & ON",
+    "time": "10:40~12:10",
+    "price": "140,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 토리톡톡(4~9개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~14:00",
+    "price": "81,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 토리톡톡(5~10개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "81,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 토리톡톡(7~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "81,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 토리톡톡(8~16개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "81,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감자연놀이, 반짝반짝 똘망이(4~9개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "87,500 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감자연놀이, 반짝반짝 똘망이(8~13개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "87,500 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감자연놀이, 반짝반짝 똘망이(9~16개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:20~17:00",
+    "price": "87,500 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "전통민화",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "130,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1B",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:10",
+    "price": "275,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1C",
+    "info": "타임스퀘어 & ON",
+    "time": "12:20~12:50",
+    "price": "275,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1D",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~13:30",
+    "price": "275,000 원",
+    "date": "2024.09.05~2024.11.21",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "코어강화 모닝 필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "140,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": ", 소고춤",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~15:20",
+    "price": "110,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": ", 태평무",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:50",
+    "price": "110,000 원",
+    "date": "2024.09.05~2024.11.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "가을에 어울리는 에프티눈티 베이킹",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "180,000 원",
+    "date": "2024.10.02~2024.10.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "커피향 가득한 모카 베이킹",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "90,000 원",
+    "date": "2024.11.13~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "피아노 1:1 레슨",
+    "info": "타임스퀘어 & ON",
+    "time": "17:50~18:20",
+    "price": "275,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "마드리드 프라도 미술관 산책",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:10",
+    "price": "135,000 원",
+    "date": "2024.09.04~2024.11.13",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "건강한 재료로 홈디저트 베이킹",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:50",
+    "price": "135,000 원",
+    "date": "2024.09.04~2024.09.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 퍼스널컬러를 활용한 기초메이크업A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:10",
+    "price": "165,000 원",
+    "date": "2024.10.16~2024.10.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 퍼스널컬러를 활용한 기초메이크업B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "165,000 원",
+    "date": "2024.10.16~2024.10.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 퍼스널컬러를 활용한 기초메이크업A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:10",
+    "price": "165,000 원",
+    "date": "2024.11.06~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 퍼스널컬러를 활용한 기초메이크업B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:40",
+    "price": "165,000 원",
+    "date": "2024.11.06~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 퍼스널컬러를 활용한 기초메이크업A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:10",
+    "price": "165,000 원",
+    "date": "2024.09.04~2024.09.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 A (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:50~17:30",
+    "price": "200,000 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 B (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:40~18:20",
+    "price": "200,000 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 C (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "18:30~19:10",
+    "price": "200,000 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 영재암산 D (19년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "19:20~20:00",
+    "price": "200,000 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "기초 미술 & 유화",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~15:20",
+    "price": "138,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "말문트기 생활영어(초급)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:40~13:40",
+    "price": "128,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "말문트기 해외 여행영어",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~16:00",
+    "price": "128,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "연필드로잉 & 수채화",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~13:00",
+    "price": "128,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감테마놀이 소풍가는 하마(13~26개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "80,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감테마놀이 소풍가는 하마(5~10개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~14:00",
+    "price": "80,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감테마놀이 소풍가는 하마(8~13개월B)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "80,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라 점프 신체놀이(13~19개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "78,500 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라 점프 신체놀이(18~26개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "78,500 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라 점프 신체놀이(24~32개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:20~17:00",
+    "price": "78,500 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "울랄라 점프 신체놀이(30~40개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:10~17:50",
+    "price": "78,500 원",
+    "date": "2024.09.04~2024.11.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "폼롤러 필라테스링 체형교정 클리닉",
+    "info": "타임스퀘어 & ON",
+    "time": "19:10~20:00",
+    "price": "138,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한국무용[중급], 이매방류 살풀이춤",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:10",
+    "price": "110,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한국무용[초중급], 민살풀이",
+    "info": "타임스퀘어 & ON",
+    "time": "13:50~15:10",
+    "price": "110,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": ", 진도북춤",
+    "info": "타임스퀘어 & ON",
+    "time": "12:20~13:40",
+    "price": "110,000 원",
+    "date": "2024.09.04~2024.11.27",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아나운서 이아롬의 도슨트 투어",
+    "info": "타임스퀘어 & ON",
+    "time": "10:30~12:10",
+    "price": "50,000 원",
+    "date": "2024.09.12~2024.09.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워 스타일링",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "150,000 원",
+    "date": "2024.10.07~2024.10.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워 스타일링",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "150,000 원",
+    "date": "2024.11.04~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "피아노 1:1 레슨",
+    "info": "타임스퀘어 & ON",
+    "time": "17:15~17:45",
+    "price": "225,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "유러피언 플라워 스타일링",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:20",
+    "price": "200,000 원",
+    "date": "2024.09.02~2024.09.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "감성음악놀이, 연주하는 아기새(13~22개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "67,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "감성음악놀이, 연주하는 아기새(4~8개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "67,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "감성음악놀이, 연주하는 아기새(6~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "67,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "라틴 댄스 스포츠[차차차]",
+    "info": "타임스퀘어 & ON",
+    "time": "12:50~13:50",
+    "price": "125,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "바이올린 1:1B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~13:30",
+    "price": "250,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "바이올린 클래스",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:00",
+    "price": "108,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "솜사탕 선생님의 트니트니 키즈챔프(13~19개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "솜사탕 선생님의 트니트니 키즈챔프(20~26개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:20~16:00",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "솜사탕 선생님의 트니트니 키즈챔프(27~36개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~16:50",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "솜사탕 선생님의 트니트니 키즈챔프(37~55개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:00~17:40",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "아로마 테라피 요가",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:00",
+    "price": "108,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "우리아이 독서교육, 책부터 제대로 고르는법",
+    "info": "타임스퀘어 & ON",
+    "time": "14:20~15:40",
+    "price": "160,000 원",
+    "date": "2024.10.07~2024.10.28",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "일본어 문법복습, 기본회화",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:30",
+    "price": "108,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "일본어 여행회화 [초중급]",
+    "info": "타임스퀘어 & ON",
+    "time": "12:20~13:20",
+    "price": "108,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "일본어 형용사반",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:40",
+    "price": "108,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "차근차근 일본어 문법",
+    "info": "타임스퀘어 & ON",
+    "time": "11:10~12:10",
+    "price": "108,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(10~18개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:50~14:30",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(15~24개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:20~17:00",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(5~9개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "키즈와플 오감팡팡(7~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "78,500 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "피아노 2:1 레슨 A",
+    "info": "타임스퀘어 & ON",
+    "time": "17:50~18:30",
+    "price": "190,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "피아노 2:1 레슨 B",
+    "info": "타임스퀘어 & ON",
+    "time": "18:35~19:15",
+    "price": "190,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한국무용 [중고급], 살풀이춤",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:10",
+    "price": "100,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "한국무용 [초중급], 장고춤",
+    "info": "타임스퀘어 & ON",
+    "time": "12:20~13:40",
+    "price": "100,000 원",
+    "date": "2024.09.02~2024.11.25",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "120,000 원",
+    "date": "2024.10.13~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "6:1 레고과학놀이[테크머신](18~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "120,000 원",
+    "date": "2024.10.13~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아트팡팡 퍼포먼스 미술(18~28개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "45,000 원",
+    "date": "2024.10.13~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아트팡팡 퍼포먼스 미술(29~45개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "45,000 원",
+    "date": "2024.10.13~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "120,000 원",
+    "date": "2024.09.01~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "6:1 레고과학놀이[테크머신](18~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "120,000 원",
+    "date": "2024.09.01~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아트팡팡 퍼포먼스 미술(18~28개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "45,000 원",
+    "date": "2024.09.01~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아트팡팡 퍼포먼스 미술(29~45개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "45,000 원",
+    "date": "2024.09.01~2024.10.06",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 첼로 A",
+    "info": "타임스퀘어 & ON",
+    "time": "12:40~13:10",
+    "price": "250,000 원",
+    "date": "2024.09.01~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 첼로 B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~13:50",
+    "price": "250,000 원",
+    "date": "2024.09.01~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 첼로 A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:40",
+    "price": "200,000 원",
+    "date": "2024.09.01~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 첼로 B",
+    "info": "타임스퀘어 & ON",
+    "time": "11:50~12:30",
+    "price": "200,000 원",
+    "date": "2024.09.01~2024.11.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 동작&소리로 배우는 똑똑 한글 깨치기(19년생 이상A) ※10/6개강",
+    "info": "타임스퀘어 & ON",
+    "time": "14:20~15:00",
+    "price": "240,000 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 동작&소리로 배우는 똑똑 한글 깨치기(19년생 이상B) ※10/6개강",
+    "info": "타임스퀘어 & ON",
+    "time": "16:00~16:40",
+    "price": "240,000 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 발음으로 배우는 맞춤법 한글 읽기와 쓰기(18년생 이상A) ※10/6개강",
+    "info": "타임스퀘어 & ON",
+    "time": "15:10~15:50",
+    "price": "227,000 원",
+    "date": "2024.10.06~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 키즈 원어민 영어스피킹(18~19년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:40",
+    "price": "384,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 키즈 원어민 영어스피킹(18~19년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "11:50~12:30",
+    "price": "384,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 키즈 원어민 영어스피킹(19~20년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:10",
+    "price": "384,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 키즈 원어민 영어스피킹(19~20년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "14:20~15:00",
+    "price": "384,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "4:1 꼬마박사의 공부 연구실, 소화과정에 대한 연구(16~17년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~14:00",
+    "price": "161,000 원",
+    "date": "2024.09.22~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "4:1 꼬마박사의 공부 연구실, 소화과정에 대한 연구(17~18년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~12:20",
+    "price": "161,000 원",
+    "date": "2024.09.22~2024.10.20",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "5:1 예쁜몸매 리듬체조(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:10~16:00",
+    "price": "250,000 원",
+    "date": "2024.09.01~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "꼬마탐구 원리체험(16~18년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:50~15:40",
+    "price": "165,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "꼬마탐구 원리체험(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:50~16:40",
+    "price": "165,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "바디 피트니스 홈필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "140,000 원",
+    "date": "2024.09.01~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "썬데이 키즈 방송댄스(18년생이상)A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:50~12:40",
+    "price": "138,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "썬데이 키즈 방송댄스(18년생이상)B",
+    "info": "타임스퀘어 & ON",
+    "time": "12:50~13:40",
+    "price": "138,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "썬데이 키즈 방송댄스(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:40",
+    "price": "138,000 원",
+    "date": "2024.09.01~2024.11.17",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아미고 공주 마마발레(25~36개월) ※9/8 개강",
+    "info": "타임스퀘어 & ON",
+    "time": "12:10~12:50",
+    "price": "80,000 원",
+    "date": "2024.09.08~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "아미고 공주 마마발레(30~48개월) ※9/8 개강",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~13:40",
+    "price": "80,000 원",
+    "date": "2024.09.08~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "아미고 공주 발레(19~20년생) ※9/8 개강",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~14:50",
+    "price": "150,000 원",
+    "date": "2024.09.08~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "영재 미술 팔레트(18년생이상, 아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:40~14:30",
+    "price": "190,000 원",
+    "date": "2024.09.01~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "영재 미술 팔레트(19~20년생, 아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:40~13:30",
+    "price": "190,000 원",
+    "date": "2024.09.01~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "큰나무 선생님의 트니트니 키즈챔프(13~20개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:50~15:30",
+    "price": "90,000 원",
+    "date": "2024.09.01~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "큰나무 선생님의 트니트니 키즈챔프(13~24개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:10~13:50",
+    "price": "90,000 원",
+    "date": "2024.09.01~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "큰나무 선생님의 트니트니 키즈챔프(20~30개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~14:40",
+    "price": "90,000 원",
+    "date": "2024.09.01~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "큰나무 선생님의 트니트니 키즈챔프(32~45개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:40~16:20",
+    "price": "90,000 원",
+    "date": "2024.09.01~2024.11.24",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(19~20년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:45~16:25",
+    "price": "120,000 원",
+    "date": "2024.10.19~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~15:40",
+    "price": "120,000 원",
+    "date": "2024.10.19~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "16:30~17:10",
+    "price": "120,000 원",
+    "date": "2024.10.19~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)C",
+    "info": "타임스퀘어 & ON",
+    "time": "17:15~17:55",
+    "price": "120,000 원",
+    "date": "2024.10.19~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "LEGO 레고로 배우는 코딩(17-19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:40",
+    "price": "100,000 원",
+    "date": "2024.10.05~2024.10.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "체형교정 6:1 필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:20",
+    "price": "100,000 원",
+    "date": "2024.10.05~2024.10.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "체형교정 6:1 필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:20",
+    "price": "100,000 원",
+    "date": "2024.11.02~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(19~20년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:45~16:25",
+    "price": "120,000 원",
+    "date": "2024.09.07~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:00~15:40",
+    "price": "120,000 원",
+    "date": "2024.09.07~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "16:30~17:10",
+    "price": "120,000 원",
+    "date": "2024.09.07~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "2:1 키즈 창의가베(20~21년생)C",
+    "info": "타임스퀘어 & ON",
+    "time": "17:15~17:55",
+    "price": "120,000 원",
+    "date": "2024.09.07~2024.10.12",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나에게 어울리는 스피드 메이크업A",
+    "info": "타임스퀘어 & ON",
+    "time": "11:30~12:40",
+    "price": "110,000 원",
+    "date": "2024.10.12~2024.10.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "나에게 어울리는 스피드 메이크업B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:00~14:10",
+    "price": "110,000 원",
+    "date": "2024.10.12~2024.10.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 바이올린A",
+    "info": "타임스퀘어 & ON",
+    "time": "12:50~13:30",
+    "price": "200,000 원",
+    "date": "2024.09.07~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 바이올린B",
+    "info": "타임스퀘어 & ON",
+    "time": "13:40~14:20",
+    "price": "200,000 원",
+    "date": "2024.09.07~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 바이올린C",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "200,000 원",
+    "date": "2024.09.07~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 바이올린D",
+    "info": "타임스퀘어 & ON",
+    "time": "15:20~16:00",
+    "price": "200,000 원",
+    "date": "2024.09.07~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 바이올린E",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~16:50",
+    "price": "200,000 원",
+    "date": "2024.09.07~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 바이올린F",
+    "info": "타임스퀘어 & ON",
+    "time": "17:00~17:40",
+    "price": "200,000 원",
+    "date": "2024.09.07~2024.11.09",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 원어민 어린이 잉글리쉬 스피킹(16~18년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "14:40~15:20",
+    "price": "384,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 원어민 어린이 잉글리쉬 스피킹(16~18년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "384,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "IQ발달 체스아카데미(12~17년생) ※9/21개강",
+    "info": "타임스퀘어 & ON",
+    "time": "13:10~14:10",
+    "price": "165,000 원",
+    "date": "2024.09.21~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "IQ발달 체스아카데미(18~19년생) ※9/21개강",
+    "info": "타임스퀘어 & ON",
+    "time": "12:00~13:00",
+    "price": "165,000 원",
+    "date": "2024.09.21~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "다섯손가락, 아트피아노(18~20년생)A",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "195,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "수리셈 주산 영재암산 (18~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~14:10",
+    "price": "120,000 원",
+    "date": "2024.09.07~2024.11.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "수리셈 주산 영재암산 (18년생 이상)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:20~15:10",
+    "price": "120,000 원",
+    "date": "2024.09.07~2024.11.30",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(15~25개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:20~14:00",
+    "price": "90,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(24~32개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "90,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(29~37개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "90,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(33~41개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "90,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "수수깡 선생님의 트니트니 키즈챔프(37~50개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:10~14:50",
+    "price": "90,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타 영어발레(17~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~11:40",
+    "price": "180,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타 영어발레(18~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:20~15:00",
+    "price": "180,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타 영어발레(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:40~13:20",
+    "price": "180,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타 영어발레(20~21년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:50~12:30",
+    "price": "180,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타 영어발레(30~48개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:10",
+    "price": "90,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "5:1 예쁜몸매 리듬체조(17~19년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:10~16:00",
+    "price": "250,000 원",
+    "date": "2024.09.01~2024.11.10",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 태교요가 B",
+    "info": "타임스퀘어 & ON",
+    "time": "14:50~15:50",
+    "price": "50,000 원",
+    "date": "2024.10.22~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 드럼레슨 A",
+    "info": "타임스퀘어 & ON",
+    "time": "17:45~18:15",
+    "price": "150,000 원",
+    "date": "2024.10.22~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 드럼레슨 B",
+    "info": "타임스퀘어 & ON",
+    "time": "18:20~18:50",
+    "price": "150,000 원",
+    "date": "2024.10.22~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 드럼레슨 C",
+    "info": "타임스퀘어 & ON",
+    "time": "18:55~19:25",
+    "price": "150,000 원",
+    "date": "2024.10.22~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "3:1 아이패드 키즈 디지털 드로잉(13~16년생, 아이만)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:40~18:30",
+    "price": "150,000 원",
+    "date": "2024.10.22~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김정 시니어 건강댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "11:00~12:00",
+    "price": "130,000 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "김정 시니어 건강댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:30",
+    "price": "130,000 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로1:1 A",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~16:40",
+    "price": "250,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1 B",
+    "info": "타임스퀘어 & ON",
+    "time": "16:50~17:20",
+    "price": "250,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1 C",
+    "info": "타임스퀘어 & ON",
+    "time": "17:30~18:00",
+    "price": "250,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1 D",
+    "info": "타임스퀘어 & ON",
+    "time": "18:10~18:40",
+    "price": "250,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로1:1 E",
+    "info": "타임스퀘어 & ON",
+    "time": "18:50~19:20",
+    "price": "250,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "첼로 1:1 F",
+    "info": "타임스퀘어 & ON",
+    "time": "19:30~20:00",
+    "price": "250,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "1:1 플룻 레슨(D)",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:10",
+    "price": "300,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "3:1 아이패드 디지털드로잉(기초)B",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "180,000 원",
+    "date": "2024.10.22~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "3:1 연필인물화(기초)B",
+    "info": "타임스퀘어 & ON",
+    "time": "16:00~17:20",
+    "price": "170,000 원",
+    "date": "2024.10.22~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "매일매일 생활 영어(중급)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:50~16:00",
+    "price": "100,000 원",
+    "date": "2024.09.03~2024.11.19",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "보태니컬 꽃그림 & 연필스케치(기초)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~15:50",
+    "price": "119,000 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "임산부 태교요가 A",
+    "info": "타임스퀘어 & ON",
+    "time": "14:50~15:50",
+    "price": "50,000 원",
+    "date": "2024.09.03~2024.10.15",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 드럼레슨 A",
+    "info": "타임스퀘어 & ON",
+    "time": "17:45~18:15",
+    "price": "150,000 원",
+    "date": "2024.09.03~2024.10.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 드럼레슨 B",
+    "info": "타임스퀘어 & ON",
+    "time": "18:20~18:50",
+    "price": "150,000 원",
+    "date": "2024.09.03~2024.10.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "2:1 드럼레슨 C",
+    "info": "타임스퀘어 & ON",
+    "time": "18:55~19:25",
+    "price": "150,000 원",
+    "date": "2024.09.03~2024.10.22",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "MK 뉴트로 댄스",
+    "info": "타임스퀘어 & ON",
+    "time": "14:00~15:00",
+    "price": "130,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "SNPE 바른자세 척추운동",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:50",
+    "price": "150,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "글렌도만 영재교실(13~20개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "11:40~12:20",
+    "price": "80,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "글렌도만 영재교실(21~30개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:50~11:30",
+    "price": "80,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "글렌도만 영재교실(6~12개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:10",
+    "price": "80,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "바디라인 필라테스",
+    "info": "타임스퀘어 & ON",
+    "time": "19:00~20:00",
+    "price": "140,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시 창작 교실",
+    "info": "타임스퀘어 & ON",
+    "time": "18:40~20:00",
+    "price": "130,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "시니어 건강 테라피 요가",
+    "info": "타임스퀘어 & ON",
+    "time": "13:30~14:30",
+    "price": "120,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 팡팡플레이(12~20개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "15:20~16:00",
+    "price": "85,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "오감발달 팡팡플레이(8~15개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "14:30~15:10",
+    "price": "85,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이정순의 파스텔 일러스트(11/19종강)",
+    "info": "타임스퀘어 & ON",
+    "time": "10:40~12:00",
+    "price": "110,000 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "이정순의 파스텔화(11/19 종강)",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~14:30",
+    "price": "138,000 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "adult",
+    "location": "yeongdeungpo",
+    "title": "정진향의 다이내믹 노래교실",
+    "info": "타임스퀘어 & ON",
+    "time": "12:30~13:30",
+    "price": "120,000 원",
+    "date": "2024.09.03~2024.12.03",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타(19~20년생)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:50~18:30",
+    "price": "149,000 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타(28~38개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "16:10~16:50",
+    "price": "74,500 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "family",
+    "location": "yeongdeungpo",
+    "title": "주니토니 발레스타(38~48개월)",
+    "info": "타임스퀘어 & ON",
+    "time": "17:00~17:40",
+    "price": "74,500 원",
+    "date": "2024.09.03~2024.11.26",
+    "sessionType": "regular"
+  },
+  {
+    "target": "child",
+    "location": "yeongdeungpo",
+    "title": "다섯손가락, 아트피아노(18~20년생)B",
+    "info": "타임스퀘어 & ON",
+    "time": "15:30~16:10",
+    "price": "195,000 원",
+    "date": "2024.09.07~2024.11.23",
+    "sessionType": "regular"
+  }
+]

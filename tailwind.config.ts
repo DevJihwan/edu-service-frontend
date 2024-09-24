@@ -13,6 +13,9 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        sans: ['Poppins', 'Noto Sans KR', 'sans-serif'], // 기본 sans-serif 폰트 설정
+      },
     },
   },
   plugins: [],
