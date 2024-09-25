@@ -7,9 +7,11 @@ import CourseCard from './components/CourseCard';
 interface Course {
   id: number;
   title: string;
+  info: string; // 추가
   location: string;
   date: string;
   description: string;
+  price: string;
   sessionType: string;
   time: string; // Include time for display
 }

@@ -6,6 +6,7 @@
       "dom.iterable",
       "esnext"
     ],
+    "typeRoots": ["./src/types", "./node_modules/@types"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -50,6 +51,6 @@
     ".next/types/**/*.ts"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules", "data", "scripts"
   ]
 }
