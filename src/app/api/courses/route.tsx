@@ -2,6 +2,9 @@ import { NextRequest, NextResponse } from 'next/server';
 import connectToDatabase from '@/utils/mongodb';
 import Course from '@/models/Course';
 
+// 동적 라우트임을 명시적으로 선언
+export const dynamic = 'force-dynamic';
+
 export async function GET(request: NextRequest) {
   await connectToDatabase();
 
@@ -12,19 +15,19 @@ export async function GET(request: NextRequest) {
   const timeCategory = searchParams.get('timeCategory'); // Use timeCategory for filtering
   const sessionType = searchParams.get('sessionType');
 
-  // MongoDB query object
+  // MongoDB 쿼리 객체 생성
   const filter: any = {};
   if (query) filter.title = new RegExp(query, 'i');
   if (region && region !== 'all') filter.location = region;
   if (target && target !== 'all') filter.target = target;
 
-  // Filter by timeCategory if specified
+  // timeCategory로 필터링
   if (timeCategory && timeCategory !== 'all') filter.timeCategory = timeCategory;
 
-  // Filter by sessionType
+  // sessionType으로 필터링
   if (sessionType && sessionType !== 'all') filter.sessionType = sessionType;
 
-  // Fetch filtered courses
+  // 필터링된 코스 데이터 가져오기
   const courses = await Course.find(filter);
 
   return NextResponse.json(courses);
