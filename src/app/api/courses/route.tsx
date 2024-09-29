@@ -2,9 +2,6 @@ import { NextRequest, NextResponse } from 'next/server';
 import connectToDatabase from '@/utils/mongodb';
 import Course from '@/models/Course';
 
-// 동적 라우트임을 명시적으로 선언
-export const dynamic = 'force-dynamic';
-
 export async function GET(request: NextRequest) {
   await connectToDatabase();
 
