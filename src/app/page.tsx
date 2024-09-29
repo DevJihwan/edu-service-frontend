@@ -34,8 +34,7 @@ export default function HomePage() {
       sessionType,
     });
 
-    const response = await fetch(`https://l1dlo3pf39.execute-api.ap-northeast-2.amazonaws.com/edu/courses?${queryParams.toString()}`);
-    //`https://<API-Gateway-URL>/courses?${queryParams.toString()}`
+    const response = await fetch(`/api/courses?${queryParams.toString()}`);
     const data: Course[] = await response.json();
     setResults(data);
     setVisibleCourses(10); // Reset visible courses after each search
