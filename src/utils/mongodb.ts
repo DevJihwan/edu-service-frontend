@@ -1,6 +1,6 @@
 import mongoose, { Connection } from 'mongoose';
 
-const MONGODB_URI = "mongodb+srv://jihwan114:!SJH552016@runmongo.idlha08.mongodb.net/?retryWrites=true&w=majority&appName=RunMongo"
+const MONGODB_URI = process.env.MONGODB_URI;
 
 if (!MONGODB_URI) {
   throw new Error(
