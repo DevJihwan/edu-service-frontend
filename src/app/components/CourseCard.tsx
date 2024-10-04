@@ -12,13 +12,10 @@ export default function CourseCard({ course }: CourseCardProps) {
       <h3 className="font-semibold text-lg text-blue-800">{course.title}</h3>
       <div className="text-sm text-gray-600 mt-2 space-y-1">
         <p className="flex items-center">
-          <FiMapPin className="mr-2" /> {course.location}
+          <FiMapPin className="mr-2" /> {course.info}
         </p>
         <p className="flex items-center">
-          <FiClock className="mr-2" /> {course.startDate} ({course.timeCategory})
-        </p>
-        <p className="flex items-center">
-          <FiDollarSign className="mr-2" /> {course.price}
+          <FiClock className="mr-2" /> {course.date} {course.time}
         </p>
         <p>
           {course.sessionType === 'oneday' ? '1일 체험' : '정규 강좌'}
