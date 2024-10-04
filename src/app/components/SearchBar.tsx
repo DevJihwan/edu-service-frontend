@@ -1,17 +1,20 @@
 import React from 'react';
 import { FaMapMarkerAlt, FaUsers } from 'react-icons/fa'; // 위치와 타겟 아이콘
 import { FiClock, FiClipboard } from 'react-icons/fi'; // 시간과 세션 아이콘
+import Select from 'react-select';
 
 interface SearchBarProps {
   searchTerm: string;
   setSearchTerm: (term: string) => void;
   handleSearch: () => void;
-  region: string;
-  setRegion: (region: string) => void;
+  region: string[];
+  //setRegion: (region: string) => void;
+  setRegion: React.Dispatch<React.SetStateAction<string[]>>;
   target: string;
   setTarget: (target: string) => void;
-  time: string;
-  setTime: (time: string) => void;
+  time: string[];
+  //setTime: (time: string[]) => void;
+  setTime: React.Dispatch<React.SetStateAction<string[]>>;
   sessionType: string;
   setSessionType: (type: string) => void;
 }
@@ -29,51 +32,66 @@ export default function SearchBar({
   sessionType,
   setSessionType,
 }: SearchBarProps) {
-  // 버튼 스타일 및 호버 스타일
-  const buttonClass = (selected: boolean) =>
-    `p-3 border rounded-lg shadow-md transition-all duration-200 ${
-      selected ? 'bg-gradient-to-r from-purple-400 to-blue-400 text-white' : 'bg-gray-100 text-gray-600'
-    } hover:bg-gradient-to-r hover:from-purple-500 hover:to-blue-500 hover:text-white`;
+  const buttonClass = (isSelected: boolean) =>
+  `p-3 border rounded-lg shadow-md transition-all duration-200 ${
+    isSelected ? 'bg-gradient-to-r from-purple-400 to-blue-400 text-white' : 'bg-gray-100 text-gray-600'
+  } hover:bg-gradient-to-r hover:from-purple-500 hover:to-blue-500 hover:text-white`;
+
+  const allTimes = ['Early Morning', 'Morning', 'Afternoon', 'Late Afternoon', 'Evening'];
+
+  const regionOptions = [
+    { value: 'gangnam', label: '강남구' },
+    { value: 'gangdong', label: '강동구' },
+    { value: 'gangbuk', label: '강북구' },
+    { value: 'gangseo', label: '강서구' },
+    { value: 'gwanak', label: '관악구' },
+    { value: 'gwangjin', label: '광진구' },
+    { value: 'guro', label: '구로구' },
+    { value: 'geumcheon', label: '금천구' },
+    { value: 'nowon', label: '노원구' },
+    { value: 'dobong', label: '도봉구' },
+    { value: 'dongdaemun', label: '동대문구' },
+    { value: 'dongjak', label: '동작구' },
+    { value: 'mapo', label: '마포구' },
+    { value: 'seodaemun', label: '서대문구' },
+    { value: 'seocho', label: '서초구' },
+    { value: 'seongdong', label: '성동구' },
+    { value: 'seongbuk', label: '성북구' },
+    { value: 'songpa', label: '송파구' },
+    { value: 'yangcheon', label: '양천구' },
+    { value: 'yeongdeungpo', label: '영등포구' },
+    { value: 'yongsan', label: '용산구' },
+    { value: 'eunpyeong', label: '은평구' },
+    { value: 'jung', label: '중구' },
+    { value: 'jungnang', label: '중랑구' },
+  ];
+
+  const timeOptions = [
+    { value: 'Early Morning', label: '아침' },
+    { value: 'Morning', label: '오전' },
+    { value: 'Afternoon', label: '점심' },
+    { value: 'Late Afternoon', label: '오후' },
+    { value: 'Evening', label: '저녁' },
+  ];
 
   return (
     <div className="mb-4 font-sans"> {/* Tailwind에서 폰트를 설정 */}
       {/* 지역 선택 */}
       <div className="mb-4">
-        <label htmlFor="region" className="block mb-2 font-semibold flex items-center">
+        <label className="block mb-2 font-semibold flex items-center">
           <FaMapMarkerAlt className="mr-2" /> 지역:
         </label>
-        <select
-          id="region"
-          value={region}
-          onChange={(e) => setRegion(e.target.value)}
-          className="border p-3 rounded-lg w-full shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300"
-        >
-          <option value="all">All</option>
-          <option value="gangnam">강남구</option>
-          <option value="gangdong">강동구</option>
-          <option value="gangbuk">강북구</option>
-          <option value="gangseo">강서구</option>
-          <option value="gwanak">관악구</option>
-          <option value="gwangjin">광진구</option>
-          <option value="guro">구로구</option>
-          <option value="geumcheon">금천구</option>
-          <option value="nowon">노원구</option>
-          <option value="dobong">도봉구</option>
-          <option value="dongdaemun">동대문구</option>
-          <option value="dongjak">동작구</option>
-          <option value="mapo">마포구</option>
-          <option value="seodaemun">서대문구</option>
-          <option value="seocho">서초구</option>
-          <option value="seongdong">성동구</option>
-          <option value="seongbuk">성북구</option>
-          <option value="songpa">송파구</option>
-          <option value="yangcheon">양천구</option>
-          <option value="yeongdeungpo">영등포구</option>
-          <option value="yongsan">용산구</option>
-          <option value="eunpyeong">은평구</option>
-          <option value="jung">중구</option>
-          <option value="jungnang">중랑구</option>
-        </select>
+        <Select
+          isMulti
+          closeMenuOnSelect={false} // 이 속성을 추가합니다.
+          isClearable={true}
+          options={regionOptions}
+          value={regionOptions.filter((option) => region.includes(option.value))}
+          onChange={(selectedOptions) => {
+            setRegion(selectedOptions.map((option) => option.value));
+          }}
+          placeholder="지역을 선택하세요"
+        />
       </div>
 
       {/* 대상 선택 버튼 */}
@@ -108,36 +126,36 @@ export default function SearchBar({
         <label className="block mb-2 font-semibold flex items-center">
           <FiClock className="mr-2" /> 시간대:
         </label>
+        
         <div className="flex space-x-3">
+          {allTimes.map((timeSlot) => (
+            <button
+              key={timeSlot}
+              className={buttonClass(time.includes(timeSlot))}
+              onClick={() => {
+                setTime((prevTime) => {
+                  if (prevTime.includes(timeSlot)) {
+                    return prevTime.filter((t) => t !== timeSlot);
+                  } else {
+                    return [...prevTime, timeSlot];
+                  }
+                });
+              }}
+            >
+              {timeSlot === 'Early Morning' && '아침'}
+              {timeSlot === 'Morning' && '오전'}
+              {timeSlot === 'Afternoon' && '점심'}
+              {timeSlot === 'Late Afternoon' && '오후'}
+              {timeSlot === 'Evening' && '저녁'}
+            </button>
+          ))}
           <button
-            className={buttonClass(time === 'morning')}
-            onClick={() => setTime('morning')}
+          className={buttonClass(time.length === 0)}
+          onClick={() => {
+            setTime([]); // 모든 선택 해제
+          }}
           >
-            아침
-          </button>
-          <button
-            className={buttonClass(time === 'midmorning')}
-            onClick={() => setTime('midmorning')}
-          >
-            오전
-          </button>
-          <button
-            className={buttonClass(time === 'afternoon')}
-            onClick={() => setTime('afternoon')}
-          >
-            점심
-          </button>
-          <button
-            className={buttonClass(time === 'Late Afternoon')}
-            onClick={() => setTime('Late Afternoon')}
-          >
-            오후
-          </button>
-          <button
-            className={buttonClass(time === 'Evening')}
-            onClick={() => setTime('Evening')}
-          >
-            저녁
+          전체 해제
           </button>
         </div>
       </div>

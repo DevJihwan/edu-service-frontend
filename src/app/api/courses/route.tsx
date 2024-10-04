@@ -7,25 +7,43 @@ export async function GET(request: NextRequest) {
 
   const { searchParams } = new URL(request.url);
   const query = searchParams.get('query');
-  const region = searchParams.get('region');
+  //const region = searchParams.get('region');
+  const regions = searchParams.getAll('region');
   const target = searchParams.get('target');
-  const timeCategory = searchParams.get('timeCategory'); // Use timeCategory for filtering
   const sessionType = searchParams.get('sessionType');
+
+  // 페이지네이션 파라미터 처리
+  const page = parseInt(searchParams.get('page') || '1', 10);
+  const perPage = parseInt(searchParams.get('perPage') || '10', 10);
+
+  // timeCategory를 배열로 가져오기
+  const timeCategories = searchParams.getAll('timeCategory');
 
   // MongoDB 쿼리 객체 생성
   const filter: any = {};
   if (query) filter.title = new RegExp(query, 'i');
-  if (region && region !== 'all') filter.location = region;
+  if (regions.length > 0) {
+    filter.location = { $in: regions };
+  }
+  //if (region && region !== 'all') filter.location = region;
   if (target && target !== 'all') filter.target = target;
-
-  // timeCategory로 필터링
-  if (timeCategory && timeCategory !== 'all') filter.timeCategory = timeCategory;
-
-  // sessionType으로 필터링
   if (sessionType && sessionType !== 'all') filter.sessionType = sessionType;
 
-  // 필터링된 코스 데이터 가져오기
-  const courses = await Course.find(filter);
+  // timeCategory 필터 적용
+  if (timeCategories.length > 0) {
+    filter.timeCategory = { $in: timeCategories };
+  }
 
-  return NextResponse.json(courses);
+  // 총 결과 수 계산
+  const totalCourses = await Course.countDocuments(filter);
+
+  // 페이지네이션 적용하여 코스 데이터 가져오기
+  const courses = await Course.find(filter)
+    .skip((page - 1) * perPage)
+    .limit(perPage);
+
+  return NextResponse.json({
+    courses,
+    total: totalCourses,
+  });
 }
