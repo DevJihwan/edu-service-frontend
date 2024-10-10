@@ -12,6 +12,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <body>
         <header className="bg-gray-800 text-white p-4">
           <h1 className="text-xl font-bold">우리동네 문화센터</h1>
+          <meta name="google-adsense-account" content="ca-pub-5732243896870221"></meta>
         </header>
         <main className="container mx-auto p-4">
           {children}
