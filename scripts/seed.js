@@ -62,7 +62,7 @@ mongoose.connection.on('connected', function () { return __awaiter(_this, void 0
                 _a.label = 1;
             case 1:
                 _a.trys.push([1, 3, 4, 6]);
-                dataPath = path.join(__dirname, '../data/scripts/lotte_culture_yeongdeungpo.json');
+                dataPath = path.join(__dirname, '../data/scripts/classes.json');
                 console.log("Reading data from ".concat(dataPath, "..."));
                 jsonData = fs.readFileSync(dataPath, 'utf-8');
                 courses = JSON.parse(jsonData);

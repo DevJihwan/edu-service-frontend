@@ -76,7 +76,7 @@ async function fetchData() {
 
   // Loop over pagination
   let currentPage = 47;
-  let totalPages = 49; // Set based on actual pages
+  let totalPages = 46; // Set based on actual pages
   let allData = [];
 
   while (currentPage <= totalPages) {

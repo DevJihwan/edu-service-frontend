@@ -35,9 +35,48 @@ function extractDateFromTitle(title) {
 
   function updateCourseInfo(courses) {
     return courses.map(course => {
+
+      //let updatedCourseInfo = '이마트 ' + course.info;
+      let updatedTarget = course.target;
+
+      if(course.title.includes('성인') ||
+        course.title.includes('줌바')                 
+      
+      ){
+        updatedTarget = 'adult'
+      }
+
+      /*
+      let updatedCourselocation;
+
+      if (course.location == "가든5점"){
+        updatedCourselocation = "songpa";
+      }else if(course.location == "은평점"){
+        updatedCourselocation = "eunpyeong";
+      }else if(course.location == "월계점"){
+        updatedCourselocation = "nowon";
+      }else if(course.location == "청계천점"){
+        updatedCourselocation = "jung";
+      }else if(course.location == "묵동(중랑)점"){
+        updatedCourselocation = "jungnang";
+      }else if(course.location == "목동(양천)점"){
+        updatedCourselocation = "yangcheon";
+      }else if(course.location == "구로점"){
+        updatedCourselocation = "guro";
+      }else if(course.location == "명일점"){
+        updatedCourselocation = "gangdong";
+      }else if(course.location == "신도림점"){
+        updatedCourselocation = "guro";
+      }else if(course.location == "하월곡점"){
+        updatedCourselocation = "seongbuk";
+      }
+
+      */
+
+
       return {
         ...course,
-        info: '현대백화점_무역센터점', // info 필드를 '현대백화점_무역센터점'으로 변경
+        target: updatedTarget
       };
     });
   }  
@@ -62,10 +101,8 @@ function extractDateFromTitle(title) {
     return courses.map(course => {
       let updatedSessionType = course.sessionType;
       
-      if (course.sessionType === "1일 체험") {
+      if (course.sessionType === "one-time") {
         updatedSessionType = "oneday";
-      } else if (course.sessionType === "정규 강좌") {
-        updatedSessionType = "regular";
       }
   
       return {
@@ -88,18 +125,18 @@ function updateLocation(courses) {
 
 function updateCourseJson() {
   // course.json 파일 읽기
-  const rawData = fs.readFileSync('shinchon_courses.json', 'utf-8');
+  const rawData = fs.readFileSync('classes.json', 'utf-8');
   const courses = JSON.parse(rawData);
 
   // time을 date와 time으로 분리
   //const updatedCourses = splitTime(courses);
   // 데이터 업데이트
-  const updatedCourses = updateLocation(courses);
+  const updatedCourses = updateCourseInfo(courses);
   
 
   // 결과를 다시 courses.json에 저장
-  fs.writeFileSync('shinchon_courses.json', JSON.stringify(updatedCourses, null, 2), 'utf-8');
-  console.log('shinchon_courses.json 파일이 성공적으로 업데이트되었습니다.');
+  fs.writeFileSync('classes.json', JSON.stringify(updatedCourses, null, 2), 'utf-8');
+  console.log('classes.json 파일이 성공적으로 업데이트되었습니다.');
 }
 
 updateCourseJson();
