@@ -1,8 +1,10 @@
 "use client"
 
 import { useState, useEffect } from 'react';
+import React from 'react';
 import SearchBar from './components/SearchBar';
 import CourseCard from './components/CourseCard';
+import AdComponent from './components/AdComponent';
 import { Course } from '../types/Course';
 
 export default function HomePage() {
@@ -117,9 +119,14 @@ export default function HomePage() {
 
       {/* 코스 목록 렌더링 */}
       <div className="course-list mt-4 space-y-4">
-        {courses.map((course) => (
-          <CourseCard key={course._id} course={course} />
+        {courses.map((course, index) => (
+          <React.Fragment key={course._id}>
+            <CourseCard course={course} />
+            {/* 예시: 각 네 번째 아이템마다 광고 삽입 */}
+            {(index + 1) % 4 === 0 && <AdComponent />}
+          </React.Fragment>
         ))}
+        <AdComponent /> {/* 목록의 맨 끝에 광고 삽입 */}
       </div>
 
       {/* "더보기" 버튼 */}
