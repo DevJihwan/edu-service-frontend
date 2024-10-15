@@ -122,11 +122,11 @@ export default function HomePage() {
         {courses.map((course, index) => (
           <React.Fragment key={course._id}>
             <CourseCard course={course} />
-            {/* 예시: 각 네 번째 아이템마다 광고 삽입 */}
-            {(index + 1) % 4 === 0 && <AdComponent />}
+            {/* 예시: 각 네 번째 아이템마다 광고 삽입 
+            {(index + 1) % 4 === 0 && <AdComponent />}*/}
           </React.Fragment>
         ))}
-        <AdComponent /> {/* 목록의 맨 끝에 광고 삽입 */}
+        {/*<AdComponent />  목록의 맨 끝에 광고 삽입 */}
       </div>
 
       {/* "더보기" 버튼 */}

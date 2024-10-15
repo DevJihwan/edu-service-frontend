@@ -25,8 +25,9 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <Analytics />
         </main>
         <footer className="bg-gray-800 text-white p-4 text-center">
-          <p>현재 서울시 백화점 문화센터 정보만 제공하고 있습니다.</p>
+          <p>현재 서울시 백화점 문화센터 3곳, 대형마트 2곳 정보를 제공하고 있습니다.</p>
           <p>2024.10.10 서울 이마트 문화센터 정보가 추가되었습니다.</p>
+          <p>2024.10.15 서울 롯데마트 문화센터 정보가 추가되었습니다.</p>
         </footer>
       </body>
     </html>
