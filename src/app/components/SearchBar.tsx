@@ -2,6 +2,7 @@ import React from 'react';
 import { FaMapMarkerAlt, FaUsers } from 'react-icons/fa'; // 위치와 타겟 아이콘
 import { FiClock, FiClipboard } from 'react-icons/fi'; // 시간과 세션 아이콘
 import Select from 'react-select';
+import * as gtag from '../../lib/gtag';
 
 interface SearchBarProps {
   searchTerm: string;
@@ -100,24 +101,45 @@ export default function SearchBar({
           <FaUsers className="mr-2" /> 대상:
         </label>
         <div className="flex space-x-3">
-          <button
-            className={buttonClass(target === 'adult')}
-            onClick={() => setTarget('adult')}
-          >
-            성인
-          </button>
-          <button
-            className={buttonClass(target === 'child')}
-            onClick={() => setTarget('child')}
-          >
-            유아 어린이
-          </button>
-          <button
-            className={buttonClass(target === 'family')}
-            onClick={() => setTarget('family')}
-          >
-            엄마랑 아기랑
-          </button>
+        <button
+          className={buttonClass(target === 'adult')}
+          onClick={() => {
+            setTarget('adult');
+            gtag.event({
+              action: 'select_target',
+              category: 'search_bar',
+              label: 'adult',
+            });
+          }}
+        >
+          성인
+        </button>
+        <button
+          className={buttonClass(target === 'child')}
+          onClick={() => {
+            setTarget('child');
+            gtag.event({
+              action: 'select_target',
+              category: 'search_bar',
+              label: 'child',
+            });
+          }}
+        >
+          유아 어린이
+        </button>
+        <button
+          className={buttonClass(target === 'family')}
+          onClick={() => {
+            setTarget('family');
+            gtag.event({
+              action: 'select_target',
+              category: 'search_bar',
+              label: 'family',
+            });
+          }}
+        >
+          엄마랑 아기랑
+        </button>
         </div>
       </div>
 
@@ -139,6 +161,11 @@ export default function SearchBar({
                   } else {
                     return [...prevTime, timeSlot];
                   }
+                });
+                gtag.event({
+                  action: 'select_time',
+                  category: 'search_bar',
+                  label: timeSlot,
                 });
               }}
             >
@@ -166,34 +193,62 @@ export default function SearchBar({
           <FiClipboard className="mr-2" /> 강좌:
         </label>
         <div className="flex space-x-3">
-          <button
-            className={buttonClass(sessionType === 'all')}
-            onClick={() => setSessionType('all')}
-          >
-            All
-          </button>
-          <button
-            className={buttonClass(sessionType === 'oneday')}
-            onClick={() => setSessionType('oneday')}
-          >
-            1일 체험
-          </button>
-          <button
-            className={buttonClass(sessionType === 'regular')}
-            onClick={() => setSessionType('regular')}
-          >
-            정규 강좌
-          </button>
+        <button
+          className={buttonClass(sessionType === 'all')}
+          onClick={() => {
+            setSessionType('all');
+            gtag.event({
+              action: 'select_session_type',
+              category: 'search_bar',
+              label: 'all',
+            });
+          }}
+        >
+          All
+        </button>
+        <button
+          className={buttonClass(sessionType === 'oneday')}
+          onClick={() => {
+            setSessionType('oneday');
+            gtag.event({
+              action: 'select_session_type',
+              category: 'search_bar',
+              label: 'oneday',
+            });
+          }}
+        >
+          1일 체험
+        </button>
+        <button
+          className={buttonClass(sessionType === 'regular')}
+          onClick={() => {
+            setSessionType('regular');
+            gtag.event({
+              action: 'select_session_type',
+              category: 'search_bar',
+              label: 'regular',
+            });
+          }}
+        >
+          정규 강좌
+        </button>
         </div>
       </div>
 
       {/* 검색 버튼 */}
       <button
-        onClick={handleSearch}
-        className="mt-4 p-3 bg-gradient-to-r from-purple-500 to-blue-500 text-white w-full rounded-lg shadow-lg hover:from-purple-600 hover:to-blue-600 transition-all duration-200"
-      >
-        찾아보기
-      </button>
+  onClick={() => {
+    handleSearch();
+    gtag.event({
+      action: 'click_search',
+      category: 'search_bar',
+      label: 'search_button',
+    });
+  }}
+  className="mt-4 p-3 bg-gradient-to-r from-purple-500 to-blue-500 text-white w-full rounded-lg shadow-lg hover:from-purple-600 hover:to-blue-600 transition-all duration-200"
+>
+  찾아보기
+</button>
     </div>
   );
 }
