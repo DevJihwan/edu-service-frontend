@@ -1,6 +1,7 @@
 import './styles/globals.css';
 import { ReactNode } from 'react';
 import { Analytics } from "@vercel/analytics/react"
+import Script from 'next/script';
 
 export const metadata = {
   title: 'Edu Service',
@@ -18,9 +19,22 @@ export default function RootLayout({ children }: { children: ReactNode }) {
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
             data-ad-client="ca-pub-YourAdClientID" // 자신의 AdSense Publisher ID로 교체
-          ></script>
+          ></script>          
         </header>
         <main className="container mx-auto p-4">
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-L46YDFSP56"></script>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-L46YDFSP56"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-L46YDFSP56');
+          `}
+        </Script>
           {children}
           <Analytics />
         </main>
