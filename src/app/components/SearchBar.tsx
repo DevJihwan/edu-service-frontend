@@ -44,7 +44,28 @@ export default function SearchBar({
 
   const regionOptions = [
     { value: 'gangnam', label: '강남구' },
-    // ... 나머지 지역 옵션들 ...
+    { value: 'gangdong', label: '강동구' },
+    { value: 'gangbuk', label: '강북구' },
+    { value: 'gangseo', label: '강서구' },
+    { value: 'gwanak', label: '관악구' },
+    { value: 'gwangjin', label: '광진구' },
+    { value: 'guro', label: '구로구' },
+    { value: 'geumcheon', label: '금천구' },
+    { value: 'nowon', label: '노원구' },
+    { value: 'dobong', label: '도봉구' },
+    { value: 'dongdaemun', label: '동대문구' },
+    { value: 'dongjak', label: '동작구' },
+    { value: 'mapo', label: '마포구' },
+    { value: 'seodaemun', label: '서대문구' },
+    { value: 'seocho', label: '서초구' },
+    { value: 'seongdong', label: '성동구' },
+    { value: 'seongbuk', label: '성북구' },
+    { value: 'songpa', label: '송파구' },
+    { value: 'yangcheon', label: '양천구' },
+    { value: 'yeongdeungpo', label: '영등포구' },
+    { value: 'yongsan', label: '용산구' },
+    { value: 'eunpyeong', label: '은평구' },
+    { value: 'jung', label: '중구' },
     { value: 'jungnang', label: '중랑구' },
   ];
 
