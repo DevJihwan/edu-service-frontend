@@ -10,17 +10,6 @@ export const pageview = (url: string) => {
 };
 
 // 이벤트 추적 함수
-type GTagEvent = {
-  action: string;
-  category?: string;
-  label?: string;
-  value?: number;
-};
-
-export const event = ({ action, category, label, value }: GTagEvent) => {
-  window.gtag('event', action, {
-    event_category: category,
-    event_label: label,
-    value: value,
-  });
+export const event = (action: string, params: Record<string, any>) => {
+  window.gtag('event', action, params);
 };
